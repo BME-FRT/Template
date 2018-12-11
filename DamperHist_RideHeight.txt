@@ -1,0 +1,2793 @@
+[fAnaGeneral]
+frmLeft=549
+frmTop=252
+frmWidth=340
+frmHeight=294
+frmLeftRel=329239
+frmTopRel=117544
+frmWidthRel=203900
+frmHeightRel=212011
+frmWindowState=0
+frmTimeStamp=2018. 12. 08. 23:39:26
+frmVersion=2
+
+[fAnalyzer]
+frmVisible=0
+frmLeft=0
+frmTop=0
+frmWidth=1366
+frmHeight=89
+frmWindowState=0
+tbMain.DockedTo=1
+tbMain.DockRow=0
+tbMain.DockPos=0
+tbMain.Left=0
+tbMain.Top=0
+tbMain.FloatingWidth=0
+tbMainMeasurement.DockedTo=1
+tbMainMeasurement.DockRow=0
+tbMainMeasurement.DockPos=767
+tbMainMeasurement.Left=767
+tbMainMeasurement.Top=0
+tbMainMeasurement.FloatingWidth=0
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=819200
+frmHeightRel=56334
+frmTimeStamp=2018. 12. 08. 23:39:26
+frmVersion=2
+Show status=0
+Includes channel limits=1
+
+[fAnalyzerProperties]
+frmLeft=412
+frmTop=230
+frmWidth=401
+frmHeight=257
+frmLeftRel=329600
+frmTopRel=106872
+frmWidthRel=320800
+frmHeightRel=178352
+frmWindowState=0
+frmTimeStamp="06.12.2001 12:08:30"
+frmVersion=2
+frmVisible=0
+
+[fCalcShow]
+frmLeft=821
+frmTop=253
+frmWidth=1128
+frmHeight=901
+frmLeftRel=233529
+frmTopRel=38777
+frmWidthRel=320853
+frmHeightRel=255025
+frmWindowState=0
+frmTimeStamp=09.02.2013 17:50:47
+frmVersion=2
+frmVisible=0
+
+[fCalcShow_1]
+frmLeft=365
+frmTop=162
+frmWidth=501
+frmHeight=501
+frmLeftRel=233600
+frmTopRel=38697
+frmWidthRel=320640
+frmHeightRel=255095
+frmWindowState=0
+frmTimeStamp="08.03.2004 18:41:39"
+frmVersion=2
+frmVisible=0
+
+[fCalcShow_2]
+frmLeft=365
+frmTop=162
+frmWidth=501
+frmHeight=501
+frmLeftRel=233600
+frmTopRel=38697
+frmWidthRel=320640
+frmHeightRel=255095
+frmWindowState=0
+frmTimeStamp="08.03.2004 18:41:39"
+frmVersion=2
+frmVisible=0
+
+[fCalFile]
+frmLeft=53
+frmTop=158
+frmWidth=881
+frmHeight=619
+frmLeftRel=22613
+frmTopRel=33433
+frmWidthRel=375893
+frmHeightRel=299932
+frmWindowState=0
+frmTimeStamp=10/5/2018 2:49:11 PM
+frmVersion=2
+frmVisible=0
+grdCalEvent.ColWidths[0]=40
+grdCalEvent.ColWidths[1]=200
+grdCalMeasurement.ColWidths[0]=40
+grdCalMeasurement.ColWidths[1]=200
+gbChannelsRecalc.Width=181
+gbChannelsRecalc.Height=169
+grdCalDataRoot.ColWidths[0]=40
+grdCalDataRoot.ColWidths[1]=200
+grdCalRaceSoftware.ColWidths[0]=40
+grdCalRaceSoftware.ColWidths[1]=200
+Show preview=0
+Preview width=181
+grdCalDataRootNew.ColWidths[0]=76
+grdCalDataRootNew.ColWidths[1]=200
+grdCalEventNew.ColWidths[0]=76
+grdCalEventNew.ColWidths[1]=200
+grdCalMeasurementNew.ColWidths[0]=76
+grdCalMeasurementNew.ColWidths[1]=200
+grdCalRaceSoftwareNew.ColWidths[0]=76
+grdCalRaceSoftwareNew.ColWidths[1]=200
+grdCalSWSubFolderNew.ColWidths[0]=76
+grdCalSWSubFolderNew.ColWidths[1]=200
+
+[fChannelShortNumber]
+frmVisible=0
+frmLeft=448
+frmTop=252
+frmWidth=239
+frmHeight=124
+frmLeftRel=229376
+frmTopRel=99504
+frmWidthRel=122368
+frmHeightRel=48962
+frmWindowState=0
+frmTimeStamp="17.07.01 08:57:35"
+
+[fChassis]
+frmLeft=914
+frmTop=353
+frmWidth=557
+frmHeight=436
+frmLeftRel=467968
+frmTopRel=139385
+frmWidthRel=285184
+frmHeightRel=172158
+frmWindowState=0
+frmTimeStamp="17.07.01 08:57:35"
+frmVisible=0
+
+[fCheckListChoose]
+frmVisible=0
+frmLeft=660
+frmTop=418
+frmWidth=279
+frmHeight=364
+frmLeftRel=337920
+frmTopRel=165051
+frmWidthRel=142848
+frmHeightRel=143729
+frmWindowState=0
+frmTimeStamp="09.07.01 17:47:25"
+
+[fCircuit]
+frmVisible=0
+frmLeft=2501
+frmTop=1432
+frmWidth=379
+frmHeight=312
+frmLeftRel=711396
+frmTopRel=372544
+frmWidthRel=107804
+frmHeightRel=88256
+frmWindowState=0
+frmTimeStamp=04.04.2014 10:40:10
+Offset input=0
+Background color=12632256
+Track color=16711935
+Selection color=65535
+frmVersion=2
+Positions size=2
+No border=1
+Opacity=255
+Transparent=0
+
+[fCircuitProperties]
+frmVisible=0
+frmLeft=422
+frmTop=237
+frmWidth=439
+frmHeight=387
+frmLeftRel=337600
+frmTopRel=142200
+frmWidthRel=351200
+frmHeightRel=232200
+frmWindowState=0
+frmTimeStamp="06.07.2001 16:53:15"
+
+[fColorScale]
+frmLeft=0
+frmTop=0
+frmWidth=219
+frmHeight=404
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=112128
+frmHeightRel=159523
+frmWindowState=0
+frmTimeStamp="13.07.01 14:21:25"
+
+[fDialog]
+frmLeft=611
+frmTop=309
+frmWidth=321
+frmHeight=145
+frmLeftRel=297935
+frmTopRel=113987
+frmWidthRel=156526
+frmHeightRel=70333
+frmWindowState=0
+frmTimeStamp=12/10/2011 14:10:05
+frmVersion=2
+frmVisible=0
+
+[fEditChannel]
+frmLeft=424
+frmTop=238
+frmWidth=397
+frmHeight=372
+frmLeftRel=217088
+frmTopRel=93976
+frmWidthRel=203264
+frmHeightRel=146887
+frmWindowState=0
+frmTimeStamp="27.07.01 15:26:30"
+frmVisible=0
+Permanent=1
+
+[fEditGroupMembers]
+frmLeft=469
+frmTop=215
+frmWidth=219
+frmHeight=364
+frmLeftRel=240128
+frmTopRel=84895
+frmWidthRel=112128
+frmHeightRel=143729
+frmWindowState=0
+frmTimeStamp="27.07.01 14:20:16"
+frmVisible=0
+
+[fEditText]
+frmVisible=0
+frmLeft=392
+frmTop=294
+frmWidth=239
+frmHeight=179
+frmWindowState=0
+
+[fEqualizeChannelLimits]
+frmLeft=565
+frmTop=259
+frmWidth=459
+frmHeight=298
+frmLeftRel=241067
+frmTopRel=82372
+frmWidthRel=195840
+frmHeightRel=144394
+frmWindowState=0
+frmTimeStamp=10/5/2018 2:37:58 PM
+frmVersion=2
+frmVisible=0
+
+[fExport]
+frmLeft=380
+frmTop=140
+frmWidth=479
+frmHeight=499
+frmLeftRel=304000
+frmTopRel=44414
+frmWidthRel=383200
+frmHeightRel=346294
+frmWindowState=0
+frmTimeStamp="06.12.2001 12:12:49"
+frmVersion=2
+frmVisible=0
+
+[fFFT]
+Background color=-2147483633
+Chart background color=16776960
+Stay on top=1
+Paint immediately=1
+
+[fFFT1]
+frmLeft=0
+frmTop=662
+frmWidth=548
+frmHeight=365
+frmLeftRel=0
+frmTopRel=286047
+frmWidthRel=320658
+frmHeightRel=178169
+frmWindowState=0
+frmTimeStamp="09.03.2007 07:29:15"
+frmVersion=2
+frmVisible=0
+
+[fFFT2]
+frmLeft=0
+frmTop=464
+frmWidth=523
+frmHeight=375
+frmLeftRel=0
+frmTopRel=189397
+frmWidthRel=306030
+frmHeightRel=183051
+frmWindowState=0
+frmTimeStamp="09.03.2007 07:29:15"
+frmVersion=2
+frmVisible=0
+
+[fGeneral]
+frmLeft=536
+frmTop=241
+frmWidth=340
+frmHeight=278
+frmWindowState=0
+frmLeftRel=321443
+frmTopRel=109611
+frmWidthRel=203900
+frmHeightRel=200473
+frmTimeStamp=2018. 12. 08. 23:39:26
+frmVersion=2
+
+[fLapReport]
+frmLeft=111
+frmTop=170
+frmWidth=781
+frmHeight=401
+frmLeftRel=71040
+frmTopRel=42770
+frmWidthRel=499840
+frmHeightRel=204178
+frmWindowState=0
+frmTimeStamp="12.03.2004 17:22:28"
+frmVersion=2
+frmVisible=0
+grdCorners.ColWidths[0]=128
+grdCorners.ColWidths[1]=48
+grdCorners.ColWidths[2]=48
+grdCorners.ColWidths[3]=48
+grdCorners.ColWidths[4]=48
+grdCorners.ColWidths[5]=48
+grdCorners.ColWidths[6]=48
+grdCorners.ColWidths[7]=48
+grdCorners.ColWidths[8]=48
+grdCorners.ColWidths[9]=48
+
+[fLaps]
+frmVisible=0
+frmLeft=563
+frmTop=368
+frmWidth=704
+frmHeight=295
+frmLeftRel=329435
+frmTopRel=142536
+frmWidthRel=411941
+frmHeightRel=144000
+frmWindowState=0
+frmTimeStamp=09.08.2007 17:55:16
+frmVersion=2
+
+[fListChoose]
+frmVisible=0
+frmLeft=1172
+frmTop=418
+frmWidth=279
+frmHeight=364
+frmWindowState=0
+frmLeftRel=600064
+frmTopRel=165051
+frmWidthRel=142848
+frmHeightRel=143729
+frmTimeStamp="27.07.01 15:13:49"
+
+[fMeasurement]
+frmLeft=343
+frmTop=90
+frmWidth=631
+frmHeight=569
+frmLeftRel=274400
+frmTopRel=9716
+frmWidthRel=504800
+frmHeightRel=394872
+frmWindowState=0
+frmTimeStamp="06.12.2001 12:12:49"
+grdChannels.ColWidths[0]=32
+grdChannels.ColWidths[1]=120
+grdChannels.ColWidths[2]=32
+grdChannels.ColWidths[3]=32
+grdChannels.ColWidths[4]=32
+grdChannels.ColWidths[5]=32
+grdChannels.ColWidths[6]=32
+grdChannels.ColWidths[7]=32
+grdChannels.ColWidths[8]=32
+grdChannels.ColWidths[9]=32
+grdChannels.ColWidths[10]=32
+grdGroups.ColWidths[0]=96
+grdGroups.ColWidths[1]=41
+grdGroups.ColWidths[2]=313
+grdGroups.ColWidths[3]=29
+grdGroups.ColWidths[4]=40
+gbChannels.Width=615
+gbChannels.Height=430
+frmVisible=0
+frmVersion=2
+grdChannels.ColWidths[11]=32
+grdChannels.ColWidths[12]=64
+grdChannels.ColWidths[13]=28
+
+[fMeasuringValues]
+frmVisible=0
+frmLeft=1016
+frmTop=126
+frmWidth=312
+frmHeight=219
+frmLeftRel=609302
+frmTopRel=26682
+frmWidthRel=187109
+frmHeightRel=157927
+frmWindowState=0
+frmTimeStamp=2018. 12. 08. 23:39:27
+Position data visible=1
+AutoScale=1
+Relative values=0
+grdMeasuring.ColWidths[0]=149
+grdMeasuring.ColWidths[1]=141
+grdMeasuring.ColWidths[2]=80
+grdMeasuring.ColWidths[3]=60
+frmVersion=2
+grdMeasuring.ColWidths[4]=80
+grdMeasuring.ColWidths[5]=80
+grdMeasuring.ColWidths[6]=80
+grdMeasuring.ColWidths[7]=80
+
+[fMinMaxTable]
+frmVisible=0
+AreaGrid0.ColWidths[0]=64
+AreaGrid0.ColWidths[1]=60
+AreaGrid0.ColWidths[2]=36
+AreaGrid0.ColWidths[3]=64
+AreaGrid0.ColWidths[4]=64
+AreaGrid0.ColWidths[5]=64
+frmLeft=315
+frmTop=192
+frmWidth=531
+frmHeight=588
+frmLeftRel=161280
+frmTopRel=75813
+frmWidthRel=271872
+frmHeightRel=232177
+frmWindowState=0
+frmTimeStamp="27.07.01 12:56:51"
+No InOut=0
+AreaGrid0.ColWidths[6]=64
+AreaGrid0.ColWidths[7]=64
+AreaGrid0.ColWidths[8]=64
+
+[fMinMaxTable1]
+frmLeft=122
+frmTop=313
+frmWidth=756
+frmHeight=257
+frmLeftRel=78080
+frmTopRel=115582
+frmWidthRel=483840
+frmHeightRel=130857
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:42:40"
+frmVersion=2
+frmVisible=0
+Button bar=1
+SettingsFileName="mm Overall.mms"
+Show graphics=1
+
+[fMinMaxTable2]
+frmLeft=243
+frmTop=184
+frmWidth=561
+frmHeight=185
+frmLeftRel=155520
+frmTopRel=49899
+frmWidthRel=359040
+frmHeightRel=94197
+frmWindowState=0
+frmTimeStamp="17.01.2005 12:16:32"
+frmVersion=2
+frmVisible=0
+Button bar=1
+SettingsFileName="mm Suspension.mms"
+Show graphics=1
+
+[fMinMaxTable3]
+frmLeft=-153
+frmTop=255
+frmWidth=500
+frmHeight=205
+frmLeftRel=-97920
+frmTopRel=86050
+frmWidthRel=320000
+frmHeightRel=104380
+frmWindowState=0
+frmTimeStamp="04.03.2004 18:39:13"
+frmVersion=2
+frmVisible=0
+Button bar=1
+SettingsFileName="RPM.mms"
+
+[fMinMaxTable5]
+frmLeft=243
+frmTop=184
+frmWidth=995
+frmHeight=293
+frmLeftRel=142190
+frmTopRel=52719
+frmWidthRel=582217
+frmHeightRel=143024
+frmWindowState=0
+frmTimeStamp="19.05.2007 16:57:35"
+frmVersion=2
+frmVisible=0
+Button bar=1
+Show graphics=1
+SettingsFileName="6Ax.mms"
+
+[fMultiCircuit]
+frmLeft=740
+frmTop=89
+frmWidth=626
+frmHeight=517
+frmLeftRel=443783
+frmTopRel=0
+frmWidthRel=375417
+frmHeightRel=372823
+frmWindowState=0
+frmTimeStamp=2018. 12. 08. 23:39:27
+frmVersion=2
+frmVisible=0
+Background color=16777215
+twXYPlot.Left=0
+twXYPlot.Top=0
+Show grid=0
+Tool window following=1
+twXYPlot.DockedTo=1
+Display GPS map image=1
+Display extended selection=0
+Use GPS=1
+AutoCenter=1
+Show total map=0
+Total map size=1
+Color scale position=2
+No border=0
+Opacity=255
+Transparent=0
+Show defined GPS positions=1
+
+[fMVProperties]
+frmVisible=0
+frmLeft=407
+frmTop=239
+frmWidth=401
+frmHeight=257
+frmLeftRel=208384
+frmTopRel=94371
+frmWidthRel=205312
+frmHeightRel=101479
+frmWindowState=0
+frmTimeStamp="09.07.01 17:46:39"
+
+[fOptions]
+frmLeft=352
+frmTop=168
+frmWidth=401
+frmHeight=425
+frmLeftRel=180224
+frmTopRel=28150
+frmWidthRel=205312
+frmHeightRel=184060
+frmWindowState=0
+frmTimeStamp="31.07.01 10:34:28"
+frmVisible=0
+frmVersion=2
+
+[fOverview2]
+frmVisible=1
+frmLeft=0
+frmTop=842
+frmWidth=1459
+frmHeight=182
+frmWindowState=0
+frmLeftRel=0
+frmTopRel=372520
+frmWidthRel=711436
+frmHeightRel=88280
+frmTimeStamp=12/10/2011 14:59:45
+frmVersion=2
+Ov_frmVisible=1
+
+[fOverview3]
+frmVisible=1
+frmLeft=0
+frmTop=842
+frmWidth=1439
+frmHeight=182
+frmLeftRel=0
+frmTopRel=372520
+frmWidthRel=701684
+frmHeightRel=88280
+frmWindowState=0
+frmTimeStamp=08/12/2010 15:04:32
+frmVersion=2
+Ov_frmVisible=1
+
+[fOverview4]
+frmVisible=0
+frmLeft=3
+frmTop=841
+frmWidth=1229
+frmHeight=198
+frmLeftRel=1755
+frmTopRel=373424
+frmWidthRel=719141
+frmHeightRel=96651
+frmWindowState=0
+frmTimeStamp=11.03.2008 10:15:15
+frmVersion=2
+
+[fOverview5]
+frmVisible=0
+frmLeft=0
+frmTop=838
+frmWidth=1233
+frmHeight=197
+frmLeftRel=0
+frmTopRel=371959
+frmWidthRel=721481
+frmHeightRel=96163
+frmWindowState=0
+frmTimeStamp="19.05.2007 16:57:45"
+frmVersion=2
+
+[fOverview6]
+frmVisible=0
+frmLeft=3
+frmTop=836
+frmWidth=1232
+frmHeight=203
+frmLeftRel=1755
+frmTopRel=370983
+frmWidthRel=720896
+frmHeightRel=99092
+frmWindowState=0
+frmTimeStamp="19.05.2007 16:53:56"
+frmVersion=2
+
+[fOverview7]
+frmVisible=0
+frmLeft=6
+frmTop=837
+frmWidth=1231
+frmHeight=208
+frmLeftRel=3511
+frmTopRel=371471
+frmWidthRel=720311
+frmHeightRel=101532
+frmWindowState=0
+frmTimeStamp="19.05.2007 16:46:09"
+frmVersion=2
+
+[fOverview8]
+frmVisible=1
+frmLeft=8
+frmTop=959
+frmWidth=1408
+frmHeight=234
+frmLeftRel=4096
+frmTopRel=370719
+frmWidthRel=720896
+frmHeightRel=101341
+frmWindowState=0
+frmTimeStamp="31.07.01 10:37:01"
+frmVersion=2
+
+[fOverview9]
+frmVisible=1
+frmLeft=6
+frmTop=962
+frmWidth=1409
+frmHeight=221
+frmLeftRel=3072
+frmTopRel=372018
+frmWidthRel=721408
+frmHeightRel=95711
+frmWindowState=0
+frmTimeStamp="31.07.01 10:37:01"
+frmVersion=2
+
+[fOvPaProperties]
+frmVisible=0
+frmLeft=422
+frmTop=237
+frmWidth=439
+frmHeight=327
+frmWindowState=0
+frmLeftRel=340480
+frmTopRel=73049
+frmWidthRel=224768
+frmHeightRel=131093
+frmTimeStamp="09.07.01 18:18:06"
+
+[fPhasesType]
+frmLeft=999
+frmTop=458
+frmWidth=239
+frmHeight=408
+frmLeftRel=284160
+frmTopRel=97025
+frmWidthRel=67982
+frmHeightRel=115412
+frmWindowState=0
+frmTimeStamp=04.04.2014 10:57:40
+frmVersion=2
+frmVisible=0
+
+[fQuickChannels]
+frmLeft=293
+frmTop=202
+frmWidth=615
+frmHeight=457
+frmLeftRel=187520
+frmTopRel=59064
+frmWidthRel=393600
+frmHeightRel=232691
+frmWindowState=0
+frmTimeStamp="15.03.2004 10:59:32"
+frmVersion=2
+frmVisible=0
+View type=1
+
+[fQuickKey]
+frmVisible=0
+frmLeft=620
+frmTop=412
+frmWidth=159
+frmHeight=226
+frmWindowState=0
+frmLeftRel=362789
+frmTopRel=164014
+frmWidthRel=93038
+frmHeightRel=110319
+frmTimeStamp=12.10.2007 06:28:17
+frmVersion=2
+
+[fSaveSetting]
+frmLeft=369
+frmTop=181
+frmWidth=299
+frmHeight=398
+frmLeftRel=221292
+frmTopRel=66344
+frmWidthRel=179312
+frmHeightRel=287008
+frmWindowState=0
+frmTimeStamp=2018. 12. 08. 23:35:18
+frmVersion=2
+frmVisible=0
+
+[fSectionTimes1]
+frmLeft=316
+frmTop=226
+frmWidth=708
+frmHeight=387
+frmLeftRel=202240
+frmTopRel=71284
+frmWidthRel=453120
+frmHeightRel=197049
+frmWindowState=0
+frmTimeStamp="15.03.2004 16:01:38"
+frmVersion=2
+frmVisible=0
+grdSectionTimes.ColWidths[0]=80
+grdSectionTimes.ColWidths[1]=80
+grdSectionTimes.ColWidths[2]=80
+grdSectionTimes.ColWidths[3]=80
+grdSectionTimes.ColWidths[4]=80
+grdSectionTimes.ColWidths[5]=80
+
+[fSetChannelValues]
+frmVisible=0
+frmLeft=407
+frmTop=239
+frmWidth=319
+frmHeight=192
+frmLeftRel=208384
+frmTopRel=94371
+frmWidthRel=163328
+frmHeightRel=75813
+frmWindowState=0
+frmTimeStamp="09.07.01 17:16:45"
+
+[fShowKitSystemBitmap]
+frmLeft=105
+frmTop=61
+frmWidth=835
+frmHeight=618
+frmLeftRel=67200
+frmTopRel=-12729
+frmWidthRel=534400
+frmHeightRel=314668
+frmWindowState=0
+frmTimeStamp="08.02.2005 19:01:37"
+frmVersion=2
+frmVisible=0
+
+[fSpecialChannels]
+frmVisible=0
+frmLeft=770
+frmTop=409
+frmWidth=279
+frmHeight=284
+frmWindowState=0
+frmLeftRel=394240
+frmTopRel=161497
+frmWidthRel=142848
+frmHeightRel=112140
+frmTimeStamp="09.07.01 17:16:45"
+
+[fStatusWindow]
+frmLeft=964
+frmTop=166
+frmWidth=368
+frmHeight=185
+frmLeftRel=578118
+frmTopRel=55527
+frmWidthRel=220692
+frmHeightRel=133408
+frmWindowState=0
+frmTimeStamp=2018. 12. 08. 23:39:26
+frmVersion=2
+frmVisible=0
+
+[fTemplates]
+frmVisible=0
+frmLeft=307
+frmTop=195
+frmWidth=465
+frmHeight=334
+frmLeftRel=245600
+frmTopRel=82583
+frmWidthRel=372000
+frmHeightRel=231788
+frmWindowState=0
+frmTimeStamp="06.12.2001 12:12:49"
+grdTemplates.ColWidths[0]=64
+grdTemplates.ColWidths[1]=301
+grdTemplates.ColWidths[2]=64
+frmVersion=2
+
+[fTrackMode]
+frmVisible=0
+frmLeft=294
+frmTop=317
+frmWidth=883
+frmHeight=637
+frmLeftRel=150528
+frmTopRel=125170
+frmWidthRel=452096
+frmHeightRel=251525
+frmWindowState=0
+frmTimeStamp="17.07.01 08:57:35"
+Background color=0
+Section frame color=65280
+Corner frame color=16776960
+Phases start frame color=16711680
+Phases end frame color=8388608
+User frame color=65535
+Section text color=65280
+Corner text color=16776960
+Meter textcolor=16711935
+Time text color=32896
+Font.Name="MS Serif"
+Font.Size=14
+Font.Style=""
+Show sections=1
+Show corners=1
+Show phases start=1
+Show phases end=0
+Show user=0
+Inscript section=1
+Inscript corner=1
+Inscript meter=1
+Inscript time=0
+Inscript dimension=1
+Positions size=5
+Background=12632256
+Section color=0
+Stay on top=1
+
+[fTrackMode1]
+frmLeft=146
+frmTop=173
+frmWidth=989
+frmHeight=681
+frmLeftRel=93440
+frmTopRel=44298
+frmWidthRel=632960
+frmHeightRel=346746
+frmWindowState=0
+frmTimeStamp="08.02.2005 19:01:37"
+frmVersion=2
+frmVisible=0
+SettingsFileName="tm Brake.tms"
+
+[fTrackModeSettings]
+frmLeft=357
+frmTop=233
+frmWidth=401
+frmHeight=336
+frmLeftRel=182784
+frmTopRel=92002
+frmWidthRel=205312
+frmHeightRel=132672
+frmWindowState=0
+frmTimeStamp="13.07.01 14:21:25"
+
+[fUser]
+frmLeft=429
+frmTop=192
+frmWidth=465
+frmHeight=334
+frmLeftRel=343200
+frmTopRel=80501
+frmWidthRel=372000
+frmHeightRel=231788
+frmWindowState=0
+frmTimeStamp="06.12.2001 12:12:49"
+frmVersion=2
+frmVisible=0
+
+[fVisibleWindows]
+frmLeft=346
+frmTop=45
+frmWidth=256
+frmHeight=517
+frmLeftRel=221440
+frmTopRel=-20876
+frmWidthRel=163840
+frmHeightRel=263242
+frmWindowState=0
+frmTimeStamp="04.03.2004 18:39:16"
+frmVisible=0
+frmVersion=2
+
+[fWhatsNew]
+frmLeft=27
+frmTop=365
+frmWidth=401
+frmHeight=385
+frmLeftRel=21600
+frmTopRel=219000
+frmWidthRel=320800
+frmHeightRel=231000
+frmWindowState=0
+frmTimeStamp="06.07.2001 16:54:54"
+frmVisible=0
+
+[fWindowList]
+frmVisible=0
+frmLeft=1300
+frmTop=86
+frmWidth=66
+frmHeight=519
+frmWindowState=0
+frmLeftRel=779619
+frmTopRel=-2163
+frmWidthRel=39581
+frmHeightRel=374265
+frmTimeStamp=2018. 12. 08. 23:39:26
+frmVersion=2
+
+[fXYPlot]
+Stay on top=1
+
+[fXYPlot0_1]
+frmLeft=240
+frmTop=219
+frmWidth=896
+frmHeight=620
+frmLeftRel=140434
+frmTopRel=69803
+frmWidthRel=524288
+frmHeightRel=302644
+frmWindowState=2
+frmTimeStamp=07.08.2007 16:58:28
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=31
+twColorScale.Width=121
+twColorScale.Height=135
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+
+[fXYPlot11_1]
+frmLeft=291
+frmTop=284
+frmWidth=566
+frmHeight=472
+frmLeftRel=170277
+frmTopRel=101532
+frmWidthRel=331191
+frmHeightRel=230400
+frmWindowState=0
+frmTimeStamp="20.05.2007 11:08:49"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot11_2]
+frmLeft=311
+frmTop=398
+frmWidth=566
+frmHeight=472
+frmLeftRel=181979
+frmTopRel=157180
+frmWidthRel=331191
+frmHeightRel=230400
+frmWindowState=0
+frmTimeStamp="20.05.2007 11:08:49"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot15_1]
+frmLeft=0
+frmTop=76
+frmWidth=696
+frmHeight=719
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=407259
+frmHeightRel=350969
+frmWindowState=0
+frmTimeStamp="20.05.2007 11:17:08"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot23_1]
+frmLeft=251
+frmTop=287
+frmWidth=610
+frmHeight=459
+frmLeftRel=160640
+frmTopRel=102343
+frmWidthRel=390400
+frmHeightRel=233710
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:41:29"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=846
+twXYPlot.Top=187
+Color scale visible=1
+twColorScale.Left=299
+twColorScale.Top=331
+twColorScale.Width=121
+twColorScale.Height=135
+
+[fXYPlot25_1]
+frmLeft=285
+frmTop=76
+frmWidth=813
+frmHeight=703
+frmLeftRel=166766
+frmTopRel=0
+frmWidthRel=475721
+frmHeightRel=343159
+frmWindowState=0
+frmTimeStamp="20.05.2007 10:13:57"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot28_1]
+frmLeft=285
+frmTop=221
+frmWidth=819
+frmHeight=629
+frmLeftRel=166766
+frmTopRel=70780
+frmWidthRel=479232
+frmHeightRel=307037
+frmWindowState=0
+frmTimeStamp="20.05.2007 11:18:52"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot2_1]
+frmLeft=324
+frmTop=152
+frmWidth=772
+frmHeight=687
+frmLeftRel=189586
+frmTopRel=37098
+frmWidthRel=451730
+frmHeightRel=335349
+frmWindowState=0
+frmTimeStamp=10.08.2007 17:09:43
+frmVersion=2
+Tools visible=1
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=31
+twColorScale.Width=121
+twColorScale.Height=131
+frmVisible=0
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+
+[fXYPlot30_1]
+frmLeft=268
+frmTop=272
+frmWidth=632
+frmHeight=514
+frmLeftRel=171520
+frmTopRel=94706
+frmWidthRel=404480
+frmHeightRel=261714
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:41:26"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=718
+twXYPlot.Top=321
+Color scale visible=1
+twColorScale.Left=528
+twColorScale.Top=320
+twColorScale.Width=121
+twColorScale.Height=135
+
+[fXYPlot32_1]
+frmLeft=251
+frmTop=287
+frmWidth=695
+frmHeight=543
+frmLeftRel=160640
+frmTopRel=102343
+frmWidthRel=444800
+frmHeightRel=276480
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:41:34"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=996
+twXYPlot.Top=390
+Color scale visible=1
+twColorScale.Left=787
+twColorScale.Top=599
+twColorScale.Width=121
+twColorScale.Height=135
+
+[fXYPlot33_1]
+frmLeft=50
+frmTop=16
+frmWidth=772
+frmHeight=737
+frmLeftRel=29257
+frmTopRel=-29288
+frmWidthRel=451730
+frmHeightRel=359756
+frmWindowState=0
+frmTimeStamp="20.05.2007 09:08:47"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=31
+twColorScale.Width=121
+twColorScale.Height=131
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+
+[fXYPlot34_1]
+frmLeft=251
+frmTop=287
+frmWidth=575
+frmHeight=562
+frmLeftRel=160640
+frmTopRel=102343
+frmWidthRel=368000
+frmHeightRel=286154
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:42:00"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=635
+twXYPlot.Top=324
+Color scale visible=1
+twColorScale.Left=297
+twColorScale.Top=321
+twColorScale.Width=121
+twColorScale.Height=135
+
+[fXYPlot35_1]
+frmLeft=28
+frmTop=290
+frmWidth=792
+frmHeight=642
+frmLeftRel=17920
+frmTopRel=103871
+frmWidthRel=506880
+frmHeightRel=326888
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:41:39"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=666
+twXYPlot.Top=315
+Color scale visible=1
+twColorScale.Left=695
+twColorScale.Top=772
+twColorScale.Width=121
+twColorScale.Height=135
+
+[fXYPlot39_1]
+frmLeft=90
+frmTop=22
+frmWidth=494
+frmHeight=540
+frmLeftRel=52663
+frmTopRel=-26359
+frmWidthRel=289061
+frmHeightRel=263593
+frmWindowState=0
+frmTimeStamp="19.05.2007 15:45:24"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot50_1]
+frmLeft=291
+frmTop=284
+frmWidth=813
+frmHeight=566
+frmLeftRel=170277
+frmTopRel=101532
+frmWidthRel=475721
+frmHeightRel=276285
+frmWindowState=2
+frmTimeStamp="20.05.2007 13:09:15"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot51_1]
+frmLeft=216
+frmTop=180
+frmWidth=813
+frmHeight=566
+frmLeftRel=126391
+frmTopRel=50766
+frmWidthRel=475721
+frmHeightRel=276285
+frmWindowState=0
+frmTimeStamp="20.05.2007 10:32:52"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot52_1]
+frmLeft=291
+frmTop=191
+frmWidth=813
+frmHeight=659
+frmLeftRel=170277
+frmTopRel=56136
+frmWidthRel=475721
+frmHeightRel=321681
+frmWindowState=0
+frmTimeStamp="20.05.2007 13:09:34"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot53_1]
+frmLeft=291
+frmTop=284
+frmWidth=813
+frmHeight=566
+frmLeftRel=170277
+frmTopRel=101532
+frmWidthRel=475721
+frmHeightRel=276285
+frmWindowState=0
+frmTimeStamp="20.05.2007 13:09:03"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot54_1]
+frmLeft=377
+frmTop=182
+frmWidth=671
+frmHeight=657
+frmLeftRel=220599
+frmTopRel=51742
+frmWidthRel=392631
+frmHeightRel=320705
+frmWindowState=0
+frmTimeStamp="20.05.2007 13:24:28"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot5_1]
+frmLeft=269
+frmTop=65
+frmWidth=708
+frmHeight=615
+frmLeftRel=131170
+frmTopRel=-4365
+frmWidthRel=345234
+frmHeightRel=298307
+frmWindowState=0
+frmTimeStamp=08/12/2010 14:26:44
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=31
+twColorScale.Width=121
+twColorScale.Height=131
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
+
+[fXYPlot6_1]
+frmLeft=740
+frmTop=89
+frmWidth=626
+frmHeight=516
+frmLeftRel=443783
+frmTopRel=0
+frmWidthRel=375417
+frmHeightRel=372101
+frmWindowState=2
+frmTimeStamp=2018. 12. 08. 23:22:45
+frmVersion=2
+frmVisible=0
+Tools visible=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=0
+twColorScale.Width=121
+twColorScale.Height=135
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
+
+[fXYPlot8_1]
+frmLeft=251
+frmTop=287
+frmWidth=695
+frmHeight=543
+frmLeftRel=160640
+frmTopRel=102343
+frmWidthRel=444800
+frmHeightRel=276480
+frmWindowState=0
+frmTimeStamp="17.03.2004 18:57:41"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=783
+twXYPlot.Top=325
+Color scale visible=1
+twColorScale.Left=811
+twColorScale.Top=435
+twColorScale.Width=121
+twColorScale.Height=135
+
+[fXYPlotGraphic]
+frmLeft=0
+frmTop=0
+frmWidth=439
+frmHeight=216
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=224768
+frmHeightRel=85289
+frmWindowState=0
+frmTimeStamp="13.07.01 14:21:25"
+
+[fXYPlotManager]
+frmLeft=599
+frmTop=264
+frmWidth=255
+frmHeight=236
+frmLeftRel=359225
+frmTopRel=126197
+frmWidthRel=152925
+frmHeightRel=170186
+frmWindowState=0
+frmTimeStamp=2018. 12. 08. 23:22:45
+frmVersion=2
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+frmVisible=0
+No border=0
+
+[fXYPlotManager11]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager15]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager25]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager28]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager33]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager39]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager50]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager51]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager52]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager53]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager54]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager_1]
+frmLeft=449
+frmTop=258
+frmWidth=191
+frmHeight=245
+frmLeftRel=287360
+frmTopRel=87577
+frmWidthRel=122240
+frmHeightRel=124747
+frmWindowState=0
+frmTimeStamp="08.02.2005 17:31:17"
+frmVersion=2
+frmVisible=0
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fZoomfactor]
+frmVisible=0
+frmLeft=402
+frmTop=234
+frmWidth=163
+frmHeight=264
+frmWindowState=0
+frmLeftRel=205824
+frmTopRel=92397
+frmWidthRel=83456
+frmHeightRel=104243
+frmTimeStamp="27.07.01 11:52:39"
+
+[MinMax groups]
+0="0"
+
+[Channel limits]
+VExt=0,20
+Tyre_L="5,200"
+Tyre_M="5,200"
+Tyre_R="5,200"
+FrontAcc="-10,10"
+Frontsus="-5,135"
+Airbox_P="700,760"
+Brake Re="0,15"
+Rearsus="-2.5,65"
+RearAcc="-10,10"
+Gyrox="-50,50"
+Tank_Temp="31,40"
+A_UD="0,18"
+A_FR="-18,13"
+A_LR="-10,10"
+ACC_Z=-15,15
+ACC_Y=-5,5
+ACC_X=-10,10
+Temp=0,100
+GYRO_Z="50,-50"
+GYRO_Y="-50,50"
+GYRO_X="50,-50"
+RSSI="-100,0"
+APS="-1,105"
+ETV_TH_F="-5,105"
+THR="-1,105"
+RPM=0,16000
+A/F1="11,16"
+A/F2="11,16"
+A/F3="11,16"
+A/F4="11,16"
+INJCOMP="0,100"
+TPSRATE_ACC="5,0"
+INJ2ND="0,110"
+INJMAP="0,6100"
+INJ#1 B="0,3600"
+INJ#2 B="0,3600"
+INJ#3 B="0,3600"
+INJ#4 B="0,3600"
+INJ#1 P="-5,6000"
+INJ#2 P="-5,6000"
+INJ#3 P="-5,6000"
+INJ#4 P="-5,6000"
+INJ#1 S="0,2900"
+INJ#2 S="0,2900"
+INJ#3 S="0,2900"
+INJ#4 S="0,2900"
+IGT#1="20,55"
+IGT#2="20,55"
+IGT#3="20,55"
+IGT#4="20,55"
+IGNMAP="0,100"
+APSRATE_ACC="0,4"
+SPIN IG COMP="0,30"
+VFE="5000,18000"
+TPSRATE_DEC="-5,105"
+ECU_VR="0,100"
+GEAR_NO="0,6"
+VRP="0,5"
+VFP="0,5"
+GEAR_A/D="-0.2,5.30000019"
+SHIFT_LD="-25,43"
+SHIFT_FLAG="0,100"
+Brake Fr="0,20"
+APSRATE_DEC="0,100"
+SPINFLAG="0,100"
+SPIN RPM MVA="0,100"
+Boost F="0,660"
+Boost R="0,660"
+LAMP_SET="0,100"
+IGNMAP#3="0,100"
+D_FORCE="0,400"
+SPINLEV_TEST50="0,100"
+IGCOMP-G="-3500,200"
+FB TAF #1-3="0,100"
+SPIN IG SKIPPING="0,100"
+SPIN RATIO="-10,20"
+FUEL VOLUME="0,3100"
+FUEL VOLUME FINA="0,100"
+INJCOMP WARM-UP="0,100"
+ETV OFS="0,100"
+ATMOS_P="740,770"
+AIR T="0,100"
+WATER T="20,90"
+BATT="0,100"
+FUEL_P="7,12"
+FUEL CUT FLAG="0,100"
+FB A/F #1 ADJ="0.80000001,1.20000005"
+FB A/F #2 ADJ="0.80000001,1.20000005"
+FB A/F #3 ADJ="0.80000001,1.20000005"
+FB A/F #4 ADJ="0.80000001,1.20000005"
+ECU VF="0,100"
+SPIN S LEVEL="0,10"
+FB TAF #2-4="0,100"
+INJ COMP G="0,5"
+DIAG1="0,256"
+DIAG2="0,256"
+DIAG3="0,256"
+DIAG4="0,256"
+PaketNr="0,270"
+LifeCoun="0,69000"
+V_Sat=0,100
+ValidSat=0.5,2.4000001
+HHMM=0,25
+Course=0,380
+ORV FLAG="0,100"
+KILL IGN FLAG="0,100"
+KILL INJ FLAG="0,100"
+ETV_DIAG="0,1100"
+SWITCH="0,5"
+ROMID1="0,100"
+ROMID2="0,100"
+TPS_CLS="-1,105"
+TPS_OPN="0,100"
+APS_CLS="-1,105"
+APS_OPN="-1,105"
+INJ_DTW="0,100"
+DIAG5="0,256"
+PN_ENG PRES="9.19999981,10.19999981"
+PN_BOT PRES="100,220"
+PN_TAG PRES="9.69999981,9.80000019"
+PN_CON F="0,100"
+OIL_T="30,140"
+OIL_P="-5,10"
+SHIFT_SHAFT="0,100"
+INJ_DTW_S="0,6900"
+LACH FLAG="0,100"
+INJGCOMP END FLA="0,150000"
+WHL FLAG="0,100"
+VF DIFF="-21,39"
+PN MON FLAG="0,100"
+PN DUTY="0,100"
+INJCOMP ACC 1-3="0,100"
+INJCOMP ACC 2-4="0,100"
+INJCOMP DEC 1-3="0,100"
+INJCOMP DEC 2-4="0,100"
+PIT IN FLAG="0,100"
+INJ_T_WET_P_#1="0,10"
+INJ_T_WET_P_SE_#="0,10"
+INJ_T_WET_N_#1="0,10"
+INJ_T_WET_N_#4="0,10"
+INJ_TIN_P_#1="0,6600"
+INJ_TIN_S_#1="0,270"
+INJ_T_LIN_P_#1="0,100"
+INJ_T_LIN_S_#1="740,770"
+DIST_ALL="0,150000"
+DIST_LAP="0,6900"
+SPN_POS="0,14"
+INJ PRI RATIO1-3="0,200"
+INJ PRI RATIO2-4="0,200"
+CRANK_ERF="0,256"
+CASE_P_#1R="-550,-200"
+CASE_P_#2L="-550,-200"
+Banking="-70,70"
+YawRate=0,100
+HorAccu="0,100"
+VerAccu="0,100"
+SpAccu="0,10"
+Lap_Delta="0,45000"
+Laps="0,10"
+DiskTemp="50,200"
+Longitude=0,100
+Latitude=0,100
+Altitude=0,3500
+GPSValid=0,3
+V_GPS=0,100
+A_Lon_GPS=-20,20
+GPS_Yaw=-50,50
+A_Lat_GPS=-20,20
+Banking_GPS=70,-70
+v front="0,250"
+v rear="0,250"
+FSus_25="0,130"
+RSus_25="-5,62"
+Trail="80,140"
+Wheelbase="1350,1430"
+Theta="0.15000001,0.47"
+ICx="-1700,-1100"
+Fork="27,23"
+RWTravel="-5,130"
+RWR_N="0,30"
+FWR_N="0,30"
+RWF_N="-50,3800"
+FWF_N="-50,3000"
+F_tot="-50,3800"
+StemHeight="660,780"
+RearHeight="500,580"
+SRC="0.38,0.54000002"
+SFC="0.44999999,0.55000001"
+F_Pivot="-4.4000001,1"
+A_Rarm="-15,0"
+InertiaF="0.49000001,0.55000001"
+R_RSWArm="-0.23,-0.07"
+R_Chain="-0.27000001,-0.15000001"
+CG_x="540,620"
+CG_y="320,420"
+BikeCG_x="0,100"
+BikeCG_y="930,1000"
+Rearh_x="0,100"
+Rearh_y="0,100"
+DRatio="0.25999999,0.40000001"
+AccR="0,100"
+AccF="0,100"
+VelRSus="0,100"
+VelFork="0,100"
+rpmavg="5000,18000"
+AccFork="-52,56"
+AccRSus="-30,26"
+GEARSPEED="170,340"
+GBX_FILT="0,370"
+GEAR'="-1.20000005,1.20000005"
+GearIN="0,10"
+GEARSP-M="-10,10"
+Pitch="-2.29999995,5.0999999"
+PiRate="0,100"
+PiJerk="-350,300"
+Hi_FrontSus="0,100"
+ChattFr="0,100"
+Hi_RearSus="0,100"
+ChattRe="0,100"
+VelRWheel="-700,1200"
+Slip="-5,20"
+PivotHght="60,150"
+Piv_Gnd="0,100"
+Stem2Piv_y="0,100"
+eng_acc="0,100"
+TIME="0,100"
+ShiftCam="0,100"
+RPM_Max="5000,18000"
+RPM_Min="5000,18000"
+dAPS="0,100"
+Rearsus_filter="-1,135"
+Frontsus_filter="-1,135"
+Shift_Ld_F="0,100"
+vr 2="50,320"
+vf 2="50,320"
+Dist_Rear="0,100"
+EngBrake="0,100"
+EngBr_Sum="0,100"
+V Front ACC2="-3.20000005,2.5999999"
+V Rear ACC2="-3.9000001,2.29999995"
+V Front ACC="-3.20000005,2.5999999"
+V Rear ACC="-3.79999995,2.29999995"
+DVVFE="0,100"
+REAR Max F="0,100"
+RATE SLIP2="0,100"
+RATE SLIP3="0,100"
+RATE SLIP4="0,100"
+RWTravel_filter="-1,135"
+ign_retSPIN_FRONT="-3,32"
+ign_retSPIN_REAR="-3,32"
+BankAngle="70,-70"
+FUEL_CURRENT_LAP="0,1000"
+Fuel_KM_per_L="0,8"
+Axf="-18,13"
+Axf_l="-18,13"
+Azf="0,25"
+Azf_l="0,25"
+Ayf="-7,7"
+Ayf_l="-10,10"
+Axf_c="-18,13"
+Azf_c="0,25"
+Azf_cf="7,25"
+Vi="50,320"
+FSus_lo="-1,135"
+RSus_lo="-1,50"
+FSus_hi="0,120"
+RSus_hi="0,65"
+FSus'="-500,1000"
+RSus'="-1200,500"
+F_Res="0,-2000"
+Distance="0,100"
+used_Gas="0,16"
+BikeMass="200,250"
+F_acc="-2000,6000"
+F_sprung="0,100"
+F_eng="0,5000"
+A_acc="-70,70"
+_C9="-70,70"
+Fr_roll_rad="0.23999999,0.34999999"
+Rr_roll_rad="0.23999999,0.34999999"
+Rr_Wheel_RPM="0,2700"
+GEARRATIO="5,15"
+T_Tire="0,1500"
+T_wheel="0,1500"
+T_eng="0,120"
+T_eng_T="0,150"
+P_eng_V="0,180"
+P_eng="0,180"
+T_eng_V="0,150"
+T_wheel2="0,1500"
+TH_open="-1,105"
+TH_delta="0,30"
+APS_Torque="0,100"
+THopen_Torque="0,5"
+THopen_Power="0,100"
+A_GPS="-70,70"
+A_GPS_abs="-70,70"
+TH="-1,105"
+Lap_Dist="0,4900"
+Lap_Nr="0,4.30000019"
+Time diff=-2,2
+TDiff window=-2,2
+Win change=-0.1,0.1
+Meter diff=0,300
+MDiff window=0,300
+SPIN CON IG #2="0,100"
+SPIN CON IG #4="0,100"
+MMDD=0,100
+SSHH=0,60
+A_Lat=-20,20
+A_Lon=-20,20
+LapGps=0,100
+LapAdc=0,100
+V_Front=0,300
+V_Rear=0,300
+HV_Current_AUX1=0,100
+HV_Cell_Values=0,100
+HV_Cell_Voltage=0,7000
+HV_Cell_Temperature=0,150
+Discharge_Res_Temp=0,100
+Wheel_Travel_FL=0,4096
+Wheel_Travel_FR=0,4096
+Wheel_Travel_RL=0,4096
+Wheel_Travel_RR=0,4096
+AMK_Status_3=0,100
+AMK_Status_1=0,100
+AMK_Actualvelocity_1=0,25000
+AMK_Torquecurrent_1=-100,100
+AMK_MagnetizingCurrent_1=-100,100
+AMK_TempMotor_1=0,100
+AMK_TempInverter_1=0,100
+AMK_Errorinfo_1=0,100
+AMK_TempIGBT_1=0,1000
+AMK_ActualVelocity_3=0,25000
+AMK_Status_2=0,100
+AMK_Actualvelocity_2=0,30000
+AMK_TorqueCurrent_3=-100,100
+AMK_MagnetizingCurrent_3=-100,100
+AMK_TempMotor_3=0,100
+AMK_TempInverter_3=0,100
+AMK_ErrorInfo_3=0,100
+AMK_TempIGBT_3=0,1000
+AMK_Status_4=0,100
+AMK_ActualVelocity_4=0,30000
+AMK_TorqueCurrent_4=-100,100
+AMK_MagnetizingCurrent_4=-100,100
+AMK_TempMotor_4=0,100
+AMK_TempInverter_4=0,100
+AMK_Torquecurrent_2=-100,100
+AMK_ErrorInfo_4=0,100
+AMK_MagnetizingCurrent_2=-100,100
+AMK_TempIGBT_4=0,1000
+AMK_Control_3=0,100
+AMK_TargetVelocity_3=0,25000
+AMK_TorqueLimitPositive_3=-100,100
+AMK_TempMotor_2=0,100
+AMK_TempInverter_2=0,100
+AMK_Errorinfo_2=0,100
+AMK_TempIGBT_2=0,1000
+HV_Current=0,180
+State_of_Charge=0,6000
+AMK_TorqueLimitNegative_3=-100,100
+AMK_Control_1=0,100
+AMK_Targetvelocity_1=0,25000
+AMK_TorqueLimitPositive_1=-100,100
+AMK_TorqueLimitNegative_1=-100,100
+AMK_Control_2=0,100
+AMK_Targetvelocity_2=0,25000
+AMK_TorqueLimitPositive_2=-100,100
+AMK_TorqueLimitNegative_2=-100,100
+AMK_Control_4=0,100
+AMK_TargetVelocity_4=0,25000
+AMK_TorqueLimitPositive_4=-100,100
+AMK_TorqueLimitNegative_4=-100,100
+_TARTALEK_32BIT=0,100
+_TARTALEK_32BIT106=0,100
+MCU_Support_Status=0,100
+HV_Accumulator_Status_32BIT=0,16
+PDM_Status_1_32BIT=0,100
+HV_Voltage_Before_&_After_AIRs_32BIT=0,3000
+LV_Cell_Values_1_32BIT=0,100
+LV_Cell_Values_2_32BIT=0,100
+TCU_Status_11_32BIT=0,100
+TCU_Status_12_32BIT=0,100
+PDM_Status_2_32BIT=0,100
+MCU_Radiator_Temp_Left_In_&_Ou=0,100
+ACCEL1_1_32BIT=0,100
+ACCEL1_2_32_BIT=0,100
+ACCEL2_1_32_BIT=0,100
+ACCEL2_2_32BIT=0,100
+ACCEL3_1_32_BIT=0,100
+ACCEL3_2_32BIT=0,100
+Motor_Front_Radiator _Temp_Rig=0,100
+Brake_Position_32BIT=0,5000000000
+Brake_Pressure_32BIT=0,4095
+ACCEL1_REAR_1_32BIT=0,100
+ACCEL1_REAR_2_32BIT=0,100
+ACCEL2_REAR_1_32BIT=0,100
+ACCEL2_REAR_2_32BIT=0,100
+ACCEL3_REAR_1_32_BIT=0,100
+ACCEL3_REAR_2_32BIT=0,100
+LV_Main_Voltage_&_Current_32BIT=0,100
+Throttle_Steering_1_32BIT=0,100
+Throttle_Steering_2_32BIT=0,100
+SlipControl_Input3=0,10
+EVENTTRG=0,100
+TCUStatus1_2=0,100
+TCUStatus2=0,100
+PL_Enabled=0,100
+Brake_Plausibility=0,100
+Brake_Position_1=0,100
+Brake_Position_2=0,100
+Brake_Pr_Front_Validity=0,100
+Brake_Pressure_Front_Raw=0,100
+Brake_Pressure_Front=0,2000
+Brake_Pr_Rear_Validity=0,100
+Brake_Pressure_Rear_Raw=0,500
+Brake_Pressure_Rear=0,2000
+Throttle_Plausibility=0,100
+Throttle_Position_1=0,100
+Throttle_Position_2=0,100
+Steering_Angle_Plausibility=0,100
+Steering_Angle_1=0,100
+Steering_Angle_Derivate_1=0,100
+Steering_Angle_2=0,100
+Steering_Angle_Derivate_2=0,100
+AMK_TorqueLimit_1=0,100
+AMK_TorqueLimit_2=0,100
+AMK_TorqueLimit_3=0,100
+AMK_TorqueLimit_4=0,100
+AMK_TorqueLimit=0,100
+AMK_TorqueLimitDerivate=0,100
+AMK_ActualVelocity=0,100
+HV_Voltage_After_AIR=-700,900
+HV_Voltage_Before_AIR=0,700
+HV_Current_neg=-100,100
+HV_Current_signaled=0,100
+Capacity=0,100
+CapacityTotal=0,100
+Power_Electric=0,100
+Power_Regenerative_EM=0,100
+Power_Electric_EM=0,100
+Energy_Electric_EM=0,100
+Energy_Electric_EM_Total=0,100
+Energy_Electric=0,100
+Energy_Electric_Total=0,100
+TotalRegen1=0,100
+TotalRegen2=0,100
+TotalRegen3=0,100
+TotalRegen4=0,100
+TotalRegen=0,100
+WheelSpeed_2=0,100
+WheelSpeed_3=0,100
+WheelSpeed_4=0,100
+WheelSpeed_1=0,100
+WheelSpeed_average=0,100
+SlipRatio_1_Traction=0,2
+SlipRatio_2_Traction=0,2
+SlipRatio_3_Traction=0,2
+SlipRatio_4_Traction=0,2
+SlipRatio_1_Braking=-2,0
+SlipRatio_2_Braking=-2,0
+SlipRatio_3_Braking=-2,0
+SlipRatio_4_Braking=-2,0
+INT_SlipRatio_1_Traction=0,5
+INT_SlipRatio_2_Traction=0,5
+INT_SlipRatio_3_Traction=0,5
+INT_SlipRatio_4_Traction=0,5
+INT_SlipRatio_1_Braking=-100,0
+INT_SlipRatio_2_Braking=-100,0
+INT_SlipRatio_3_Braking=-100,0
+INT_SlipRatio_4_Braking=-100,0
+V_GPS_Max=0,100
+INT_Brake_Pressure_Front=0,2100
+Brake_Pressure_Front_Corrected=0,30
+Brake_Pressure_Rear_Corrected=0,30
+INT_Brake_Pressure_Rear=0,2100
+INT_Throttle=0,1500
+Damper_Travel_FL=-15,25
+Damper_Travel_FR=-15,25
+Damper_Travel_RL=-15,25
+Damper_Travel_RR=-15,25
+Ride_Height_Front=0,100
+Ride_Height_Rear=0,100
+Roll_Angle_Front=0,1
+Roll_Angle_Rear=0,1
+Damper_Velocity_1=-40,40
+Damper_Velocity_2=-40,40
+Damper_Velocity_3=-40,40
+Damper_Velocity_4=-40,40
+Coast=0,2
+INT_Coast=0,600
+VehicleSpeed=0,100
+PitchAngle=-10,10
+ThrottleSteering=0,4000
+Roll_Rate_Front=0,100
+Acceleration_X_Front=-20,20
+Yaw_Rate_Front=0,100
+Acceleration_Y_Front=-20,20
+Acceleration_Z_Front=-20,20
+Acceleration_X_Front_Filtered=-20,20
+Acceleration_Y_Front_Filtered=-20,20
+Acceleration_Z_Front_Filtered=-20,20
+Roll_Rate_Rear=0,100
+Acceleration_X_Rear=-20,20
+Yaw_Rate_Rear=0,100
+Acceleration_Y_Rear=-20,20
+Acceleration_Z_Rear=-20,20
+Acceleration_X_Rear_Filtered=-20,20
+Acceleration_Y_Rear_Filtered=-20,20
+Acceleration_Z_Rear_Filtered=-20,20
+Yaw_Rate_Filtered=0,100
+AccX2=0,100
+AccY2=-20,20
+AccZ2=0,100
+Roll=0,100
+Roll_Angle=0,1
+Fz_1=0,5000
+Fz_2=0,5000
+Fz_3=0,5000
+Fz_4=0,5000
+
+[XYPlot-Instances]
+_Temporary_XY=0
+xy A_F=1
+xy Gear ratio=2
+IGNComp_APS=3
+IgnMap=4
+abkuehlen=5
+2D GPS Camm=6
+
+[fXYPlotManager0]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlot1_1]
+frmLeft=-40
+frmTop=174
+frmWidth=756
+frmHeight=566
+frmLeftRel=-23406
+frmTopRel=47837
+frmWidthRel=442368
+frmHeightRel=276285
+frmWindowState=0
+frmTimeStamp=10.08.2007 11:57:07
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlotManager1]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fSectionTimes2]
+frmLeft=253
+frmTop=179
+frmWidth=608
+frmHeight=421
+frmLeftRel=148041
+frmTopRel=50278
+frmWidthRel=355767
+frmHeightRel=205505
+frmWindowState=0
+frmTimeStamp=10.08.2007 12:09:21
+frmVersion=2
+frmVisible=0
+grdSectionTimes.ColWidths[0]=96
+grdSectionTimes.ColWidths[1]=96
+grdSectionTimes.ColWidths[2]=96
+grdSectionTimes.ColWidths[3]=96
+grdSectionTimes.ColWidths[4]=96
+
+[fXYPlotManager2]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlotManager4]
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+
+[fXYPlot4_1]
+frmLeft=10
+frmTop=100
+frmWidth=452
+frmHeight=485
+frmLeftRel=5851
+frmTopRel=11715
+frmWidthRel=264485
+frmHeightRel=236746
+frmWindowState=0
+frmTimeStamp=12.10.2007 06:23:27
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fXYPlot4_2]
+frmLeft=474
+frmTop=101
+frmWidth=452
+frmHeight=485
+frmLeftRel=277358
+frmTopRel=12203
+frmWidthRel=264485
+frmHeightRel=236746
+frmWindowState=0
+frmTimeStamp=12.10.2007 06:23:27
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+
+[fMagnify1]
+frmLeft=494
+frmTop=137
+frmWidth=788
+frmHeight=365
+frmLeftRel=240884
+frmTopRel=30558
+frmWidthRel=384244
+frmHeightRel=177044
+frmWindowState=0
+frmTimeStamp=12/10/2011 14:07:40
+frmVersion=2
+frmVisible=0
+
+[fFFT2Front_Acc_fft]
+frmLeft=0
+frmTop=76
+frmWidth=706
+frmHeight=396
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=413111
+frmHeightRel=193302
+frmWindowState=0
+frmTimeStamp=11.03.2008 09:45:21
+frmVersion=2
+frmVisible=0
+SettingsFileName=Front Acc.fft
+No border=0
+
+[fFFT1Front_Acc_fft]
+frmLeft=0
+frmTop=76
+frmWidth=662
+frmHeight=371
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=387365
+frmHeightRel=181098
+frmWindowState=0
+frmTimeStamp=11.03.2008 10:15:04
+frmVersion=2
+frmVisible=0
+SettingsFileName=Front Acc.fft
+No border=0
+
+[fFFT1Rear_Acc_fft]
+frmLeft=662
+frmTop=76
+frmWidth=684
+frmHeight=370
+frmLeftRel=387365
+frmTopRel=0
+frmWidthRel=400238
+frmHeightRel=180610
+frmWindowState=0
+frmTimeStamp=11.03.2008 10:15:06
+frmVersion=2
+frmVisible=0
+SettingsFileName=Rear Acc.fft
+No border=0
+
+[fFFT2Rear_Acc_fft]
+frmLeft=662
+frmTop=76
+frmWidth=653
+frmHeight=371
+frmLeftRel=387365
+frmTopRel=0
+frmWidthRel=382098
+frmHeightRel=181098
+frmWindowState=0
+frmTimeStamp=11.03.2008 09:52:23
+frmVersion=2
+frmVisible=0
+SettingsFileName=Rear Acc.fft
+No border=0
+
+[Channel context Groups]
+0=1
+
+[fGoogleEarthLink]
+frmLeft=413
+frmTop=244
+frmWidth=399
+frmHeight=481
+frmLeftRel=201387
+frmTopRel=82459
+frmWidthRel=194560
+frmHeightRel=233310
+frmWindowState=0
+frmTimeStamp=13/07/2010 14:57:16
+frmVersion=2
+frmVisible=0
+
+[fFFT2Acc_x_fft]
+frmLeft=270
+frmTop=62
+frmWidth=903
+frmHeight=292
+frmLeftRel=131657
+frmTopRel=-5821
+frmWidthRel=440320
+frmHeightRel=141635
+frmWindowState=0
+frmTimeStamp=25/11/2010 12:34:18
+frmVersion=2
+frmVisible=1
+SettingsFileName=Acc_x.fft
+No border=0
+Color scale position=1
+
+[fFFT1Acc_x_fft]
+frmLeft=116
+frmTop=477
+frmWidth=705
+frmHeight=276
+frmLeftRel=56564
+frmTopRel=195476
+frmWidthRel=343771
+frmHeightRel=133875
+frmWindowState=0
+frmTimeStamp=01/12/2010 15:27:56
+frmVersion=2
+frmVisible=0
+SettingsFileName=Acc_x.fft
+No border=0
+Color scale position=1
+
+[fMathFile]
+frmLeft=71
+frmTop=131
+frmWidth=518
+frmHeight=456
+frmLeftRel=34621
+frmTopRel=27648
+frmWidthRel=252587
+frmHeightRel=221184
+frmWindowState=0
+frmTimeStamp=01/12/2010 15:36:29
+frmVersion=2
+frmVisible=1
+grdMathFiles.ColWidths[0]=76
+grdMathFiles.ColWidths[1]=200
+
+[fXYPlotManager5]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fVideo1]
+frmLeft=2014
+frmTop=55
+frmWidth=843
+frmHeight=822
+frmLeftRel=572871
+frmTopRel=14532
+frmWidthRel=239787
+frmHeightRel=217189
+frmWindowState=0
+frmTimeStamp=14.03.2013 12:02:22
+frmVersion=2
+frmVisible=0
+Control bar=1
+Fit to border=0
+Play link to Analyzer=1
+
+[fXYPlotManager6]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=0
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[Settings visibilities]
+0=Histogram,Damper_Vel2.sts
+1=Histogram,damper vel 1.sts
+2=Histogram,Damper_Vel4.sts
+3=Histogram,Damper_Vel3.sts
+
+[fOneHistogram_0_0]
+frmLeft=477
+frmTop=82
+frmWidth=450
+frmHeight=290
+frmLeftRel=286060
+frmTopRel=51903
+frmWidthRel=269868
+frmHeightRel=183560
+frmWindowState=0
+frmTimeStamp=2018. 12. 08. 23:40:42
+frmVersion=2
+
+[fOneHistogram_1_0]
+frmLeft=918
+frmTop=82
+frmWidth=448
+frmHeight=290
+frmLeftRel=550531
+frmTopRel=51903
+frmWidthRel=268669
+frmHeightRel=183560
+frmWindowState=0
+frmTimeStamp=2018. 12. 08. 23:40:46
+frmVersion=2
+
+[fOneHistogram_2_0]
+frmLeft=477
+frmTop=367
+frmWidth=450
+frmHeight=275
+frmLeftRel=286060
+frmTopRel=232299
+frmWidthRel=269868
+frmHeightRel=174066
+frmWindowState=0
+frmTimeStamp=2018. 12. 08. 23:40:49
+frmVersion=2
+
+[fHistogramManager]
+damper vel 1.sts\Damper_Velocity_1=Statist.sgs
+damper vel 1.sts\Damper_Velocity_1 ViewType=0
+damper vel 1.sts\Damper_Velocity_1No border=0
+Damper_Vel2.sts\Damper_Velocity_2=Statist.sgs
+Damper_Vel2.sts\Damper_Velocity_2 ViewType=0
+Damper_Vel2.sts\Damper_Velocity_2No border=0
+Damper_Vel3.sts\Damper_Velocity_3=Statist.sgs
+Damper_Vel3.sts\Damper_Velocity_3 ViewType=0
+Damper_Vel3.sts\Damper_Velocity_3No border=0
+Damper_Vel4.sts\Damper_Velocity_4 ViewType=0
+Damper_Vel4.sts\Damper_Velocity_4=Statist.sgs
+Damper_Vel4.sts\Damper_Velocity_4No border=0
+
+[Histogram-Instances]
+damper vel 1=0
+Damper_Vel2=1
+Damper_Vel3=2
+Damper_Vel4=3
+
+[fOneHistogram_3_0]
+frmLeft=919
+frmTop=367
+frmWidth=447
+frmHeight=274
+frmLeftRel=551131
+frmTopRel=232299
+frmWidthRel=268069
+frmHeightRel=173433
+frmWindowState=0
+frmTimeStamp=2018. 12. 08. 23:40:52
+frmVersion=2
+
+[fPanning]
+frmVisible=1
+frmLeft=0
+frmTop=89
+frmWidth=489
+frmHeight=516
+frmWindowState=0
+Statusbar visible=1
+Laptriggers visible=1
+Laptimes visible=1
+Laptimes vertical=1
+Lapstarts unique=1
+Color scheme=0
+Background color=0
+Scaling color=16777215
+Lapstarts color=16711680
+Laptimes color=16777215
+Fastest lap color=255
+InOut lap color=32768
+Area count=0
+Measuring all channels=0
+Show grid=0
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=293257
+frmHeightRel=372101
+frmTimeStamp=2018. 12. 08. 23:40:59
+Area0=2
+Area1=3
+frmVersion=2
+Panel header=1
+Sections visible=0
+Segments visible=1
+UDMarkers=1
+UDMarkernames=1
+Sections color=16776960
+Area size0=
+Corner numbers=1
+Corner names=0
+Segments vertical=0
+No border=0
+Display separate=0
+Display squared=1
+Display unstretched=0
+PanelPanning size ratio=100
+Area0_Channels=
+Area size ratio0=
+
+[Channel context Area1]
+Top=0
+Bottom=100
+
+[Channel context Area2]
+Top=0
+Bottom=10
+
+[Channel context Area3]
+Top=10
+Bottom=70
+
+[Channel context Area4]
+Top=70
+Bottom=100
+
+[Channel context Channels]
+0=GEAR_A/D,2,0,0,0,0,0,0,0,0,0,0,1
+1=APS,4,0,0,0,0,0,0,0,0,0,0,1
+2=THR,4,0,0,0,0,0,0,0,0,0,0,0
+3=GEAR_NO,2,0,0,0,0,0,0,0,0,0,0,1
+4=DirkChan,1,0,0,0,0,0,0,0,0,0,0,0
+5=TIME_EOB,1,0,0,0,0,0,0,0,0,0,0,0
+6=TK_pad_r,1,0,0,0,0,0,0,0,0,0,0,0
+7=Ignition,1,0,0,0,0,0,0,0,0,0,0,0
+8=An,1,0,0,0,0,0,0,0,0,0,0,0
+9=V_Bat,1,0,0,0,0,0,0,0,0,0,0,0
+10=V_ER,1,0,0,0,0,0,0,0,0,0,0,0
+11=V_HIGH,1,0,0,0,0,0,0,0,0,0,0,0
+12=V_LOW,1,0,0,0,0,0,0,0,0,0,0,0
+13=V_Sat,1,0,0,0,0,0,0,0,0,0,0,0
+14=Course,1,0,0,0,0,0,0,0,0,0,0,0
+15=SSHH,1,0,0,0,0,0,0,0,0,0,0,0
+16=V_GPS,1,0,0,1,0,0,0,0,0,0,0,1
+17=A_Lon_GPS,1,0,0,0,1,0,0,0,0,0,0,1
+18=Banking_GPS,1,0,0,1,1,0,1,1,0,0,0,1
+19=AMK_TempIGBT_1,4,0,0,0,0,0,0,0,0,0,0,1
+20=AMK_TempIGBT_3,4,0,0,0,0,0,0,0,0,0,0,1
+21=AMK_TempIGBT_2,4,0,0,0,0,0,0,0,0,0,0,1
+22=AMK_TempIGBT_4,4,0,0,0,0,0,0,0,0,0,0,1
+23=AMK_TempInverter_4,3,0,0,0,0,0,0,0,0,0,0,1
+24=AMK_TempInverter_3,3,0,0,0,0,0,0,0,0,0,0,1
+25=AMK_TempInverter_1,3,0,0,0,0,0,0,0,0,0,0,1
+26=AMK_Actualvelocity_1,2,0,0,0,0,0,0,0,0,0,0,1
+27=AMK_ActualVelocity_3,2,0,0,0,0,0,0,0,0,0,0,1
+28=AMK_Actualvelocity_2,2,0,0,0,0,0,0,0,0,0,0,1
+29=AMK_ActualVelocity_4,2,0,0,0,0,0,0,0,0,0,0,1
+30=AMK_TorqueLimitPositive_4,4,0,0,0,0,0,0,0,0,0,0,1
+31=AMK_TempInverter_2,3,0,0,0,0,0,0,0,0,0,0,1
+32=State_of_Charge,3,0,0,0,0,0,0,0,0,0,0,1
+33=Ride_Height_Front,1,1,0,0,0,0,0,0,0,0,0,1
+34=Ride_Height_Rear,1,1,0,0,0,0,0,0,0,0,0,1
+
+[fOverview1]
+frmVisible=1
+Slider visible=0
+ChannelWinCount=1
+Statusbar visible=0
+Laptriggers visible=1
+Laptimes visible=1
+Laptimes vertical=1
+Color scheme=0
+Background color=0
+Scaling color=16777215
+Lapstarts color=16711680
+Laptimes color=16777215
+Fastest lap color=255
+InOut lap color=32768
+Show lap no=1
+frmLeft=0
+frmTop=605
+frmWidth=1366
+frmHeight=123
+frmWindowState=0
+frmLeftRel=0
+frmTopRel=372101
+frmWidthRel=819200
+frmHeightRel=88699
+frmTimeStamp=2018. 12. 08. 23:41:01
+frmVersion=2
+Sections visible=0
+UDMarkers=1
+Sections color=16776960
+No border=1
+Ov_frmVisible=1
+
+[Channel context Overview Area1]
+Top=0
+Bottom=100
+
+[Channel context Overview Area2]
+Top=0
+Bottom=30
+
+[Channel context Overview Area3]
+Top=30
+Bottom=70
+
+[Channel context Overview Area4]
+Top=70
+Bottom=100
+
+[Channel context Overview Channels]
+0=Record,0,1,0,0,0,0,0,0,0,0,0,0
+1=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
+2=v front,0,1,0,0,0,0,0,0,0,0,0,1
+3=RPM,0,1,0,0,0,0,0,0,0,0,0,1
+4=TIME_EOB,0,1,0,0,0,0,0,0,0,0,0,0
+5=TK_pad_f,0,1,0,0,0,0,0,0,0,0,0,1
+6=TK_pad_r,0,1,0,0,0,0,0,0,0,0,0,0
+7=Ignition,0,1,0,0,0,0,0,0,0,0,0,0
+8=FlatterCnt,0,1,0,0,0,0,0,0,0,0,0,0
+9=V_GPS,0,0,0,0,0,0,0,0,0,0,0,0
+10=ACC_Z,0,1,0,0,0,0,0,0,0,0,0,0
+11=V_Bat,0,1,0,0,0,0,0,0,0,0,0,0
+12=V_ER,0,1,0,0,0,0,0,0,0,0,0,0
+13=V_Sat,0,1,0,0,0,0,0,0,0,0,0,0
+14=HHMM,0,1,0,0,0,0,0,0,0,0,0,0
+15=Status,0,1,0,0,0,0,0,0,0,0,0,0
+16=Altitude,0,1,0,0,0,0,0,0,0,0,0,0
