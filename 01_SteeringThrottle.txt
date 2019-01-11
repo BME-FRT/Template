@@ -8,7 +8,7 @@ frmTopRel=117744
 frmWidthRel=203947
 frmHeightRel=212230
 frmWindowState=0
-frmTimeStamp=2018. 12. 11. 18:42:14
+frmTimeStamp=2018. 12. 19. 10:51:36
 frmVersion=2
 
 [fAnalyzer]
@@ -34,7 +34,7 @@ frmLeftRel=0
 frmTopRel=0
 frmWidthRel=819200
 frmHeightRel=39434
-frmTimeStamp=2018. 12. 11. 18:42:14
+frmTimeStamp=2018. 12. 19. 10:51:36
 frmVersion=2
 Show status=0
 Includes channel limits=1
@@ -54,16 +54,16 @@ frmVersion=2
 frmVisible=0
 
 [fCalcShow]
-frmLeft=389
-frmTop=143
-frmWidth=535
-frmHeight=354
-frmLeftRel=233286
-frmTopRel=38941
-frmWidthRel=320843
-frmHeightRel=255279
+frmLeft=547
+frmTop=169
+frmWidth=752
+frmHeight=527
+frmLeftRel=233387
+frmTopRel=38763
+frmWidthRel=320853
+frmHeightRel=255354
 frmWindowState=0
-frmTimeStamp=2018. 12. 09. 12:55:21
+frmTimeStamp=2018. 12. 19. 10:51:36
 frmVersion=2
 frmVisible=0
 
@@ -105,7 +105,7 @@ frmTopRel=72197
 frmWidthRel=375893
 frmHeightRel=299932
 frmWindowState=0
-frmTimeStamp=2018. 12. 11. 18:42:14
+frmTimeStamp=2018. 12. 19. 10:51:36
 frmVersion=2
 frmVisible=0
 grdCalEvent.ColWidths[0]=40
@@ -338,7 +338,7 @@ frmLeftRel=321280
 frmTopRel=109507
 frmWidthRel=203947
 frmHeightRel=200601
-frmTimeStamp=2018. 12. 11. 18:42:14
+frmTimeStamp=2018. 12. 19. 10:51:36
 frmVersion=2
 
 [fLapReport]
@@ -438,7 +438,7 @@ frmTopRel=261653
 frmWidthRel=102827
 frmHeightRel=144878
 frmWindowState=0
-frmTimeStamp=2018. 12. 11. 18:42:14
+frmTimeStamp=2018. 12. 19. 10:51:36
 Position data visible=1
 AutoScale=1
 Relative values=0
@@ -854,7 +854,7 @@ frmTopRel=55722
 frmWidthRel=220587
 frmHeightRel=89640
 frmWindowState=0
-frmTimeStamp=2018. 12. 11. 18:42:14
+frmTimeStamp=2018. 12. 19. 10:51:36
 frmVersion=2
 frmVisible=1
 
@@ -994,7 +994,7 @@ frmLeftRel=779520
 frmTopRel=-1938
 frmWidthRel=39680
 frmHeightRel=374067
-frmTimeStamp=2018. 12. 11. 18:42:14
+frmTimeStamp=2018. 12. 19. 10:51:36
 frmVersion=2
 
 [fXYPlot]
@@ -2129,7 +2129,7 @@ Throttle_Plausibility=0,100
 Throttle_Position_1=0,100
 Throttle_Position_2=0,100
 Steering_Angle_Plausibility=0,100
-Steering_Angle_1=-100,100
+Steering_Angle_1="-100,100"
 Steering_Angle_Derivate_1=0,100
 Steering_Angle_2=-100,100
 Steering_Angle_Derivate_2=0,100
@@ -2184,7 +2184,7 @@ INT_Brake_Pressure_Front=0,2100
 Brake_Pressure_Front_Corrected=0,30
 Brake_Pressure_Rear_Corrected=0,30
 INT_Brake_Pressure_Rear=0,2100
-INT_Throttle=0,100
+INT_Throttle="0,100"
 Damper_Travel_FL=-15,25
 Damper_Travel_FR=-15,25
 Damper_Travel_RL=-15,25
@@ -2198,7 +2198,7 @@ Damper_Velocity_2=-40,40
 Damper_Velocity_3=-40,40
 Damper_Velocity_4=-40,40
 Coast=0,2
-INT_Coast=0,100
+INT_Coast="0,100"
 VehicleSpeed=0,100
 PitchAngle=-10,10
 ThrottleSteering=0,4000
@@ -2232,6 +2232,7 @@ INT_ThrottleSteeering=0,100000
 INT_ThrottleSteering=0,30000
 TurnRadius="-0.2,0.2"
 Curvature=-0.5,0.5
+INT_SteeringAngle="0,100"
 
 [XYPlot-Instances]
 _Temporary_XY=0
@@ -2641,70 +2642,6 @@ frmWindowState=0
 frmTimeStamp=2018. 12. 08. 23:43:40
 frmVersion=2
 
-[fPanning]
-frmVisible=1
-frmLeft=0
-frmTop=88
-frmWidth=1318
-frmHeight=769
-frmWindowState=0
-Statusbar visible=1
-Laptriggers visible=1
-Laptimes visible=1
-Laptimes vertical=1
-Lapstarts unique=1
-Color scheme=0
-Background color=0
-Scaling color=16777215
-Lapstarts color=16711680
-Laptimes color=16777215
-Fastest lap color=255
-InOut lap color=32768
-Area count=0
-Measuring all channels=0
-Show grid=0
-frmLeftRel=0
-frmTopRel=-485
-frmWidthRel=562347
-frmHeightRel=372613
-frmTimeStamp=2018. 12. 11. 18:42:14
-Area0=2
-Area1=3
-frmVersion=2
-Panel header=1
-Sections visible=0
-Segments visible=1
-UDMarkers=1
-UDMarkernames=1
-Sections color=16776960
-Area size0=
-Corner numbers=1
-Corner names=0
-Segments vertical=0
-No border=0
-Display separate=0
-Display squared=1
-Display unstretched=0
-PanelPanning size ratio=100
-Area0_Channels=
-Area size ratio0=
-
-[Channel context Area1]
-Top=40
-Bottom=100
-
-[Channel context Area2]
-Top=0
-Bottom=60
-
-[Channel context Area3]
-Top=60
-Bottom=70
-
-[Channel context Area4]
-Top=70
-Bottom=100
-
 [fOverview1]
 frmVisible=1
 Slider visible=0
@@ -2730,7 +2667,7 @@ frmLeftRel=0
 frmTopRel=372129
 frmWidthRel=819200
 frmHeightRel=88671
-frmTimeStamp=2018. 12. 11. 18:42:14
+frmTimeStamp=2018. 12. 19. 10:51:36
 frmVersion=2
 Sections visible=0
 UDMarkers=1
@@ -2864,26 +2801,91 @@ Measuring cross=1
 No border=0
 Display phases in status bar=1
 
-[fMinMaxTable1steeringthrottle]
-frmLeft=1318
-frmTop=0
-frmWidth=590
-frmHeight=1040
-frmLeftRel=562347
-frmTopRel=-43124
-frmWidthRel=251733
-frmHeightRel=503924
-frmWindowState=0
-frmTimeStamp=2018. 12. 11. 18:42:14
-frmVersion=2
-frmVisible=1
-Button bar=1
-Show graphics=1
-Vertical channel names=1
-No border=0
-
 [Settings visibilities]
 0=MinMax,1steeringthrottle.mms
+
+[Channel context Overview Channels]
+0=Record,0,1,0,0,0,0,0,0,0,0,0,0
+1=v front,0,1,0,0,0,0,0,0,0,0,0,1
+2=TIME_EOB,0,1,0,0,0,0,0,0,0,0,0,0
+3=TK_pad_f,0,1,0,0,0,0,0,0,0,0,0,1
+4=TK_pad_r,0,1,0,0,0,0,0,0,0,0,0,0
+5=Ignition,0,1,0,0,0,0,0,0,0,0,0,0
+6=FlatterCnt,0,1,0,0,0,0,0,0,0,0,0,0
+7=V_GPS,0,0,0,0,0,0,0,0,0,0,0,0
+8=V_Bat,0,1,0,0,0,0,0,0,0,0,0,0
+9=V_ER,0,1,0,0,0,0,0,0,0,0,0,0
+10=Status,0,1,0,0,0,0,0,0,0,0,0,0
+11=HHMM,0,1,0,0,0,0,0,0,0,0,0,0
+12=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
+13=RPM,0,1,0,0,0,0,0,0,0,0,0,0
+14=ACC_Z,0,1,0,0,0,0,0,0,0,0,0,0
+15=Altitude,0,1,0,0,0,0,0,0,0,0,0,0
+16=V_Sat,0,1,0,0,0,0,0,0,0,0,0,0
+
+[fPanning]
+frmVisible=1
+frmLeft=0
+frmTop=89
+frmWidth=776
+frmHeight=516
+frmWindowState=0
+Statusbar visible=1
+Laptriggers visible=1
+Laptimes visible=1
+Laptimes vertical=1
+Lapstarts unique=1
+Color scheme=0
+Background color=0
+Scaling color=16777215
+Lapstarts color=16711680
+Laptimes color=16777215
+Fastest lap color=255
+InOut lap color=32768
+Area count=0
+Measuring all channels=0
+Show grid=0
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=465373
+frmHeightRel=372101
+frmTimeStamp=2019. 01. 06. 14:52:30
+Area0=2
+Area1=3
+frmVersion=2
+Panel header=1
+Sections visible=0
+Segments visible=1
+UDMarkers=1
+UDMarkernames=1
+Sections color=16776960
+Area size0=
+Corner numbers=1
+Corner names=0
+Segments vertical=0
+No border=0
+Display separate=0
+Display squared=1
+Display unstretched=0
+PanelPanning size ratio=100
+Area0_Channels=
+Area size ratio0=
+
+[Channel context Area1]
+Top=40
+Bottom=100
+
+[Channel context Area2]
+Top=0
+Bottom=60
+
+[Channel context Area3]
+Top=60
+Bottom=70
+
+[Channel context Area4]
+Top=70
+Bottom=100
 
 [Channel context Channels]
 0=GEAR_A/D,2,0,0,0,0,0,0,0,0,0,0,1
@@ -2920,33 +2922,42 @@ No border=0
 31=V_GPS,1,0,0,1,0,0,0,0,0,0,0,1
 32=A_Lon_GPS,1,0,0,0,1,0,0,0,0,0,0,1
 33=Banking_GPS,1,0,0,1,1,0,1,1,0,0,0,1
-34=Steering_Angle_1,2,1,0,0,0,0,0,0,0,0,0,1
-35=INT_SlipRatio_1_Traction,1,0,0,1,0,0,0,0,0,0,0,1
-36=INT_SlipRatio_2_Traction,1,0,0,1,0,0,0,0,0,0,0,1
-37=INT_SlipRatio_3_Traction,1,0,0,1,0,0,0,0,0,0,0,1
-38=INT_SlipRatio_4_Traction,1,0,0,1,0,0,0,0,0,0,0,1
-39=INT_SlipRatio_1_Braking,2,0,0,1,0,0,0,0,0,0,0,1
-40=INT_SlipRatio_2_Braking,2,0,0,1,0,0,0,0,0,0,0,1
-41=INT_SlipRatio_4_Braking,2,0,0,1,0,0,0,0,0,0,0,1
-42=INT_Throttle,1,1,0,0,0,0,0,0,0,0,0,1
+34=INT_SlipRatio_1_Traction,1,0,0,1,0,0,0,0,0,0,0,1
+35=INT_SlipRatio_2_Traction,1,0,0,1,0,0,0,0,0,0,0,1
+36=INT_SlipRatio_3_Traction,1,0,0,1,0,0,0,0,0,0,0,1
+37=INT_SlipRatio_4_Traction,1,0,0,1,0,0,0,0,0,0,0,1
+38=INT_SlipRatio_1_Braking,2,0,0,1,0,0,0,0,0,0,0,1
+39=INT_SlipRatio_2_Braking,2,0,0,1,0,0,0,0,0,0,0,1
+40=INT_SlipRatio_4_Braking,2,0,0,1,0,0,0,0,0,0,0,1
+41=Steering_Angle_1,2,1,0,0,0,0,0,0,0,0,0,1
+42=INT_ThrottleSteering,1,1,0,0,0,0,0,0,0,0,0,1
 43=INT_Coast,1,1,0,0,0,0,0,0,0,0,0,1
-44=INT_ThrottleSteering,1,1,0,0,0,0,0,0,0,0,0,1
+44=INT_Throttle,1,1,0,0,0,0,0,0,0,0,0,1
 
-[Channel context Overview Channels]
-0=Record,0,1,0,0,0,0,0,0,0,0,0,0
-1=v front,0,1,0,0,0,0,0,0,0,0,0,1
-2=TIME_EOB,0,1,0,0,0,0,0,0,0,0,0,0
-3=TK_pad_f,0,1,0,0,0,0,0,0,0,0,0,1
-4=TK_pad_r,0,1,0,0,0,0,0,0,0,0,0,0
-5=Ignition,0,1,0,0,0,0,0,0,0,0,0,0
-6=FlatterCnt,0,1,0,0,0,0,0,0,0,0,0,0
-7=V_GPS,0,0,0,0,0,0,0,0,0,0,0,0
-8=V_Bat,0,1,0,0,0,0,0,0,0,0,0,0
-9=V_ER,0,1,0,0,0,0,0,0,0,0,0,0
-10=Status,0,1,0,0,0,0,0,0,0,0,0,0
-11=HHMM,0,1,0,0,0,0,0,0,0,0,0,0
-12=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
-13=RPM,0,1,0,0,0,0,0,0,0,0,0,0
-14=ACC_Z,0,1,0,0,0,0,0,0,0,0,0,0
-15=Altitude,0,1,0,0,0,0,0,0,0,0,0,0
-16=V_Sat,0,1,0,0,0,0,0,0,0,0,0,0
+[fMinMaxTable1steeringthrottle]
+frmLeft=776
+frmTop=89
+frmWidth=590
+frmHeight=728
+frmLeftRel=465373
+frmTopRel=0
+frmWidthRel=353827
+frmHeightRel=524980
+frmWindowState=0
+frmTimeStamp=2019. 01. 06. 15:03:08
+frmVersion=2
+frmVisible=1
+Button bar=1
+Show graphics=1
+Vertical channel names=1
+No border=0
+AreaGrid.ColWidths[0]=36
+AreaGrid.ColWidths[1]=72
+AreaGrid.ColWidths[2]=48
+AreaGrid.ColWidths[3]=-1
+AreaGrid.ColWidths[4]=-1
+AreaGrid.ColWidths[5]=64
+AreaGrid.ColWidths[6]=64
+AreaGrid.ColWidths[7]=64
+AreaGrid.ColWidths[8]=64
+AreaGrid.ColWidths[9]=64
