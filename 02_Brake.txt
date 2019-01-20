@@ -1,21 +1,21 @@
 [fAnaGeneral]
-frmLeft=772
-frmTop=332
-frmWidth=478
-frmHeight=438
-frmLeftRel=329387
-frmTopRel=117744
-frmWidthRel=203947
-frmHeightRel=212230
+frmLeft=549
+frmTop=252
+frmWidth=340
+frmHeight=294
+frmLeftRel=329239
+frmTopRel=117544
+frmWidthRel=203900
+frmHeightRel=212011
 frmWindowState=0
-frmTimeStamp=2018. 12. 11. 18:41:46
+frmTimeStamp=2019. 01. 20. 14:53:30
 frmVersion=2
 
 [fAnalyzer]
 frmVisible=0
 frmLeft=0
 frmTop=0
-frmWidth=1920
+frmWidth=1366
 frmHeight=89
 frmWindowState=0
 tbMain.DockedTo=1
@@ -33,8 +33,8 @@ tbMainMeasurement.FloatingWidth=0
 frmLeftRel=0
 frmTopRel=0
 frmWidthRel=819200
-frmHeightRel=39434
-frmTimeStamp=2018. 12. 11. 18:41:46
+frmHeightRel=56334
+frmTimeStamp=2019. 01. 20. 14:53:29
 frmVersion=2
 Show status=0
 Includes channel limits=1
@@ -293,16 +293,16 @@ frmVersion=2
 frmVisible=0
 
 [fGeneral]
-frmLeft=753
-frmTop=315
-frmWidth=478
-frmHeight=414
+frmLeft=536
+frmTop=241
+frmWidth=340
+frmHeight=278
 frmWindowState=0
-frmLeftRel=321280
-frmTopRel=109507
-frmWidthRel=203947
-frmHeightRel=200601
-frmTimeStamp=2018. 12. 11. 18:41:46
+frmLeftRel=321443
+frmTopRel=109611
+frmWidthRel=203900
+frmHeightRel=200473
+frmTimeStamp=2019. 01. 20. 14:53:30
 frmVersion=2
 
 [fLapReport]
@@ -392,17 +392,17 @@ grdChannels.ColWidths[12]=64
 grdChannels.ColWidths[13]=28
 
 [fMeasuringValues]
-frmVisible=1
-frmLeft=1016
-frmTop=92
+frmVisible=0
+frmLeft=723
+frmTop=91
 frmWidth=312
-frmHeight=299
-frmLeftRel=433493
-frmTopRel=1454
-frmWidthRel=133120
-frmHeightRel=144878
+frmHeight=251
+frmLeftRel=433588
+frmTopRel=1442
+frmWidthRel=187109
+frmHeightRel=181003
 frmWindowState=0
-frmTimeStamp=2018. 12. 11. 18:41:46
+frmTimeStamp=2019. 01. 20. 14:53:30
 Position data visible=1
 AutoScale=1
 Relative values=0
@@ -809,18 +809,18 @@ frmHeightRel=112140
 frmTimeStamp="09.07.01 17:16:45"
 
 [fStatusWindow]
-frmLeft=1221
-frmTop=247
-frmWidth=517
+frmLeft=869
+frmTop=195
+frmWidth=368
 frmHeight=185
-frmLeftRel=520960
-frmTopRel=76558
-frmWidthRel=220587
-frmHeightRel=89640
+frmLeftRel=521146
+frmTopRel=76439
+frmWidthRel=220692
+frmHeightRel=133408
 frmWindowState=0
-frmTimeStamp=2018. 12. 11. 18:41:46
+frmTimeStamp=2019. 01. 20. 14:53:30
 frmVersion=2
-frmVisible=0
+frmVisible=1
 
 [fTemplates]
 frmVisible=0
@@ -949,16 +949,16 @@ frmVisible=0
 
 [fWindowList]
 frmVisible=0
-frmLeft=1827
-frmTop=85
-frmWidth=93
-frmHeight=772
+frmLeft=1300
+frmTop=86
+frmWidth=66
+frmHeight=519
 frmWindowState=0
-frmLeftRel=779520
-frmTopRel=-1938
-frmWidthRel=39680
-frmHeightRel=374067
-frmTimeStamp=2018. 12. 11. 18:41:46
+frmLeftRel=779619
+frmTopRel=-2163
+frmWidthRel=39581
+frmHeightRel=374265
+frmTimeStamp=2019. 01. 20. 14:53:30
 frmVersion=2
 
 [fXYPlot]
@@ -1547,16 +1547,16 @@ frmWindowState=0
 frmTimeStamp="13.07.01 14:21:25"
 
 [fXYPlotManager]
-frmLeft=842
-frmTop=349
-frmWidth=358
-frmHeight=351
-frmLeftRel=359253
-frmTopRel=125981
-frmWidthRel=152747
-frmHeightRel=170074
+frmLeft=599
+frmTop=264
+frmWidth=255
+frmHeight=236
+frmLeftRel=359225
+frmTopRel=126197
+frmWidthRel=152925
+frmHeightRel=170186
 frmWindowState=0
-frmTimeStamp=2018. 12. 11. 18:41:46
+frmTimeStamp=2019. 01. 20. 14:53:30
 frmVersion=2
 Background color=0
 Highlight phases=0
@@ -2155,7 +2155,7 @@ V_GPS_Max=0,100
 INT_Brake_Pressure_Front="0,300"
 Brake_Pressure_Front_Corrected="0,30"
 Brake_Pressure_Rear_Corrected="0,30"
-INT_Brake_Pressure_Rear=0,300
+INT_Brake_Pressure_Rear="0,300"
 INT_Throttle=0,1500
 Damper_Travel_FL=-15,25
 Damper_Travel_FR=-15,25
@@ -2203,6 +2203,9 @@ Fz_4=0,5000
 INT_ThrottleSteeering=0,100000
 INT_ThrottleSteering=0,50000
 Curvature=-0.5,0.5
+correction="0,100"
+brake_rear="0,100"
+INT_BrakePos="0,100"
 
 [XYPlot-Instances]
 _Temporary_XY=0
@@ -2600,8 +2603,8 @@ frmVersion=2
 frmVisible=1
 frmLeft=0
 frmTop=89
-frmWidth=905
-frmHeight=768
+frmWidth=644
+frmHeight=516
 frmWindowState=0
 Statusbar visible=1
 Laptriggers visible=1
@@ -2620,9 +2623,9 @@ Measuring all channels=0
 Show grid=0
 frmLeftRel=0
 frmTopRel=0
-frmWidthRel=386133
-frmHeightRel=372129
-frmTimeStamp=2018. 12. 11. 18:41:46
+frmWidthRel=386211
+frmHeightRel=372101
+frmTimeStamp=2019. 01. 20. 14:53:30
 Area0=2
 Area1=3
 frmVersion=2
@@ -2645,7 +2648,7 @@ Area0_Channels=
 Area size ratio0=
 
 [Channel context Area1]
-Top=15
+Top=30
 Bottom=100
 
 [Channel context Area2]
@@ -2654,11 +2657,11 @@ Bottom=25
 
 [Channel context Area3]
 Top=25
-Bottom=70
+Bottom=35
 
 [Channel context Area4]
-Top=70
-Bottom=100
+Top=35
+Bottom=50
 
 [fOverview1]
 frmVisible=1
@@ -2677,15 +2680,15 @@ Fastest lap color=255
 InOut lap color=32768
 Show lap no=1
 frmLeft=0
-frmTop=857
-frmWidth=1920
-frmHeight=183
+frmTop=605
+frmWidth=1366
+frmHeight=123
 frmWindowState=0
 frmLeftRel=0
-frmTopRel=372129
+frmTopRel=372101
 frmWidthRel=819200
-frmHeightRel=88671
-frmTimeStamp=2018. 12. 11. 18:41:46
+frmHeightRel=88699
+frmTimeStamp=2019. 01. 20. 14:53:30
 frmVersion=2
 Sections visible=0
 UDMarkers=1
@@ -2809,35 +2812,17 @@ Measuring cross=1
 No border=0
 Display phases in status bar=1
 
-[fMinMaxTable1brakpress]
-frmLeft=1590
-frmTop=89
-frmWidth=330
-frmHeight=768
-frmLeftRel=678400
-frmTopRel=0
-frmWidthRel=140800
-frmHeightRel=372129
-frmWindowState=0
-frmTimeStamp=2018. 12. 11. 18:41:46
-frmVersion=2
-frmVisible=1
-Button bar=1
-Show graphics=1
-Vertical channel names=1
-No border=0
-
 [fXYPlot10_1]
-frmLeft=905
+frmLeft=644
 frmTop=89
-frmWidth=685
-frmHeight=768
-frmLeftRel=386133
+frmWidth=392
+frmHeight=516
+frmLeftRel=386211
 frmTopRel=0
-frmWidthRel=292267
-frmHeightRel=372129
+frmWidthRel=235085
+frmHeightRel=372101
 frmWindowState=0
-frmTimeStamp=2018. 12. 11. 18:41:46
+frmTimeStamp=2019. 01. 20. 14:53:30
 frmVersion=2
 frmVisible=1
 Tools visible=1
@@ -2864,6 +2849,67 @@ Mouse cross=1
 Measuring cross=1
 No border=0
 Display phases in status bar=1
+
+[fCalFile]
+frmLeft=38
+frmTop=135
+frmWidth=627
+frmHeight=416
+frmLeftRel=22789
+frmTopRel=33172
+frmWidthRel=376016
+frmHeightRel=299989
+frmWindowState=1
+frmTimeStamp=2019. 01. 20. 14:53:30
+frmVersion=2
+frmVisible=1
+grdCalEvent.ColWidths[0]=40
+grdCalEvent.ColWidths[1]=200
+grdCalMeasurement.ColWidths[0]=40
+grdCalMeasurement.ColWidths[1]=200
+gbChannelsRecalc.Width=181
+gbChannelsRecalc.Height=169
+grdCalDataRoot.ColWidths[0]=40
+grdCalDataRoot.ColWidths[1]=200
+grdCalRaceSoftware.ColWidths[0]=40
+grdCalRaceSoftware.ColWidths[1]=200
+Show preview=1
+Preview width=181
+grdCalDataRootNew.ColWidths[0]=76
+grdCalDataRootNew.ColWidths[1]=200
+grdCalEventNew.ColWidths[0]=76
+grdCalEventNew.ColWidths[1]=200
+grdCalMeasurementNew.ColWidths[0]=76
+grdCalMeasurementNew.ColWidths[1]=200
+grdCalRaceSoftwareNew.ColWidths[0]=76
+grdCalRaceSoftwareNew.ColWidths[1]=200
+grdCalSWSubFolderNew.ColWidths[0]=76
+grdCalSWSubFolderNew.ColWidths[1]=200
+
+[fMinMaxTable1brakpress]
+frmLeft=1036
+frmTop=89
+frmWidth=330
+frmHeight=728
+frmLeftRel=621297
+frmTopRel=0
+frmWidthRel=197903
+frmHeightRel=524980
+frmWindowState=0
+frmTimeStamp=2019. 01. 20. 14:53:30
+frmVersion=2
+frmVisible=1
+Button bar=1
+Show graphics=1
+Vertical channel names=1
+No border=0
+AreaGrid.ColWidths[0]=36
+AreaGrid.ColWidths[1]=72
+AreaGrid.ColWidths[2]=48
+AreaGrid.ColWidths[3]=-1
+AreaGrid.ColWidths[4]=-1
+AreaGrid.ColWidths[5]=64
+AreaGrid.ColWidths[6]=64
 
 [Settings visibilities]
 0=MinMax,1brakpress.mms
@@ -2905,10 +2951,12 @@ Display phases in status bar=1
 32=V_GPS,1,0,0,1,0,0,0,0,0,0,0,1
 33=A_Lon_GPS,1,0,0,0,1,0,0,0,0,0,0,1
 34=Banking_GPS,1,0,0,1,1,0,1,1,0,0,0,1
-35=INT_Brake_Pressure_Front,1,1,0,1,0,0,0,0,0,0,0,1
-36=Brake_Pressure_Front_Corrected,2,1,0,0,0,0,0,0,0,0,0,1
-37=Brake_Pressure_Rear_Corrected,2,1,0,0,0,0,0,0,0,0,0,1
-38=INT_Brake_Pressure_Rear,1,1,0,1,0,0,0,0,0,0,0,1
+35=Brake_Pressure_Rear_Corrected,2,1,0,0,0,0,0,0,0,0,0,1
+36=INT_Brake_Pressure_Rear,1,1,0,1,0,0,0,0,0,0,0,1
+37=Brake_Pressure_Front_Corrected,2,1,0,0,0,0,0,0,0,0,0,1
+38=INT_Brake_Pressure_Front,1,1,0,1,0,0,0,0,0,0,0,1
+39=Brake_Position_1,4,1,0,0,0,0,0,0,0,0,0,1
+40=Brake_Position_2,4,1,0,0,0,0,0,0,0,0,0,1
 
 [Channel context Overview Channels]
 0=Record,0,1,0,0,0,0,0,0,0,0,0,0
@@ -2928,39 +2976,3 @@ Display phases in status bar=1
 14=HHMM,0,0,0,0,0,0,0,0,0,0,0,0
 15=V_Sat,0,0,0,0,0,0,0,0,0,0,0,0
 16=VehicleSpeed,0,1,0,0,0,0,0,0,0,0,0,0
-
-[fCalFile]
-frmLeft=53
-frmTop=157
-frmWidth=881
-frmHeight=619
-frmLeftRel=22613
-frmTopRel=32949
-frmWidthRel=375893
-frmHeightRel=299932
-frmWindowState=0
-frmTimeStamp=2018. 12. 19. 10:47:52
-frmVersion=2
-frmVisible=0
-grdCalEvent.ColWidths[0]=40
-grdCalEvent.ColWidths[1]=200
-grdCalMeasurement.ColWidths[0]=40
-grdCalMeasurement.ColWidths[1]=200
-gbChannelsRecalc.Width=181
-gbChannelsRecalc.Height=169
-grdCalDataRoot.ColWidths[0]=40
-grdCalDataRoot.ColWidths[1]=200
-grdCalRaceSoftware.ColWidths[0]=40
-grdCalRaceSoftware.ColWidths[1]=200
-Show preview=1
-Preview width=181
-grdCalDataRootNew.ColWidths[0]=76
-grdCalDataRootNew.ColWidths[1]=200
-grdCalEventNew.ColWidths[0]=76
-grdCalEventNew.ColWidths[1]=200
-grdCalMeasurementNew.ColWidths[0]=76
-grdCalMeasurementNew.ColWidths[1]=200
-grdCalRaceSoftwareNew.ColWidths[0]=76
-grdCalRaceSoftwareNew.ColWidths[1]=200
-grdCalSWSubFolderNew.ColWidths[0]=76
-grdCalSWSubFolderNew.ColWidths[1]=200

@@ -2157,9 +2157,9 @@ Brake_Pressure_Front_Corrected="0,30"
 Brake_Pressure_Rear_Corrected="0,30"
 INT_Brake_Pressure_Rear="0,300"
 INT_Throttle=0,1500
-Damper_Travel_FL=-15,25
-Damper_Travel_FR=-15,25
-Damper_Travel_RL=-15,25
+Damper_Travel_FL="-15,25"
+Damper_Travel_FR="-15,25"
+Damper_Travel_RL="-15,25"
 Damper_Travel_RR=-15,25
 Ride_Height_Front=0,100
 Ride_Height_Rear=0,100
@@ -2203,6 +2203,10 @@ Fz_4=0,5000
 INT_ThrottleSteeering=0,100000
 INT_ThrottleSteering=0,50000
 Curvature=-0.5,0.5
+Id1="0,100"
+Id2="0,100"
+Id3="0,100"
+Id4="0,100"
 
 [XYPlot-Instances]
 _Temporary_XY=0
