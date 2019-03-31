@@ -1,10 +1,10 @@
 [fAnalyzer]
-frmVisible=1
+frmVisible=0
 frmLeft=0
 frmTop=0
-frmWidth=1280
-frmHeight=86
-frmWindowState=0
+frmWidth=1366
+frmHeight=89
+frmWindowState=2
 tbMain.DockedTo=1
 tbMain.DockRow=0
 tbMain.DockPos=0
@@ -20,23 +20,23 @@ tbMainMeasurement.FloatingWidth=0
 frmLeftRel=0
 frmTopRel=0
 frmWidthRel=819200
-frmHeightRel=39948
-frmTimeStamp=15.10.2014 15:31:39
+frmHeightRel=56334
+frmTimeStamp=2019. 03. 31. 13:36:34
 frmVersion=2
 Show status=0
 
 [fWindowList]
 frmVisible=0
-frmLeft=1159
-frmTop=86
-frmWidth=121
-frmHeight=732
+frmLeft=1237
+frmTop=89
+frmWidth=129
+frmHeight=516
 frmWindowState=0
-frmLeftRel=741760
+frmLeftRel=741838
 frmTopRel=0
-frmWidthRel=77440
-frmHeightRel=372302
-frmTimeStamp=15.10.2014 15:31:39
+frmWidthRel=77362
+frmHeightRel=372101
+frmTimeStamp=2019. 03. 31. 13:36:34
 frmVersion=2
 
 [fOvPaProperties]
@@ -53,30 +53,30 @@ frmHeightRel=131093
 frmTimeStamp="09.07.01 18:18:06"
 
 [fGeneral]
-frmLeft=502
-frmTop=301
-frmWidth=319
-frmHeight=394
+frmLeft=536
+frmTop=241
+frmWidth=340
+frmHeight=278
 frmWindowState=0
-frmLeftRel=321280
-frmTopRel=109351
-frmWidthRel=204160
-frmHeightRel=200392
-frmTimeStamp=15.10.2014 15:31:39
+frmLeftRel=321443
+frmTopRel=109611
+frmWidthRel=203900
+frmHeightRel=200473
+frmTimeStamp=2019. 03. 31. 13:36:34
 frmVersion=2
 
 [fCircuit]
 frmVisible=1
-frmLeft=1013
-frmTop=818
-frmWidth=267
-frmHeight=174
-frmLeftRel=648320
-frmTopRel=372302
-frmWidthRel=170880
-frmHeightRel=88498
+frmLeft=1081
+frmTop=605
+frmWidth=285
+frmHeight=123
+frmLeftRel=648283
+frmTopRel=372101
+frmWidthRel=170917
+frmHeightRel=88699
 frmWindowState=0
-frmTimeStamp=15.10.2014 15:31:40
+frmTimeStamp=2019. 03. 31. 13:36:34
 Offset input=0
 Background color=12632256
 Track color=16711935
@@ -102,37 +102,16 @@ frmTimeStamp="06.07.2001 16:53:15"
 
 [fLaps]
 frmVisible=0
-frmLeft=515
-frmTop=532
-frmWidth=644
-frmHeight=195
-frmLeftRel=329600
-frmTopRel=227090
-frmWidthRel=412160
-frmHeightRel=99288
+frmLeft=550
+frmTop=404
+frmWidth=687
+frmHeight=139
+frmLeftRel=329839
+frmTopRel=227155
+frmWidthRel=411999
+frmHeightRel=100237
 frmWindowState=0
-frmTimeStamp="08.02.2005 18:43:40"
-frmVersion=2
-
-[fMeasuringValues]
-frmVisible=0
-frmLeft=954
-frmTop=45
-frmWidth=225
-frmHeight=230
-frmLeftRel=610560
-frmTopRel=-20853
-frmWidthRel=144000
-frmHeightRel=116980
-frmWindowState=0
-frmTimeStamp=15.10.2014 15:31:40
-Position data visible=1
-AutoScale=1
-Relative values=0
-grdMeasuring.ColWidths[0]=121
-grdMeasuring.ColWidths[1]=90
-grdMeasuring.ColWidths[2]=77
-grdMeasuring.ColWidths[3]=60
+frmTimeStamp=2019. 03. 31. 12:11:11
 frmVersion=2
 
 [fMeasurement]
@@ -773,16 +752,16 @@ twColorScale.Width=121
 twColorScale.Height=131
 
 [fCalFile]
-frmLeft=67
-frmTop=239
-frmWidth=563
-frmHeight=414
-frmLeftRel=42880
-frmTopRel=77903
-frmWidthRel=360320
-frmHeightRel=210797
+frmLeft=72
+frmTop=197
+frmWidth=601
+frmHeight=292
+frmLeftRel=43179
+frmTopRel=77882
+frmWidthRel=360424
+frmHeightRel=210569
 frmWindowState=0
-frmTimeStamp="16.03.2004 17:39:45"
+frmTimeStamp=2019. 03. 31. 13:36:34
 frmVersion=2
 frmVisible=0
 grdCalEvent.ColWidths[0]=40
@@ -795,18 +774,30 @@ grdCalDataRoot.ColWidths[0]=40
 grdCalDataRoot.ColWidths[1]=200
 grdCalRaceSoftware.ColWidths[0]=40
 grdCalRaceSoftware.ColWidths[1]=200
+grdCalDataRootNew.ColWidths[0]=76
+grdCalDataRootNew.ColWidths[1]=200
+grdCalEventNew.ColWidths[0]=76
+grdCalEventNew.ColWidths[1]=200
+grdCalMeasurementNew.ColWidths[0]=76
+grdCalMeasurementNew.ColWidths[1]=200
+grdCalRaceSoftwareNew.ColWidths[0]=76
+grdCalRaceSoftwareNew.ColWidths[1]=200
+grdCalSWSubFolderNew.ColWidths[0]=76
+grdCalSWSubFolderNew.ColWidths[1]=200
+Preview width=181
+Show preview=1
 
 [fAnaGeneral]
-frmLeft=515
-frmTop=316
-frmWidth=319
-frmHeight=416
-frmLeftRel=329600
-frmTopRel=116980
-frmWidthRel=204160
-frmHeightRel=211581
+frmLeft=550
+frmTop=251
+frmWidth=340
+frmHeight=293
+frmLeftRel=329839
+frmTopRel=116823
+frmWidthRel=203900
+frmHeightRel=211290
 frmWindowState=0
-frmTimeStamp=15.10.2014 15:31:39
+frmTimeStamp=2019. 03. 31. 13:36:34
 frmVersion=2
 
 [fXYPlot33_1]
@@ -1261,10 +1252,10 @@ No border=0
 
 [fPanning]
 frmVisible=1
-frmLeft=0
-frmTop=89
-frmWidth=1920
-frmHeight=768
+frmLeft=-7
+frmTop=78
+frmWidth=1380
+frmHeight=527
 frmWindowState=0
 Statusbar visible=1
 Laptriggers visible=1
@@ -1281,11 +1272,11 @@ InOut lap color=32768
 Area count=0
 Measuring all channels=0
 Show grid=0
-frmLeftRel=0
-frmTopRel=0
-frmWidthRel=819200
-frmHeightRel=372129
-frmTimeStamp=2018. 12. 13. 11:48:39
+frmLeftRel=-4198
+frmTopRel=-7932
+frmWidthRel=827596
+frmHeightRel=380034
+frmTimeStamp=2019. 03. 31. 13:36:34
 Area0=2
 Area1=3
 frmVersion=2
@@ -1322,16 +1313,6 @@ Bottom=90
 Top=90
 Bottom=100
 
-[Channel context Channels]
-0=Susp_F,1,0,0,0,0,0,0,0,0,0,0,0
-1=Susp_R,1,0,0,0,0,0,0,0,0,0,0,0
-2=Throttle,1,1,0,0,0,0,0,0,0,0,0,1
-3=Gear_Nr,2,1,0,0,0,0,0,0,0,0,0,1
-4=V_Rear,1,0,0,0,0,0,0,0,0,0,0,0
-5=Vext,1,0,0,0,0,0,0,0,0,0,0,0
-6=V_Sat,1,0,0,0,0,0,0,0,0,0,0,0
-7=VehicleSpeed,1,1,0,0,0,0,0,0,0,0,0,1
-
 [fOverview1]
 frmVisible=1
 Slider visible=0
@@ -1348,21 +1329,22 @@ Laptimes color=16777215
 Fastest lap color=255
 InOut lap color=32768
 Show lap no=1
-frmLeft=0
-frmTop=857
-frmWidth=1520
-frmHeight=183
+frmLeft=-6
+frmTop=605
+frmWidth=1087
+frmHeight=123
 frmWindowState=0
-frmLeftRel=0
-frmTopRel=372129
-frmWidthRel=648533
-frmHeightRel=88671
-frmTimeStamp=2018. 12. 13. 11:48:41
+frmLeftRel=-3598
+frmTopRel=372101
+frmWidthRel=651882
+frmHeightRel=88699
+frmTimeStamp=2019. 03. 31. 13:36:34
 frmVersion=2
 Sections visible=0
 UDMarkers=1
 Sections color=16776960
 No border=0
+Ov_frmVisible=1
 
 [Channel context Overview Area1]
 Top=0
@@ -1380,6 +1362,93 @@ Bottom=70
 Top=70
 Bottom=100
 
+[fStatusWindow]
+frmVisible=0
+frmLeft=0
+frmTop=0
+frmWidth=42
+frmHeight=185
+frmLeftRel=0
+frmTopRel=-64180
+frmWidthRel=25188
+frmHeightRel=133408
+frmWindowState=0
+frmTimeStamp=2019. 03. 31. 12:11:10
+frmVersion=2
+
+[fMinMaxTable1_Temporary_MM]
+frmLeft=128
+frmTop=127
+frmWidth=604
+frmHeight=243
+frmLeftRel=76763
+frmTopRel=27403
+frmWidthRel=362223
+frmHeightRel=175234
+frmWindowState=0
+frmTimeStamp=2019. 03. 31. 12:11:08
+frmVersion=2
+frmVisible=0
+AreaGrid.ColWidths[0]=-1
+AreaGrid.ColWidths[1]=-1
+AreaGrid.ColWidths[2]=-1
+AreaGrid.ColWidths[3]=92
+AreaGrid.ColWidths[4]=96
+AreaGrid.ColWidths[5]=64
+AreaGrid.ColWidths[6]=64
+AreaGrid.ColWidths[7]=64
+AreaGrid.ColWidths[8]=64
+AreaGrid.ColWidths[9]=64
+AreaGrid.ColWidths[10]=64
+Button bar=1
+Show graphics=1
+Vertical channel names=1
+No border=0
+
+[fPhasesType]
+frmLeft=486
+frmTop=275
+frmWidth=239
+frmHeight=398
+frmLeftRel=291458
+frmTopRel=134130
+frmWidthRel=143330
+frmHeightRel=287008
+frmWindowState=0
+frmTimeStamp=2019. 03. 31. 12:08:02
+frmVersion=2
+frmVisible=0
+
 [Channel context Overview Channels]
-0=V_Front,0,1,0,0,0,0,0,0,0,0,0,1
+0=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
 1=VehicleSpeed,0,1,0,0,0,0,0,0,0,0,0,0
+
+[Channel context Channels]
+0=Susp_F,1,0,0,0,0,0,0,0,0,0,0,0
+1=Susp_R,1,0,0,0,0,0,0,0,0,0,0,0
+2=Gear_Nr,2,0,0,0,0,0,0,0,0,0,0,1
+3=V_Rear,1,0,0,0,0,0,0,0,0,0,0,0
+4=Vext,1,0,0,0,0,0,0,0,0,0,0,0
+5=V_Sat,1,0,0,0,0,0,0,0,0,0,0,0
+6=VehicleSpeed,1,1,0,0,0,0,0,0,0,0,0,1
+
+[fMeasuringValues]
+frmVisible=1
+frmLeft=1122
+frmTop=141
+frmWidth=231
+frmHeight=171
+frmLeftRel=672871
+frmTopRel=37499
+frmWidthRel=138532
+frmHeightRel=123313
+frmWindowState=0
+frmTimeStamp=2019. 03. 31. 16:49:55
+Position data visible=1
+AutoScale=1
+Relative values=0
+grdMeasuring.ColWidths[0]=101
+grdMeasuring.ColWidths[1]=108
+grdMeasuring.ColWidths[2]=77
+grdMeasuring.ColWidths[3]=60
+frmVersion=2

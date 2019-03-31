@@ -391,31 +391,6 @@ grdChannels.ColWidths[11]=32
 grdChannels.ColWidths[12]=64
 grdChannels.ColWidths[13]=28
 
-[fMeasuringValues]
-frmVisible=0
-frmLeft=1016
-frmTop=126
-frmWidth=312
-frmHeight=235
-frmLeftRel=609302
-frmTopRel=26682
-frmWidthRel=187109
-frmHeightRel=169465
-frmWindowState=0
-frmTimeStamp=2018. 12. 09. 16:31:39
-Position data visible=1
-AutoScale=1
-Relative values=0
-grdMeasuring.ColWidths[0]=149
-grdMeasuring.ColWidths[1]=141
-grdMeasuring.ColWidths[2]=80
-grdMeasuring.ColWidths[3]=60
-frmVersion=2
-grdMeasuring.ColWidths[4]=80
-grdMeasuring.ColWidths[5]=80
-grdMeasuring.ColWidths[6]=80
-grdMeasuring.ColWidths[7]=80
-
 [fMinMaxTable]
 frmVisible=0
 AreaGrid0.ColWidths[0]=64
@@ -2910,3 +2885,24 @@ grdCalRaceSoftwareNew.ColWidths[0]=76
 grdCalRaceSoftwareNew.ColWidths[1]=200
 grdCalSWSubFolderNew.ColWidths[0]=76
 grdCalSWSubFolderNew.ColWidths[1]=200
+
+[fMeasuringValues]
+frmVisible=0
+frmLeft=1122
+frmTop=141
+frmWidth=231
+frmHeight=171
+frmLeftRel=672871
+frmTopRel=37499
+frmWidthRel=138532
+frmHeightRel=123313
+frmWindowState=0
+frmTimeStamp=2019. 03. 31. 16:49:55
+Position data visible=1
+AutoScale=1
+Relative values=0
+grdMeasuring.ColWidths[0]=101
+grdMeasuring.ColWidths[1]=108
+grdMeasuring.ColWidths[2]=77
+grdMeasuring.ColWidths[3]=60
+frmVersion=2

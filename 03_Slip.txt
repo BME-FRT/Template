@@ -427,31 +427,6 @@ grdChannels.ColWidths[11]=32
 grdChannels.ColWidths[12]=64
 grdChannels.ColWidths[13]=28
 
-[fMeasuringValues]
-frmVisible=0
-frmLeft=0
-frmTop=90
-frmWidth=241
-frmHeight=219
-frmLeftRel=0
-frmTopRel=721
-frmWidthRel=144529
-frmHeightRel=157927
-frmWindowState=0
-frmTimeStamp=2019. 01. 06. 15:02:51
-Position data visible=1
-AutoScale=1
-Relative values=0
-grdMeasuring.ColWidths[0]=149
-grdMeasuring.ColWidths[1]=70
-grdMeasuring.ColWidths[2]=80
-grdMeasuring.ColWidths[3]=60
-frmVersion=2
-grdMeasuring.ColWidths[4]=80
-grdMeasuring.ColWidths[5]=80
-grdMeasuring.ColWidths[6]=80
-grdMeasuring.ColWidths[7]=80
-
 [fMinMaxTable]
 frmVisible=0
 AreaGrid0.ColWidths[0]=64
@@ -2919,3 +2894,24 @@ AreaGrid.ColWidths[12]=64
 14=ACC_Z,0,1,0,0,0,0,0,0,0,0,0,0
 15=Altitude,0,1,0,0,0,0,0,0,0,0,0,0
 16=V_Sat,0,1,0,0,0,0,0,0,0,0,0,0
+
+[fMeasuringValues]
+frmVisible=0
+frmLeft=1122
+frmTop=141
+frmWidth=231
+frmHeight=171
+frmLeftRel=672871
+frmTopRel=37499
+frmWidthRel=138532
+frmHeightRel=123313
+frmWindowState=0
+frmTimeStamp=2019. 03. 31. 16:49:55
+Position data visible=1
+AutoScale=1
+Relative values=0
+grdMeasuring.ColWidths[0]=101
+grdMeasuring.ColWidths[1]=108
+grdMeasuring.ColWidths[2]=77
+grdMeasuring.ColWidths[3]=60
+frmVersion=2

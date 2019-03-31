@@ -115,27 +115,6 @@ frmWindowState=0
 frmTimeStamp="08.02.2005 18:43:40"
 frmVersion=2
 
-[fMeasuringValues]
-frmVisible=1
-frmLeft=1018
-frmTop=60
-frmWidth=249
-frmHeight=672
-frmLeftRel=610502
-frmTopRel=-20913
-frmWidthRel=149327
-frmHeightRel=484597
-frmWindowState=0
-frmTimeStamp=2019. 01. 19. 12:36:40
-Position data visible=1
-AutoScale=1
-Relative values=0
-grdMeasuring.ColWidths[0]=121
-grdMeasuring.ColWidths[1]=90
-grdMeasuring.ColWidths[2]=77
-grdMeasuring.ColWidths[3]=60
-frmVersion=2
-
 [fMeasurement]
 frmLeft=343
 frmTop=90
@@ -1632,3 +1611,24 @@ frmVisible=0
 [Channel context Overview Channels]
 0=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
 1=VehicleSpeed,0,1,0,0,0,0,0,0,0,0,0,0
+
+[fMeasuringValues]
+frmVisible=1
+frmLeft=1122
+frmTop=141
+frmWidth=231
+frmHeight=171
+frmLeftRel=672871
+frmTopRel=37499
+frmWidthRel=138532
+frmHeightRel=123313
+frmWindowState=0
+frmTimeStamp=2019. 03. 31. 16:49:55
+Position data visible=1
+AutoScale=1
+Relative values=0
+grdMeasuring.ColWidths[0]=101
+grdMeasuring.ColWidths[1]=108
+grdMeasuring.ColWidths[2]=77
+grdMeasuring.ColWidths[3]=60
+frmVersion=2

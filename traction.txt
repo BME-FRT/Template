@@ -2,9 +2,9 @@
 frmVisible=0
 frmLeft=0
 frmTop=0
-frmWidth=1920
-frmHeight=89
-frmWindowState=0
+frmWidth=1366
+frmHeight=62
+frmWindowState=2
 tbMain.DockedTo=1
 tbMain.DockRow=0
 tbMain.DockPos=0
@@ -20,105 +20,25 @@ tbMainMeasurement.FloatingWidth=0
 frmLeftRel=0
 frmTopRel=0
 frmWidthRel=819200
-frmHeightRel=39434
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmHeightRel=39244
+frmTimeStamp=2019. 03. 31. 18:36:54
 frmVersion=2
 Show status=0
 Includes channel limits=0
 
 [fWindowList]
 frmVisible=0
-frmLeft=1739
+frmLeft=1237
 frmTop=89
-frmWidth=181
-frmHeight=768
+frmWidth=129
+frmHeight=516
 frmWindowState=0
-frmLeftRel=741973
+frmLeftRel=741838
 frmTopRel=0
-frmWidthRel=77227
-frmHeightRel=372129
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmWidthRel=77362
+frmHeightRel=372101
+frmTimeStamp=2019. 03. 31. 18:36:54
 frmVersion=2
-
-[fOverview1]
-frmVisible=0
-Slider visible=0
-ChannelWinCount=1
-Statusbar visible=1
-Laptriggers visible=1
-Laptimes visible=1
-Laptimes vertical=1
-Color scheme=0
-Background color=0
-Scaling color=16777215
-Lapstarts color=16711680
-Laptimes color=16777215
-Fastest lap color=255
-InOut lap color=32768
-Show lap no=1
-frmLeft=0
-frmTop=857
-frmWidth=1519
-frmHeight=183
-frmWindowState=0
-frmLeftRel=0
-frmTopRel=372129
-frmWidthRel=648107
-frmHeightRel=88671
-frmTimeStamp=11/24/2018 10:57:59 PM
-frmVersion=2
-Sections visible=0
-UDMarkers=1
-Sections color=16776960
-No border=0
-Ov_frmVisible=1
-
-[fPanning]
-frmVisible=1
-frmLeft=-13
-frmTop=77
-frmWidth=1088
-frmHeight=780
-frmWindowState=0
-Statusbar visible=1
-Laptriggers visible=1
-Laptimes visible=1
-Laptimes vertical=1
-Lapstarts unique=1
-Color scheme=0
-Background color=0
-Scaling color=16777215
-Lapstarts color=16711680
-Laptimes color=16777215
-Fastest lap color=255
-InOut lap color=32768
-Area count=0
-Measuring all channels=0
-Show grid=0
-frmLeftRel=-5547
-frmTopRel=-5815
-frmWidthRel=464213
-frmHeightRel=377943
-frmTimeStamp=11/28/2018 11:37:31 AM
-Area0=2
-Area1=3
-frmVersion=2
-Panel header=1
-Sections visible=0
-Segments visible=1
-UDMarkers=1
-UDMarkernames=1
-Sections color=16776960
-Area size0=
-Corner numbers=1
-Corner names=0
-Segments vertical=0
-No border=0
-Display separate=0
-Display squared=0
-Display unstretched=0
-Show extrema=0
-PanelPanning size ratio=100
 
 [fOvPaProperties]
 frmVisible=0
@@ -134,30 +54,30 @@ frmHeightRel=131093
 frmTimeStamp="09.07.01 18:18:06"
 
 [fGeneral]
-frmLeft=753
-frmTop=315
-frmWidth=478
-frmHeight=414
+frmLeft=536
+frmTop=241
+frmWidth=340
+frmHeight=278
 frmWindowState=0
-frmLeftRel=321280
-frmTopRel=109507
-frmWidthRel=203947
-frmHeightRel=200601
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmLeftRel=321443
+frmTopRel=109611
+frmWidthRel=203900
+frmHeightRel=200473
+frmTimeStamp=2019. 03. 31. 18:36:54
 frmVersion=2
 
 [fCircuit]
-frmVisible=0
-frmLeft=1519
-frmTop=857
-frmWidth=401
-frmHeight=183
-frmLeftRel=648107
-frmTopRel=372129
-frmWidthRel=171093
-frmHeightRel=88671
+frmVisible=1
+frmLeft=1143
+frmTop=481
+frmWidth=231
+frmHeight=252
+frmLeftRel=685465
+frmTopRel=282682
+frmWidthRel=138532
+frmHeightRel=181724
 frmWindowState=0
-frmTimeStamp=11/24/2018 11:13:06 PM
+frmTimeStamp=2019. 03. 31. 18:36:54
 Offset input=0
 Background color=12632256
 Track color=16711935
@@ -291,17 +211,16 @@ frmVersion=2
 [fOverview2]
 frmVisible=0
 frmLeft=0
-frmTop=857
-frmWidth=1519
-frmHeight=183
+frmTop=817
+frmWidth=1013
+frmHeight=174
 frmWindowState=0
 frmLeftRel=0
-frmTopRel=372129
-frmWidthRel=648107
-frmHeightRel=88671
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmTopRel=372204
+frmWidthRel=648320
+frmHeightRel=88596
+frmTimeStamp="18.01.2005 14:21:01"
 frmVersion=2
-Ov_frmVisible=1
 
 [fEditGroupMembers]
 frmLeft=469
@@ -394,17 +313,16 @@ frmTimeStamp="09.07.01 17:16:45"
 [fOverview3]
 frmVisible=1
 frmLeft=0
-frmTop=857
-frmWidth=1920
-frmHeight=183
+frmTop=817
+frmWidth=1096
+frmHeight=174
 frmLeftRel=0
-frmTopRel=372129
-frmWidthRel=819200
-frmHeightRel=88671
+frmTopRel=372204
+frmWidthRel=701440
+frmHeightRel=88596
 frmWindowState=0
-frmTimeStamp=11/24/2018 11:35:54 PM
+frmTimeStamp="06.04.2004 13:56:36"
 frmVersion=2
-Ov_frmVisible=1
 
 [fOverview4]
 frmVisible=1
@@ -777,16 +695,16 @@ twColorScale.Height=131
 frmVisible=1
 
 [fXYPlotManager]
-frmLeft=842
-frmTop=350
-frmWidth=358
-frmHeight=351
-frmLeftRel=359253
-frmTopRel=126466
-frmWidthRel=152747
-frmHeightRel=170074
+frmLeft=599
+frmTop=264
+frmWidth=255
+frmHeight=236
+frmLeftRel=359225
+frmTopRel=126197
+frmWidthRel=152925
+frmHeightRel=170186
 frmWindowState=0
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmTimeStamp=2019. 03. 31. 17:56:50
 frmVersion=2
 Background color=0
 Highlight phases=0
@@ -835,16 +753,16 @@ twColorScale.Width=121
 twColorScale.Height=131
 
 [fCalFile]
-frmLeft=250
-frmTop=206
-frmWidth=845
-frmHeight=652
-frmLeftRel=106667
-frmTopRel=56691
-frmWidthRel=360533
-frmHeightRel=315922
+frmLeft=-7
+frmTop=0
+frmWidth=697
+frmHeight=735
+frmLeftRel=-4198
+frmTopRel=-64180
+frmWidthRel=417996
+frmHeightRel=530028
 frmWindowState=0
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmTimeStamp=2019. 03. 31. 18:36:54
 frmVersion=2
 frmVisible=0
 grdCalEvent.ColWidths[0]=40
@@ -871,16 +789,16 @@ Preview width=181
 Show preview=1
 
 [fAnaGeneral]
-frmLeft=773
-frmTop=330
-frmWidth=478
-frmHeight=436
-frmLeftRel=329813
-frmTopRel=116775
-frmWidthRel=203947
-frmHeightRel=211261
+frmLeft=549
+frmTop=251
+frmWidth=340
+frmHeight=294
+frmLeftRel=329239
+frmTopRel=116823
+frmWidthRel=203900
+frmHeightRel=212011
 frmWindowState=0
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmTimeStamp=2019. 03. 31. 18:36:54
 frmVersion=2
 
 [fXYPlot33_1]
@@ -979,13 +897,13 @@ View type=1
 frmLeft=548
 frmTop=169
 frmWidth=752
-frmHeight=527
+frmHeight=526
 frmLeftRel=233813
 frmTopRel=38763
 frmWidthRel=320853
-frmHeightRel=255354
+frmHeightRel=254869
 frmWindowState=0
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmTimeStamp=2019. 03. 29. 13:08:46
 frmVersion=2
 frmVisible=0
 
@@ -1095,18 +1013,18 @@ frmVersion=2
 frmVisible=0
 
 [fXYPlot0_1]
-frmLeft=1063
-frmTop=0
-frmWidth=468
-frmHeight=411
-frmLeftRel=453547
-frmTopRel=-43124
-frmWidthRel=199680
-frmHeightRel=199147
+frmLeft=92
+frmTop=86
+frmWidth=1228
+frmHeight=625
+frmLeftRel=39253
+frmTopRel=-1454
+frmWidthRel=523947
+frmHeightRel=302839
 frmWindowState=0
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmTimeStamp=2019. 03. 29. 13:08:40
 frmVersion=2
-frmVisible=1
+frmVisible=0
 Tools visible=1
 twXYPlot.Left=0
 twXYPlot.Top=0
@@ -1169,18 +1087,18 @@ twColorScale.Width=121
 twColorScale.Height=135
 
 [fMultiCircuit]
-frmLeft=1519
-frmTop=0
+frmLeft=321
+frmTop=218
 frmWidth=401
-frmHeight=387
-frmLeftRel=648107
-frmTopRel=-43124
-frmWidthRel=171093
-frmHeightRel=187518
+frmHeight=368
+frmLeftRel=205440
+frmTopRel=67136
+frmWidthRel=256640
+frmHeightRel=187168
 frmWindowState=0
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmTimeStamp=15.10.2014 15:31:40
 frmVersion=2
-frmVisible=1
+frmVisible=0
 Background color=16777215
 twXYPlot.Left=0
 twXYPlot.Top=0
@@ -1266,16 +1184,16 @@ twColorScale.Width=121
 twColorScale.Height=135
 
 [fXYPlotManager_1]
-frmLeft=674
-frmTop=270
-frmWidth=286
-frmHeight=257
-frmLeftRel=287573
-frmTopRel=87702
-frmWidthRel=122027
-frmHeightRel=124527
+frmLeft=449
+frmTop=258
+frmWidth=191
+frmHeight=245
+frmLeftRel=287360
+frmTopRel=87577
+frmWidthRel=122240
+frmHeightRel=124747
 frmWindowState=0
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmTimeStamp="08.02.2005 17:31:17"
 frmVersion=2
 frmVisible=0
 Background color=0
@@ -1283,38 +1201,6 @@ Highlight phases=0
 Show grid=1
 Show mouse cross=0
 No border=0
-
-[Channel context Area1]
-Top=20
-Bottom=55
-
-[Channel context Area2]
-Top=0
-Bottom=30
-
-[Channel context Area3]
-Top=30
-Bottom=80
-
-[Channel context Area4]
-Top=80
-Bottom=100
-
-[Channel context Overview Area1]
-Top=0
-Bottom=100
-
-[Channel context Overview Area2]
-Top=0
-Bottom=30
-
-[Channel context Overview Area3]
-Top=30
-Bottom=70
-
-[Channel context Overview Area4]
-Top=70
-Bottom=100
 
 [Template content]
 V_st=0
@@ -1373,67 +1259,191 @@ Button bar=1
 Show graphics=1
 No border=0
 
+[fPanning]
+frmVisible=1
+frmLeft=-8
+frmTop=74
+frmWidth=1165
+frmHeight=663
+frmWindowState=0
+Statusbar visible=1
+Laptriggers visible=1
+Laptimes visible=1
+Laptimes vertical=1
+Lapstarts unique=1
+Color scheme=0
+Background color=0
+Scaling color=16777215
+Lapstarts color=16711680
+Laptimes color=16777215
+Fastest lap color=255
+InOut lap color=32768
+Area count=0
+Measuring all channels=0
+Show grid=0
+frmLeftRel=-4798
+frmTopRel=-10817
+frmWidthRel=698659
+frmHeightRel=478107
+frmTimeStamp=2019. 03. 31. 18:36:54
+Area0=2
+Area1=3
+frmVersion=2
+Panel header=1
+Sections visible=0
+Segments visible=1
+UDMarkers=1
+UDMarkernames=1
+Sections color=16776960
+Area size0=
+Corner numbers=1
+Corner names=0
+Segments vertical=0
+No border=0
+Display separate=0
+Display squared=0
+Display unstretched=0
+Show extrema=0
+PanelPanning size ratio=100
+
+[Channel context Area1]
+Top=70
+Bottom=100
+
+[Channel context Area2]
+Top=0
+Bottom=15
+
+[Channel context Area3]
+Top=15
+Bottom=45
+
+[Channel context Area4]
+Top=45
+Bottom=70
+
+[fOverview1]
+frmVisible=0
+Slider visible=0
+ChannelWinCount=1
+Statusbar visible=1
+Laptriggers visible=1
+Laptimes visible=1
+Laptimes vertical=1
+Color scheme=0
+Background color=0
+Scaling color=16777215
+Lapstarts color=16711680
+Laptimes color=16777215
+Fastest lap color=255
+InOut lap color=32768
+Show lap no=1
+frmLeft=0
+frmTop=605
+frmWidth=1081
+frmHeight=123
+frmWindowState=0
+frmLeftRel=0
+frmTopRel=372101
+frmWidthRel=648283
+frmHeightRel=88699
+frmTimeStamp=2019. 03. 31. 18:36:54
+frmVersion=2
+Sections visible=0
+UDMarkers=1
+Sections color=16776960
+No border=0
+Ov_frmVisible=0
+
+[Channel context Overview Area1]
+Top=0
+Bottom=100
+
+[Channel context Overview Area2]
+Top=0
+Bottom=30
+
+[Channel context Overview Area3]
+Top=30
+Bottom=70
+
+[Channel context Overview Area4]
+Top=70
+Bottom=100
+
+[fExternalWait]
+frmLeft=459
+frmTop=313
+frmWidth=387
+frmHeight=69
+frmLeftRel=195840
+frmTopRel=108538
+frmWidthRel=165120
+frmHeightRel=33433
+frmWindowState=0
+frmTimeStamp=2019. 03. 29. 11:33:10
+frmVersion=2
+frmVisible=0
+
 [fStatusWindow]
-frmLeft=1379
-frmTop=266
-frmWidth=541
+frmLeft=1535
+frmTop=364
+frmWidth=385
 frmHeight=185
-frmLeftRel=588373
-frmTopRel=85764
-frmWidthRel=230827
+frmLeftRel=654933
+frmTopRel=133249
+frmWidthRel=164267
 frmHeightRel=89640
 frmWindowState=0
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmTimeStamp=2019. 03. 29. 11:33:10
 frmVersion=2
-frmVisible=0
-
-[fMathFile]
-frmLeft=361
-frmTop=188
-frmWidth=526
-frmHeight=463
-frmLeftRel=216494
-frmTopRel=71392
-frmWidthRel=315446
-frmHeightRel=333882
-frmWindowState=0
-frmTimeStamp=2017. 05. 15. 11:49:43
-frmVersion=2
-frmVisible=0
-grdMathFiles.ColWidths[0]=76
-grdMathFiles.ColWidths[1]=200
+frmVisible=1
 
 [fSaveSetting]
-frmLeft=580
-frmTop=320
+frmLeft=413
+frmTop=244
 frmWidth=299
 frmHeight=398
-frmLeftRel=247467
-frmTopRel=111929
+frmLeftRel=176213
+frmTopRel=75104
 frmWidthRel=127573
 frmHeightRel=192848
 frmWindowState=0
-frmTimeStamp=11/24/2018 11:20:56 PM
-frmVersion=2
-frmVisible=0
-
-[fEqualizeChannelLimits]
-frmLeft=413
-frmTop=246
-frmWidth=459
-frmHeight=298
-frmLeftRel=247679
-frmTopRel=113217
-frmWidthRel=275266
-frmHeightRel=214896
-frmWindowState=0
-frmTimeStamp=2017. 06. 22. 8:57:12
+frmTimeStamp=2019. 03. 29. 12:02:20
 frmVersion=2
 frmVisible=0
 
 [XYPlot-Instances]
-GG=0
-Aero_Map=1
+steeringangle=0
+_Temporary_XY=1
+
+[fXYPlot0_2]
+frmLeft=424
+frmTop=319
+frmWidth=1228
+frmHeight=624
+frmLeftRel=180907
+frmTopRel=111445
+frmWidthRel=523947
+frmHeightRel=302355
+frmWindowState=0
+frmTimeStamp=2019. 03. 29. 12:57:58
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
 
 [fXYPlotManager0]
 Background color=0
@@ -1445,39 +1455,54 @@ Measuring cross=1
 No border=0
 Display phases in status bar=1
 
-[fTrackMode3RPM_usage_tms]
-frmLeft=1074
-frmTop=86
-frmWidth=729
-frmHeight=551
-frmLeftRel=458240
-frmTopRel=-1454
-frmWidthRel=311040
-frmHeightRel=266983
+[fMeasuringValues]
+frmVisible=1
+frmLeft=1142
+frmTop=74
+frmWidth=231
+frmHeight=411
+frmLeftRel=684866
+frmTopRel=-10817
+frmWidthRel=138532
+frmHeightRel=296383
 frmWindowState=0
-frmTimeStamp=11/24/2018 11:14:11 PM
+frmTimeStamp=2019. 03. 31. 18:36:54
+Position data visible=1
+AutoScale=1
+Relative values=0
+grdMeasuring.ColWidths[0]=101
+grdMeasuring.ColWidths[1]=108
+grdMeasuring.ColWidths[2]=77
+grdMeasuring.ColWidths[3]=60
+frmVersion=2
+
+[fEqualizeChannelLimits]
+frmLeft=413
+frmTop=246
+frmWidth=459
+frmHeight=298
+frmLeftRel=247679
+frmTopRel=113217
+frmWidthRel=275266
+frmHeightRel=214896
+frmWindowState=0
+frmTimeStamp=2019. 03. 31. 17:44:34
 frmVersion=2
 frmVisible=0
-No border=0
-Opacity=255
-Transparent=0
-
-[fTrackMode3]
-SettingsFileName=RPM_usage.tms
 
 [fXYPlot1_1]
-frmLeft=1075
-frmTop=366
-frmWidth=845
-frmHeight=491
-frmLeftRel=458667
-frmTopRel=134218
-frmWidthRel=360533
-frmHeightRel=237910
+frmLeft=138
+frmTop=5
+frmWidth=1094
+frmHeight=656
+frmLeftRel=82760
+frmTopRel=-60575
+frmWidthRel=656080
+frmHeightRel=473059
 frmWindowState=0
-frmTimeStamp=11/28/2018 11:37:31 AM
+frmTimeStamp=2019. 03. 31. 17:56:50
 frmVersion=2
-frmVisible=1
+frmVisible=0
 Tools visible=1
 twXYPlot.DockedTo=1
 twXYPlot.DockRow=0
@@ -1503,88 +1528,32 @@ Measuring cross=1
 No border=0
 Display phases in status bar=1
 
-[fExternalWait]
-frmLeft=459
-frmTop=313
-frmWidth=387
-frmHeight=69
-frmLeftRel=195840
-frmTopRel=108538
-frmWidthRel=165120
-frmHeightRel=33433
-frmWindowState=0
-frmTimeStamp=11/28/2018 11:37:31 AM
-frmVersion=2
-
-[Settings visibilities]
-0=XY-Plot,GG.xys
-1=XY-Plot,Aero_Map.xys
-
 [Channel context Channels]
 0=Susp_F,1,0,0,0,0,0,0,0,0,0,0,0
 1=Susp_R,1,0,0,0,0,0,0,0,0,0,0,0
 2=Gear_Nr,2,0,0,0,0,0,0,0,0,0,0,1
-3=StrAng2,2,0,0,0,0,0,0,0,0,0,0,1
-4=Throttle,4,0,0,0,0,0,0,0,0,0,0,1
-5=StrAng,2,0,0,0,0,0,0,0,0,0,0,1
-6=BrkPrFR,4,0,0,0,0,0,0,0,0,0,0,1
-7=TCUTrq1,3,0,0,0,1,1,0,0,0,0,0,1
-8=TCUTrq2,3,0,0,0,0,0,0,0,0,0,0,0
-9=TCUTrq3,3,0,0,0,0,0,0,0,0,0,0,0
-10=TCUTrq4,3,0,0,0,0,0,0,0,0,0,0,0
-11=MotRPM1,1,0,0,0,0,0,0,0,0,0,0,0
-12=MotRPM2,1,0,0,0,0,0,0,0,0,0,0,0
-13=MotRPM3,1,0,0,0,0,0,0,0,0,0,0,0
-14=MotRPM4,1,0,0,0,0,1,0,1,0,1,0,1
-15=AMK_Actualvelocity 1,1,0,0,0,0,1,0,0,1,0,0,1
-16=AMK_Err3,2,0,0,0,0,0,0,0,0,0,0,0
-17=AMK_Err4,2,0,0,0,0,0,0,0,0,0,0,0
-18=BrkPos,4,0,0,0,0,0,0,0,0,0,0,0
-19=BrkPrR,4,0,0,0,0,0,0,0,0,0,0,0
-20=HVACC_CellTemp,1,1,0,0,0,0,0,0,0,0,0,1
-21=HVACC_CellID,1,1,0,0,0,0,0,0,0,0,0,1
-22=AMK_Err1,2,0,0,0,0,0,0,0,0,0,0,0
-23=AMK_Err2,2,0,0,0,0,0,0,0,0,0,0,0
-24=CellTemp_S1M1T1,1,1,0,0,0,0,0,0,0,0,0,1
-25=Acceleration_X_Rear,2,0,0,0,0,0,0,0,0,0,0,1
-26=Acceleration_X_Front,2,0,0,0,0,0,0,0,0,0,0,1
-27=ACC_X,1,0,0,0,0,0,0,0,0,0,0,0
-28=Acc_Y_Filtered,1,1,0,0,0,0,0,0,0,0,0,1
-29=ACC_Y,1,0,0,0,0,0,0,0,0,0,0,0
-30=Acceleration_Y_Front,1,0,0,1,0,0,0,0,0,0,0,1
-31=V_RPM,4,1,0,1,0,0,0,0,0,0,0,1
-32=Damper_Travel_FL,2,1,0,0,0,0,0,0,0,0,0,1
-33=Damper_Travel_FR,2,1,0,0,0,0,0,0,0,0,0,1
-34=Damper_Travel_RL,2,1,0,0,0,0,0,0,0,0,0,1
-35=Damper_Travel_RR,2,1,0,0,0,0,0,0,0,0,0,1
-36=Ride_Height_Front,1,1,0,0,0,0,0,0,0,0,0,1
-37=Ride_Height_Rear,1,1,0,0,0,0,0,0,0,0,0,1
-38=Roll_Angle_Rear,3,1,0,0,0,0,0,0,0,0,0,1
-39=Roll_Angle_Front,3,1,0,0,0,0,0,0,0,0,0,1
+3=ValidSat,3,0,0,0,0,0,0,0,0,0,0,1
+4=V_Rear,1,0,0,0,0,0,0,0,0,0,0,0
+5=Vext,1,0,0,0,0,0,0,0,0,0,0,0
+6=AMK_Actualvelocity_1,1,1,0,0,0,0,0,0,0,0,0,1
+7=AMK_ActualVelocity_3,1,1,0,0,0,0,0,0,0,0,0,0
+8=AMK_Actualvelocity_2,1,1,0,0,0,0,0,0,0,0,0,0
+9=AMK_ActualVelocity_4,1,1,0,0,0,0,0,0,0,0,0,0
+10=V_Sat,1,0,0,0,0,0,0,0,0,0,0,0
+11=AMK_TorqueLimit_1,2,1,0,0,0,0,0,0,0,0,0,1
+12=AMK_TorqueLimit_2,2,1,0,0,0,0,0,0,0,0,0,0
+13=AMK_TorqueLimit_3,2,1,0,0,0,0,0,0,0,0,0,0
+14=AMK_TorqueLimit_4,2,1,0,0,0,0,0,0,0,0,0,0
+15=Damper_Travel_FL,4,1,0,0,0,0,0,0,0,0,0,1
+16=Damper_Travel_FR,4,1,0,0,0,0,0,0,0,0,0,0
+17=Damper_Travel_RL,4,1,0,0,0,0,0,0,0,0,0,0
+18=Damper_Travel_RR,4,1,0,0,0,0,0,0,0,0,0,0
+19=Fz_1,3,1,0,0,1,0,0,0,0,0,0,0
+20=Fz_2,3,1,0,0,0,0,0,0,0,0,0,1
+21=Fz_3,3,1,0,0,0,0,0,0,0,0,0,0
+22=Fz_4,3,1,0,0,0,0,0,0,0,0,0,0
+23=Power_Electric,1,0,0,0,0,1,0,0,0,0,0,1
 
 [Channel context Overview Channels]
-0=Acceleration_Y_Front,0,0,0,0,0,0,0,0,0,0,0,0
-1=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
-2=Damper_Travel_RR,0,0,0,0,0,0,0,0,0,0,0,0
-3=V_RPM,0,1,0,0,0,0,0,0,0,0,0,0
-
-[fMeasuringValues]
-frmVisible=0
-frmLeft=1122
-frmTop=141
-frmWidth=231
-frmHeight=171
-frmLeftRel=672871
-frmTopRel=37499
-frmWidthRel=138532
-frmHeightRel=123313
-frmWindowState=0
-frmTimeStamp=2019. 03. 31. 16:49:55
-Position data visible=1
-AutoScale=1
-Relative values=0
-grdMeasuring.ColWidths[0]=101
-grdMeasuring.ColWidths[1]=108
-grdMeasuring.ColWidths[2]=77
-grdMeasuring.ColWidths[3]=60
-frmVersion=2
+0=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
+1=VehicleSpeed,0,1,0,0,0,0,0,0,0,0,0,0
