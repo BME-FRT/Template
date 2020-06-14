@@ -1,5 +1,5 @@
 [fAnalyzer]
-frmVisible=1
+frmVisible=0
 frmLeft=0
 frmTop=0
 frmWidth=1280
@@ -21,29 +21,30 @@ frmLeftRel=0
 frmTopRel=0
 frmWidthRel=819200
 frmHeightRel=39948
-frmTimeStamp=15.10.2014 15:31:39
+frmTimeStamp=15.10.2014 15:30:08
 frmVersion=2
 Show status=0
+Includes channel limits=0
 
 [fWindowList]
 frmVisible=0
-frmLeft=1159
+frmLeft=1141
 frmTop=86
-frmWidth=121
-frmHeight=732
+frmWidth=140
+frmHeight=731
 frmWindowState=0
-frmLeftRel=741760
+frmLeftRel=730240
 frmTopRel=0
-frmWidthRel=77440
-frmHeightRel=372302
-frmTimeStamp=15.10.2014 15:31:39
+frmWidthRel=89600
+frmHeightRel=371793
+frmTimeStamp=15.10.2014 15:30:08
 frmVersion=2
 
 [fOverview1]
 frmVisible=1
 Slider visible=0
 ChannelWinCount=1
-Statusbar visible=1
+Statusbar visible=0
 Laptriggers visible=1
 Laptimes visible=1
 Laptimes vertical=1
@@ -56,67 +57,21 @@ Fastest lap color=255
 InOut lap color=32768
 Show lap no=1
 frmLeft=0
-frmTop=818
-frmWidth=1013
-frmHeight=174
+frmTop=830
+frmWidth=979
+frmHeight=162
 frmWindowState=0
 frmLeftRel=0
-frmTopRel=372302
-frmWidthRel=648320
-frmHeightRel=88498
-frmTimeStamp=15.10.2014 15:31:39
+frmTopRel=378405
+frmWidthRel=626560
+frmHeightRel=82395
+frmTimeStamp=15.10.2014 15:30:08
 frmVersion=2
 Sections visible=0
 UDMarkers=1
 Sections color=16776960
-No border=0
-
-[fPanning]
-frmVisible=1
-frmLeft=0
-frmTop=86
-frmWidth=1280
-frmHeight=732
-frmWindowState=0
-Statusbar visible=1
-Laptriggers visible=1
-Laptimes visible=1
-Laptimes vertical=1
-Lapstarts unique=1
-Color scheme=0
-Background color=0
-Scaling color=16777215
-Lapstarts color=16711680
-Laptimes color=16777215
-Fastest lap color=255
-InOut lap color=32768
-Area count=0
-Measuring all channels=0
-Show grid=0
-frmLeftRel=0
-frmTopRel=0
-frmWidthRel=819200
-frmHeightRel=372302
-frmTimeStamp=15.10.2014 15:31:39
-Area0=2
-Area1=3
-frmVersion=2
-Panel header=1
-Sections visible=0
-Segments visible=1
-UDMarkers=1
-UDMarkernames=1
-Sections color=16776960
-Area size0=
-Corner numbers=1
-Corner names=0
-Segments vertical=0
-No border=0
-Display separate=0
-Display squared=0
-Display unstretched=0
-Show extrema=0
-PanelPanning size ratio=100
+No border=1
+Ov_frmVisible=1
 
 [fOvPaProperties]
 frmVisible=0
@@ -133,36 +88,36 @@ frmTimeStamp="09.07.01 18:18:06"
 
 [fGeneral]
 frmLeft=502
-frmTop=301
+frmTop=303
 frmWidth=319
 frmHeight=394
 frmWindowState=0
 frmLeftRel=321280
-frmTopRel=109351
+frmTopRel=110368
 frmWidthRel=204160
 frmHeightRel=200392
-frmTimeStamp=15.10.2014 15:31:39
+frmTimeStamp=15.10.2014 15:30:08
 frmVersion=2
 
 [fCircuit]
 frmVisible=1
-frmLeft=1013
-frmTop=818
-frmWidth=267
-frmHeight=174
-frmLeftRel=648320
-frmTopRel=372302
-frmWidthRel=170880
-frmHeightRel=88498
+frmLeft=979
+frmTop=783
+frmWidth=301
+frmHeight=209
+frmLeftRel=626560
+frmTopRel=354501
+frmWidthRel=192640
+frmHeightRel=106299
 frmWindowState=0
-frmTimeStamp=15.10.2014 15:31:40
+frmTimeStamp=15.10.2014 15:30:08
 Offset input=0
 Background color=12632256
 Track color=16711935
 Selection color=65535
 frmVersion=2
 Positions size=2
-No border=0
+No border=1
 Opacity=255
 Transparent=0
 
@@ -195,23 +150,22 @@ frmVersion=2
 
 [fMeasuringValues]
 frmVisible=0
-frmLeft=954
-frmTop=45
-frmWidth=225
-frmHeight=230
-frmLeftRel=610560
-frmTopRel=-20853
-frmWidthRel=144000
-frmHeightRel=116980
+frmLeft=904
+frmTop=33
+frmWidth=244
+frmHeight=260
+frmLeftRel=578560
+frmTopRel=-26956
+frmWidthRel=156160
+frmHeightRel=132238
 frmWindowState=0
-frmTimeStamp=15.10.2014 15:31:40
+frmTimeStamp=15.10.2014 15:30:08
 Position data visible=1
 AutoScale=1
 Relative values=0
-grdMeasuring.ColWidths[0]=121
-grdMeasuring.ColWidths[1]=90
-grdMeasuring.ColWidths[2]=77
-grdMeasuring.ColWidths[3]=60
+grdMeasuring.ColWidths[0]=150
+grdMeasuring.ColWidths[1]=80
+grdMeasuring.ColWidths[2]=80
 frmVersion=2
 
 [fMeasurement]
@@ -310,15 +264,15 @@ frmVersion=2
 [fOverview2]
 frmVisible=0
 frmLeft=0
-frmTop=817
+frmTop=812
 frmWidth=1013
-frmHeight=174
+frmHeight=172
 frmWindowState=0
 frmLeftRel=0
-frmTopRel=372204
+frmTopRel=372343
 frmWidthRel=648320
-frmHeightRel=88596
-frmTimeStamp="18.01.2005 14:21:01"
+frmHeightRel=88457
+frmTimeStamp=24/05/2011 10:44:57
 frmVersion=2
 
 [fEditGroupMembers]
@@ -772,38 +726,46 @@ Stay on top=1
 Paint immediately=1
 
 [fXYPlot2_1]
-frmLeft=237
-frmTop=214
-frmWidth=565
-frmHeight=398
-frmLeftRel=189600
-frmTopRel=95769
-frmWidthRel=452000
-frmHeightRel=276202
+frmLeft=296
+frmTop=274
+frmWidth=706
+frmHeight=537
+frmLeftRel=189440
+frmTopRel=95657
+frmWidthRel=451840
+frmHeightRel=276171
 frmWindowState=0
-frmTimeStamp="14.02.2003 15:26:45"
+frmTimeStamp=5/25/2011 1:31:12 PM
 frmVersion=2
 Tools visible=1
-twXYPlot.Left=681
-twXYPlot.Top=281
+twXYPlot.Left=0
+twXYPlot.Top=0
 Color scale visible=1
-twColorScale.Left=709
-twColorScale.Top=391
+twColorScale.Left=0
+twColorScale.Top=31
 twColorScale.Width=121
 twColorScale.Height=131
-frmVisible=1
+frmVisible=0
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
 
 [fXYPlotManager]
 frmLeft=561
 frmTop=334
 frmWidth=239
-frmHeight=334
+frmHeight=331
 frmLeftRel=359040
-frmTopRel=126274
+frmTopRel=126514
 frmWidthRel=152960
-frmHeightRel=170063
+frmHeightRel=170229
 frmWindowState=0
-frmTimeStamp="08.02.2005 18:42:00"
+frmTimeStamp=5/25/2011 1:33:42 PM
 frmVersion=2
 Background color=0
 Highlight phases=0
@@ -819,49 +781,57 @@ Stay on top=1
 frmLeft=465
 frmTop=310
 frmWidth=321
-frmHeight=132
+frmHeight=130
 frmLeftRel=297600
-frmTopRel=114054
+frmTopRel=114171
 frmWidthRel=205440
-frmHeightRel=67211
+frmHeightRel=66857
 frmWindowState=0
-frmTimeStamp="08.02.2005 18:42:21"
+frmTimeStamp=5/24/2011 11:56:10 AM
 frmVersion=2
 frmVisible=0
 
 [fXYPlot5_1]
-frmLeft=251
-frmTop=215
-frmWidth=405
-frmHeight=286
-frmLeftRel=200800
-frmTopRel=96463
-frmWidthRel=324000
-frmHeightRel=198477
+frmLeft=314
+frmTop=276
+frmWidth=506
+frmHeight=386
+frmLeftRel=200960
+frmTopRel=96686
+frmWidthRel=323840
+frmHeightRel=198514
 frmWindowState=0
-frmTimeStamp="14.02.2003 15:39:10"
+frmTimeStamp=5/25/2011 1:33:03 PM
 frmVersion=2
 frmVisible=0
 Tools visible=1
-twXYPlot.Left=653
-twXYPlot.Top=248
+twXYPlot.Left=0
+twXYPlot.Top=0
 Color scale visible=1
-twColorScale.Left=681
-twColorScale.Top=358
+twColorScale.Left=0
+twColorScale.Top=31
 twColorScale.Width=121
 twColorScale.Height=131
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
 
 [fCalFile]
-frmLeft=67
-frmTop=239
-frmWidth=563
-frmHeight=414
-frmLeftRel=42880
-frmTopRel=77903
-frmWidthRel=360320
-frmHeightRel=210797
+frmLeft=84
+frmTop=210
+frmWidth=704
+frmHeight=365
+frmLeftRel=43008
+frmTopRel=77572
+frmWidthRel=360448
+frmHeightRel=211296
 frmWindowState=0
-frmTimeStamp="16.03.2004 17:39:45"
+frmTimeStamp=13.01.2014 11:52:44
 frmVersion=2
 frmVisible=0
 grdCalEvent.ColWidths[0]=40
@@ -874,18 +844,30 @@ grdCalDataRoot.ColWidths[0]=40
 grdCalDataRoot.ColWidths[1]=200
 grdCalRaceSoftware.ColWidths[0]=40
 grdCalRaceSoftware.ColWidths[1]=200
+Preview width=181
+Show preview=1
+grdCalDataRootNew.ColWidths[0]=76
+grdCalDataRootNew.ColWidths[1]=200
+grdCalEventNew.ColWidths[0]=76
+grdCalEventNew.ColWidths[1]=200
+grdCalMeasurementNew.ColWidths[0]=76
+grdCalMeasurementNew.ColWidths[1]=200
+grdCalRaceSoftwareNew.ColWidths[0]=76
+grdCalRaceSoftwareNew.ColWidths[1]=200
+grdCalSWSubFolderNew.ColWidths[0]=76
+grdCalSWSubFolderNew.ColWidths[1]=200
 
 [fAnaGeneral]
-frmLeft=515
-frmTop=316
+frmLeft=516
+frmTop=315
 frmWidth=319
-frmHeight=416
-frmLeftRel=329600
-frmTopRel=116980
+frmHeight=415
+frmLeftRel=330240
+frmTopRel=116472
 frmWidthRel=204160
-frmHeightRel=211581
+frmHeightRel=211073
 frmWindowState=0
-frmTimeStamp=15.10.2014 15:31:39
+frmTimeStamp=15.10.2014 15:30:08
 frmVersion=2
 
 [fXYPlot33_1]
@@ -945,25 +927,33 @@ SettingsFileName="RPM.mms"
 
 [fXYPlot6_1]
 frmLeft=259
-frmTop=219
+frmTop=220
 frmWidth=655
-frmHeight=543
+frmHeight=538
 frmLeftRel=165760
-frmTopRel=67720
+frmTopRel=67886
 frmWidthRel=419200
-frmHeightRel=276480
+frmHeightRel=276686
 frmWindowState=0
-frmTimeStamp="17.03.2004 18:58:16"
+frmTimeStamp=5/25/2011 1:33:42 PM
 frmVersion=2
 frmVisible=0
 Tools visible=1
-twXYPlot.Left=854
-twXYPlot.Top=264
+twXYPlot.Left=0
+twXYPlot.Top=0
 Color scale visible=1
-twColorScale.Left=855
-twColorScale.Top=403
+twColorScale.Left=0
+twColorScale.Top=31
 twColorScale.Width=121
 twColorScale.Height=135
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
 
 [fQuickChannels]
 frmLeft=293
@@ -981,16 +971,16 @@ frmVisible=0
 View type=1
 
 [fCalcShow]
-frmLeft=365
-frmTop=162
-frmWidth=501
-frmHeight=501
-frmLeftRel=233600
-frmTopRel=38697
-frmWidthRel=320640
-frmHeightRel=255095
+frmLeft=328
+frmTop=150
+frmWidth=451
+frmHeight=407
+frmLeftRel=233244
+frmTopRel=38817
+frmWidthRel=320711
+frmHeightRel=254817
 frmWindowState=0
-frmTimeStamp="16.03.2004 16:58:02"
+frmTimeStamp=5/26/2011 10:03:33 AM
 frmVersion=2
 frmVisible=0
 
@@ -1101,25 +1091,33 @@ frmVisible=0
 
 [fXYPlot0_1]
 frmLeft=219
-frmTop=223
+frmTop=224
 frmWidth=819
-frmHeight=594
+frmHeight=588
 frmLeftRel=140160
-frmTopRel=69756
+frmTopRel=69943
 frmWidthRel=524160
-frmHeightRel=302448
+frmHeightRel=302400
 frmWindowState=0
-frmTimeStamp="08.02.2005 18:41:19"
+frmTimeStamp=5/25/2011 1:30:47 PM
 frmVersion=2
 frmVisible=0
 Tools visible=1
-twXYPlot.Left=807
-twXYPlot.Top=266
+twXYPlot.Left=0
+twXYPlot.Top=0
 Color scale visible=1
-twColorScale.Left=284
-twColorScale.Top=278
+twColorScale.Left=0
+twColorScale.Top=31
 twColorScale.Width=121
 twColorScale.Height=135
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
 
 [fXYPlot30_1]
 frmLeft=268
@@ -1168,14 +1166,14 @@ twColorScale.Height=135
 [fMultiCircuit]
 frmLeft=321
 frmTop=218
-frmWidth=401
+frmWidth=472
 frmHeight=368
 frmLeftRel=205440
 frmTopRel=67136
-frmWidthRel=256640
+frmWidthRel=302080
 frmHeightRel=187168
 frmWindowState=0
-frmTimeStamp=15.10.2014 15:31:40
+frmTimeStamp=15.10.2014 15:30:08
 frmVersion=2
 frmVisible=0
 Background color=16777215
@@ -1190,11 +1188,11 @@ Opacity=255
 Transparent=0
 twXYPlot.DockedTo=1
 Display GPS map image=1
-Show defined GPS positions=1
 Display extended selection=1
 Use GPS=0
 AutoCenter=1
 Show total map=1
+Show defined GPS positions=1
 
 [fXYPlot35_1]
 frmLeft=28
@@ -1281,21 +1279,31 @@ Show grid=1
 Show mouse cross=0
 No border=0
 
-[Channel context Area1]
-Top=0
-Bottom=100
+[fExternalWait]
+frmLeft=459
+frmTop=313
+frmWidth=399
+frmHeight=69
+frmLeftRel=223817
+frmTopRel=115928
+frmWidthRel=194560
+frmHeightRel=33469
+frmWindowState=0
+frmTimeStamp=07/04/2011 13:42:19
+frmVersion=2
 
-[Channel context Area2]
-Top=0
-Bottom=15
-
-[Channel context Area3]
-Top=15
-Bottom=90
-
-[Channel context Area4]
-Top=90
-Bottom=100
+[fStatusWindow]
+frmLeft=1303
+frmTop=427
+frmWidth=377
+frmHeight=170
+frmLeftRel=635368
+frmTopRel=171224
+frmWidthRel=183832
+frmHeightRel=82459
+frmWindowState=0
+frmTimeStamp=07/04/2011 13:42:19
+frmVersion=2
 
 [Channel context Overview Area1]
 Top=0
@@ -1313,70 +1321,481 @@ Bottom=70
 Top=70
 Bottom=100
 
-[Template content]
-V_st=0
-Linked=0
+[fSaveSetting]
+frmLeft=413
+frmTop=244
+frmWidth=299
+frmHeight=397
+frmLeftRel=293689
+frmTopRel=93115
+frmWidthRel=212622
+frmHeightRel=236966
+frmWindowState=0
+frmTimeStamp=5/24/2011 9:30:48 AM
+frmVersion=2
+frmVisible=0
+
+[fMinMaxTable1mm_BMW_Bike]
+frmLeft=243
+frmTop=184
+frmWidth=504
+frmHeight=598
+frmLeftRel=155520
+frmTopRel=49371
+frmWidthRel=322560
+frmHeightRel=307543
+frmWindowState=0
+frmTimeStamp=5/25/2011 12:45:34 PM
+frmVersion=2
+frmVisible=0
+AreaGrid.ColWidths[0]=36
+AreaGrid.ColWidths[1]=68
+AreaGrid.ColWidths[2]=48
+AreaGrid.ColWidths[3]=64
+AreaGrid.ColWidths[4]=64
+AreaGrid.ColWidths[5]=64
+AreaGrid.ColWidths[6]=64
+AreaGrid.ColWidths[7]=64
+Button bar=1
+Show graphics=1
+Vertical channel names=1
+No border=0
+
+[fMinMaxTable1mm_BMW_Control]
+frmLeft=243
+frmTop=184
+frmWidth=439
+frmHeight=596
+frmLeftRel=155520
+frmTopRel=49371
+frmWidthRel=280960
+frmHeightRel=306514
+frmWindowState=0
+frmTimeStamp=5/25/2011 12:47:36 PM
+frmVersion=2
+frmVisible=0
+AreaGrid.ColWidths[0]=36
+AreaGrid.ColWidths[1]=68
+AreaGrid.ColWidths[2]=48
+AreaGrid.ColWidths[3]=64
+AreaGrid.ColWidths[4]=64
+AreaGrid.ColWidths[5]=64
+Button bar=1
+Show graphics=1
+Vertical channel names=1
+No border=0
+AreaGrid.ColWidths[6]=64
+
+[fMinMaxTable1mm_BMW_Engine]
+frmLeft=243
+frmTop=184
+frmWidth=894
+frmHeight=612
+frmLeftRel=155520
+frmTopRel=49371
+frmWidthRel=572160
+frmHeightRel=314743
+frmWindowState=0
+frmTimeStamp=5/25/2011 12:48:23 PM
+frmVersion=2
+frmVisible=0
+AreaGrid.ColWidths[0]=36
+AreaGrid.ColWidths[1]=68
+AreaGrid.ColWidths[2]=48
+AreaGrid.ColWidths[3]=64
+AreaGrid.ColWidths[4]=64
+AreaGrid.ColWidths[5]=64
+AreaGrid.ColWidths[6]=64
+AreaGrid.ColWidths[7]=64
+AreaGrid.ColWidths[8]=64
+AreaGrid.ColWidths[9]=64
+AreaGrid.ColWidths[10]=64
+AreaGrid.ColWidths[11]=64
+AreaGrid.ColWidths[12]=64
+AreaGrid.ColWidths[13]=64
+Button bar=1
+Show graphics=1
+Vertical channel names=1
+No border=0
+
+[fMinMaxTable1mc_Spin]
+frmLeft=243
+frmTop=184
+frmWidth=309
+frmHeight=418
+frmLeftRel=155520
+frmTopRel=49371
+frmWidthRel=197760
+frmHeightRel=214971
+frmWindowState=0
+frmTimeStamp=5/25/2011 12:48:31 PM
+frmVersion=2
+frmVisible=0
+AreaGrid.ColWidths[0]=36
+AreaGrid.ColWidths[1]=68
+AreaGrid.ColWidths[2]=48
+AreaGrid.ColWidths[3]=64
+AreaGrid.ColWidths[4]=64
+Button bar=1
+Show graphics=1
+Vertical channel names=1
+No border=0
 
 [Histogram-Instances]
-hg Susp_F_Speed=0
-hg Susp_R_Speed=1
+hg BMW_GripPos=0
+hg BMW_TCS=1
+hg BMW_Throttle=2
+hg BMW_RPM=3
 
 [fOneHistogram_0_0]
-frmLeft=735
-frmTop=39
-frmWidth=453
-frmHeight=408
-frmLeftRel=470400
-frmTopRel=18116
-frmWidthRel=289920
-frmHeightRel=189523
+frmLeft=64
+frmTop=329
+frmWidth=729
+frmHeight=606
+frmLeftRel=40960
+frmTopRel=154068
+frmWidthRel=466560
+frmHeightRel=283785
 frmWindowState=0
-frmTimeStamp=03.02.2009 18:53:49
+frmTimeStamp=5/25/2011 1:29:47 PM
 frmVersion=2
 
 [fHistogramManager]
-hg Susp_F_Speed.sts\Susp_F_speed=Statist_Smooth.sgs
-hg Susp_F_Speed.sts\Susp_F_speed ViewType=0
-hg Susp_R_Speed.sts\Susp_R_speed ViewType=0
-hg Susp_R_Speed.sts\Susp_R_speed=Statist_Smooth.sgs
+hg BMW_GripPos.sts\Grip_pos=Statist.sgs
+hg BMW_GripPos.sts\Grip_pos ViewType=0
+hg BMW_Throttle.sts\Throttle=Statist.sgs
+hg BMW_Throttle.sts\Throttle ViewType=0
+hg BMW_TCS.sts\re_dtc_tot=Statist.sgs
+hg BMW_TCS.sts\re_dtc_tot ViewType=0
+hg BMW_RPM.sts\RPM=Statist.sgs
+hg BMW_RPM.sts\RPM ViewType=0
 
 [fOneHistogram_1_0]
-frmLeft=736
-frmTop=447
-frmWidth=453
-frmHeight=408
-frmLeftRel=471040
-frmTopRel=207639
-frmWidthRel=289920
-frmHeightRel=189523
+frmLeft=62
+frmTop=108
+frmWidth=576
+frmHeight=443
+frmLeftRel=39680
+frmTopRel=50576
+frmWidthRel=368640
+frmHeightRel=207454
 frmWindowState=0
-frmTimeStamp=03.02.2009 18:53:48
+frmTimeStamp=5/25/2011 1:30:07 PM
 frmVersion=2
 
-[fMinMaxTable1mm_GPS]
-frmLeft=243
-frmTop=184
-frmWidth=844
-frmHeight=316
-frmLeftRel=155520
-frmTopRel=49844
-frmWidthRel=540160
-frmHeightRel=160721
+[fOneHistogram_1_1]
+frmLeft=638
+frmTop=108
+frmWidth=576
+frmHeight=443
+frmLeftRel=408320
+frmTopRel=50576
+frmWidthRel=368640
+frmHeightRel=207454
 frmWindowState=0
-frmTimeStamp=03.02.2009 18:53:03
+frmTimeStamp=5/25/2011 1:30:07 PM
+frmVersion=2
+
+[fOneHistogram_1_2]
+frmLeft=61
+frmTop=550
+frmWidth=576
+frmHeight=443
+frmLeftRel=39040
+frmTopRel=257561
+frmWidthRel=368640
+frmHeightRel=207454
+frmWindowState=0
+frmTimeStamp=5/25/2011 1:30:07 PM
+frmVersion=2
+
+[fOneHistogram_2_0]
+frmLeft=64
+frmTop=359
+frmWidth=590
+frmHeight=576
+frmLeftRel=40960
+frmTopRel=168117
+frmWidthRel=377600
+frmHeightRel=269737
+frmWindowState=0
+frmTimeStamp=5/25/2011 1:30:12 PM
+frmVersion=2
+
+[fOneHistogram_3_0]
+frmLeft=64
+frmTop=49
+frmWidth=576
+frmHeight=886
+frmLeftRel=40960
+frmTopRel=22946
+frmWidthRel=368640
+frmHeightRel=414907
+frmWindowState=0
+frmTimeStamp=5/25/2011 1:30:19 PM
+frmVersion=2
+
+[fOneHistogram_3_1]
+frmLeft=640
+frmTop=49
+frmWidth=576
+frmHeight=886
+frmLeftRel=409600
+frmTopRel=22946
+frmWidthRel=368640
+frmHeightRel=414907
+frmWindowState=0
+frmTimeStamp=5/25/2011 1:30:19 PM
+frmVersion=2
+
+[XYPlot-Instances]
+ThrottleMap=0
+Slip=1
+Reduction=2
+GearBox2=3
+GearBox1=4
+Camm By GPS Current Lap=5
+Camm By GPS All Laps=6
+
+[fXYPlotManager0]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot1_1]
+frmLeft=128
+frmTop=98
+frmWidth=1024
+frmHeight=788
+frmLeftRel=81920
+frmTopRel=5143
+frmWidthRel=655360
+frmHeightRel=405257
+frmWindowState=0
+frmTimeStamp=5/25/2011 1:31:00 PM
 frmVersion=2
 frmVisible=0
-Button bar=1
-Show graphics=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager1]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
 No border=0
+Display phases in status bar=1
+
+[fXYPlotManager2]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot3_1]
+frmLeft=128
+frmTop=98
+frmWidth=1024
+frmHeight=788
+frmLeftRel=81920
+frmTopRel=5143
+frmWidthRel=655360
+frmHeightRel=405257
+frmWindowState=0
+frmTimeStamp=5/25/2011 1:31:57 PM
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager3]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot4_1]
+frmLeft=128
+frmTop=98
+frmWidth=1024
+frmHeight=788
+frmLeftRel=81920
+frmTopRel=5143
+frmWidthRel=655360
+frmHeightRel=405257
+frmWindowState=0
+frmTimeStamp=5/25/2011 1:32:27 PM
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager4]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlotManager5]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlotManager6]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fEqualizeChannelLimits]
+frmLeft=413
+frmTop=246
+frmWidth=459
+frmHeight=297
+frmLeftRel=264320
+frmTopRel=81257
+frmWidthRel=293760
+frmHeightRel=152743
+frmWindowState=0
+frmTimeStamp=5/25/2011 2:10:48 PM
+frmVersion=2
+frmVisible=0
+
+[fPanning]
+frmVisible=1
+frmLeft=0
+frmTop=86
+frmWidth=1280
+frmHeight=746
+frmWindowState=0
+Statusbar visible=1
+Laptriggers visible=1
+Laptimes visible=1
+Laptimes vertical=1
+Lapstarts unique=1
+Color scheme=0
+Background color=0
+Scaling color=16777215
+Lapstarts color=16711680
+Laptimes color=16777215
+Fastest lap color=255
+InOut lap color=32768
+Area count=0
+Measuring all channels=0
+Show grid=0
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=819200
+frmHeightRel=379423
+frmTimeStamp=15.10.2014 15:30:08
+Area0=2
+Area1=3
+frmVersion=2
+Panel header=1
+Sections visible=0
+Segments visible=1
+UDMarkers=1
+UDMarkernames=1
+Sections color=16776960
+Area size0=
+Corner numbers=1
+Corner names=0
+Segments vertical=0
+No border=0
+Display separate=0
+Display squared=0
+Display unstretched=0
+PanelPanning size ratio=100
+
+[Channel context Area1]
+Top=0
+Bottom=100
+
+[Channel context Area2]
+Top=0
+Bottom=35
+
+[Channel context Area3]
+Top=35
+Bottom=70
+
+[Channel context Area4]
+Top=70
+Bottom=100
 
 [Channel context Overview Channels]
-0=V_Front,0,1,0,0,0,0,0,0,0,0,0,1
+0=Speed,0,1,0,0,0,0,0,0,0,0,0,1
+1=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
 
 [Channel context Channels]
-0=Susp_F,1,0,0,0,0,0,0,0,0,0,0,0
-1=Susp_R,1,0,0,0,0,0,0,0,0,0,0,0
+0=Grip_pos,4,1,0,0,0,0,0,0,0,0,0,0
+1=V_Front,1,1,0,0,0,0,0,0,0,0,0,1
 2=RPM,1,1,0,0,0,0,0,0,0,0,0,1
-3=V_Front,1,1,0,0,0,0,0,0,0,0,0,1
-4=Throttle,1,1,0,0,0,0,0,0,0,0,0,1
-5=Gear_Nr,2,1,0,0,0,0,0,0,0,0,0,1
+3=Throttle,4,1,0,0,0,0,0,0,0,0,0,1
+4=Brake_R,4,1,0,0,0,0,0,0,0,0,0,0
+5=Brake_F,4,1,0,0,0,0,0,0,0,0,0,1
+6=Banking_GPS,2,1,0,0,0,0,0,0,0,0,0,1

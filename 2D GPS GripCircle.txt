@@ -1,21 +1,53 @@
+[Channel context Area1]
+Top=0
+Bottom=100
+
+[Channel context Area2]
+Top=0
+Bottom=10
+
+[Channel context Area3]
+Top=10
+Bottom=70
+
+[Channel context Area4]
+Top=70
+Bottom=100
+
+[Channel context Overview Area1]
+Top=0
+Bottom=100
+
+[Channel context Overview Area2]
+Top=0
+Bottom=30
+
+[Channel context Overview Area3]
+Top=30
+Bottom=70
+
+[Channel context Overview Area4]
+Top=70
+Bottom=100
+
 [fAnaGeneral]
-frmLeft=772
-frmTop=334
-frmWidth=478
-frmHeight=442
-frmLeftRel=329387
-frmTopRel=117478
-frmWidthRel=203947
-frmHeightRel=211939
+frmLeft=515
+frmTop=317
+frmWidth=319
+frmHeight=417
+frmLeftRel=329600
+frmTopRel=117489
+frmWidthRel=204160
+frmHeightRel=212090
 frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:27 AM
+frmTimeStamp=15.10.2014 15:24:24
 frmVersion=2
 
 [fAnalyzer]
 frmVisible=0
 frmLeft=0
 frmTop=0
-frmWidth=1920
+frmWidth=1280
 frmHeight=86
 frmWindowState=0
 tbMain.DockedTo=1
@@ -33,11 +65,11 @@ tbMainMeasurement.FloatingWidth=0
 frmLeftRel=0
 frmTopRel=0
 frmWidthRel=819200
-frmHeightRel=37742
-frmTimeStamp=6/1/2020 11:55:27 AM
+frmHeightRel=39948
+frmTimeStamp=15.10.2014 15:24:24
 frmVersion=2
 Show status=0
-Includes channel limits=1
+Includes channel limits=0
 
 [fAnalyzerProperties]
 frmLeft=412
@@ -94,6 +126,42 @@ frmWindowState=0
 frmTimeStamp="08.03.2004 18:41:39"
 frmVersion=2
 frmVisible=0
+
+[fCalFile]
+frmLeft=79
+frmTop=234
+frmWidth=1322
+frmHeight=1059
+frmLeftRel=22471
+frmTopRel=33400
+frmWidthRel=376036
+frmHeightRel=299746
+frmWindowState=0
+frmTimeStamp=09.02.2013 17:50:47
+frmVersion=2
+frmVisible=0
+grdCalEvent.ColWidths[0]=40
+grdCalEvent.ColWidths[1]=200
+grdCalMeasurement.ColWidths[0]=40
+grdCalMeasurement.ColWidths[1]=200
+gbChannelsRecalc.Width=181
+gbChannelsRecalc.Height=169
+grdCalDataRoot.ColWidths[0]=40
+grdCalDataRoot.ColWidths[1]=200
+grdCalRaceSoftware.ColWidths[0]=40
+grdCalRaceSoftware.ColWidths[1]=200
+Show preview=0
+Preview width=181
+grdCalDataRootNew.ColWidths[0]=76
+grdCalDataRootNew.ColWidths[1]=200
+grdCalEventNew.ColWidths[0]=76
+grdCalEventNew.ColWidths[1]=200
+grdCalMeasurementNew.ColWidths[0]=76
+grdCalMeasurementNew.ColWidths[1]=200
+grdCalRaceSoftwareNew.ColWidths[0]=76
+grdCalRaceSoftwareNew.ColWidths[1]=200
+grdCalSWSubFolderNew.ColWidths[0]=76
+grdCalSWSubFolderNew.ColWidths[1]=200
 
 [fChannelShortNumber]
 frmVisible=0
@@ -231,16 +299,16 @@ frmHeight=179
 frmWindowState=0
 
 [fEqualizeChannelLimits]
-frmLeft=565
-frmTop=258
+frmLeft=847
+frmTop=407
 frmWidth=459
-frmHeight=298
-frmLeftRel=241067
-frmTopRel=82217
-frmWidthRel=195840
-frmHeightRel=142446
+frmHeight=309
+frmLeftRel=240924
+frmTopRel=82367
+frmWidthRel=130560
+frmHeightRel=87461
 frmWindowState=0
-frmTimeStamp=6/1/2020 11:45:59 AM
+frmTimeStamp=09.02.2013 17:45:04
 frmVersion=2
 frmVisible=0
 
@@ -293,16 +361,16 @@ frmVersion=2
 frmVisible=0
 
 [fGeneral]
-frmLeft=753
-frmTop=318
-frmWidth=478
-frmHeight=418
+frmLeft=502
+frmTop=301
+frmWidth=319
+frmHeight=394
 frmWindowState=0
 frmLeftRel=321280
-frmTopRel=109806
-frmWidthRel=203947
-frmHeightRel=200431
-frmTimeStamp=6/1/2020 11:55:27 AM
+frmTopRel=109351
+frmWidthRel=204160
+frmHeightRel=200392
+frmTimeStamp=15.10.2014 15:24:24
 frmVersion=2
 
 [fLapReport]
@@ -390,6 +458,31 @@ frmVersion=2
 grdChannels.ColWidths[11]=32
 grdChannels.ColWidths[12]=64
 grdChannels.ColWidths[13]=28
+
+[fMeasuringValues]
+frmVisible=0
+frmLeft=952
+frmTop=138
+frmWidth=304
+frmHeight=222
+frmLeftRel=609280
+frmTopRel=26448
+frmWidthRel=194560
+frmHeightRel=112911
+frmWindowState=0
+frmTimeStamp=15.10.2014 15:24:24
+Position data visible=1
+AutoScale=1
+Relative values=0
+grdMeasuring.ColWidths[0]=149
+grdMeasuring.ColWidths[1]=141
+grdMeasuring.ColWidths[2]=80
+grdMeasuring.ColWidths[3]=60
+frmVersion=2
+grdMeasuring.ColWidths[4]=80
+grdMeasuring.ColWidths[5]=80
+grdMeasuring.ColWidths[6]=80
+grdMeasuring.ColWidths[7]=80
 
 [fMinMaxTable]
 frmVisible=0
@@ -482,16 +575,16 @@ Show graphics=1
 SettingsFileName="6Ax.mms"
 
 [fMultiCircuit]
-frmLeft=740
-frmTop=89
-frmWidth=626
-frmHeight=517
-frmLeftRel=443783
+frmLeft=1560
+frmTop=115
+frmWidth=1320
+frmHeight=1317
+frmLeftRel=443733
 frmTopRel=0
-frmWidthRel=375417
-frmHeightRel=372823
+frmWidthRel=375467
+frmHeightRel=372544
 frmWindowState=0
-frmTimeStamp=2018. 12. 08. 23:39:27
+frmTimeStamp=04.04.2014 11:11:09
 frmVersion=2
 frmVisible=0
 Background color=16777215
@@ -538,6 +631,39 @@ frmWindowState=0
 frmTimeStamp="31.07.01 10:34:28"
 frmVisible=0
 frmVersion=2
+
+[fOverview1]
+frmVisible=1
+Slider visible=0
+ChannelWinCount=1
+Statusbar visible=0
+Laptriggers visible=1
+Laptimes visible=1
+Laptimes vertical=1
+Color scheme=0
+Background color=0
+Scaling color=16777215
+Lapstarts color=16711680
+Laptimes color=16777215
+Fastest lap color=255
+InOut lap color=32768
+Show lap no=1
+frmLeft=0
+frmTop=818
+frmWidth=1280
+frmHeight=174
+frmWindowState=0
+frmLeftRel=0
+frmTopRel=372302
+frmWidthRel=819200
+frmHeightRel=88498
+frmTimeStamp=15.10.2014 15:24:24
+frmVersion=2
+Sections visible=0
+UDMarkers=1
+Sections color=16776960
+No border=1
+Ov_frmVisible=1
 
 [fOverview2]
 frmVisible=1
@@ -666,17 +792,65 @@ frmWidthRel=224768
 frmHeightRel=131093
 frmTimeStamp="09.07.01 18:18:06"
 
-[fPhasesType]
-frmLeft=666
-frmTop=290
-frmWidth=239
-frmHeight=398
-frmLeftRel=284160
-frmTopRel=97514
-frmWidthRel=101973
-frmHeightRel=190247
+[fPanning]
+frmVisible=1
+frmLeft=0
+frmTop=86
+frmWidth=693
+frmHeight=732
 frmWindowState=0
-frmTimeStamp=6/1/2020 11:45:18 AM
+Statusbar visible=1
+Laptriggers visible=1
+Laptimes visible=1
+Laptimes vertical=1
+Lapstarts unique=1
+Color scheme=0
+Background color=0
+Scaling color=16777215
+Lapstarts color=16711680
+Laptimes color=16777215
+Fastest lap color=255
+InOut lap color=32768
+Area count=0
+Measuring all channels=0
+Show grid=0
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=443520
+frmHeightRel=372302
+frmTimeStamp=15.10.2014 15:24:24
+Area0=2
+Area1=3
+frmVersion=2
+Panel header=1
+Sections visible=0
+Segments visible=1
+UDMarkers=1
+UDMarkernames=1
+Sections color=16776960
+Area size0=
+Corner numbers=1
+Corner names=0
+Segments vertical=0
+No border=0
+Display separate=0
+Display squared=1
+Display unstretched=0
+PanelPanning size ratio=100
+Area0_Channels=
+Area size ratio0=
+
+[fPhasesType]
+frmLeft=999
+frmTop=458
+frmWidth=239
+frmHeight=408
+frmLeftRel=284160
+frmTopRel=97025
+frmWidthRel=67982
+frmHeightRel=115412
+frmWindowState=0
+frmTimeStamp=04.04.2014 10:57:40
 frmVersion=2
 frmVisible=0
 
@@ -710,16 +884,16 @@ frmTimeStamp=12.10.2007 06:28:17
 frmVersion=2
 
 [fSaveSetting]
-frmLeft=519
-frmTop=225
+frmLeft=847
+frmTop=405
 frmWidth=299
-frmHeight=398
-frmLeftRel=221440
-frmTopRel=66443
-frmWidthRel=127573
-frmHeightRel=190247
+frmHeight=408
+frmLeftRel=240924
+frmTopRel=82033
+frmWidthRel=85049
+frmHeightRel=115412
 frmWindowState=0
-frmTimeStamp=6/1/2020 11:44:57 AM
+frmTimeStamp=04.04.2014 11:11:07
 frmVersion=2
 frmVisible=0
 
@@ -784,16 +958,16 @@ frmHeightRel=112140
 frmTimeStamp="09.07.01 17:16:45"
 
 [fStatusWindow]
-frmLeft=964
-frmTop=166
-frmWidth=368
-frmHeight=185
-frmLeftRel=578118
-frmTopRel=55527
-frmWidthRel=220692
-frmHeightRel=133408
+frmLeft=2033
+frmTop=311
+frmWidth=775
+frmHeight=223
+frmLeftRel=578276
+frmTopRel=55194
+frmWidthRel=220444
+frmHeightRel=63119
 frmWindowState=0
-frmTimeStamp=2018. 12. 09. 16:31:39
+frmTimeStamp=14.03.2013 12:02:24
 frmVersion=2
 frmVisible=0
 
@@ -924,16 +1098,16 @@ frmVisible=0
 
 [fWindowList]
 frmVisible=0
-frmLeft=1827
-frmTop=84
-frmWidth=93
-frmHeight=781
+frmLeft=1218
+frmTop=82
+frmWidth=62
+frmHeight=736
 frmWindowState=0
 frmLeftRel=779520
-frmTopRel=-2398
+frmTopRel=-2034
 frmWidthRel=39680
-frmHeightRel=374490
-frmTimeStamp=6/1/2020 11:55:27 AM
+frmHeightRel=374336
+frmTimeStamp=15.10.2014 15:24:24
 frmVersion=2
 
 [fXYPlot]
@@ -968,18 +1142,18 @@ twColorScale.DockRow=1
 twColorScale.DockPos=0
 
 [fXYPlot11_1]
-frmLeft=1068
-frmTop=469
-frmWidth=433
-frmHeight=396
-frmLeftRel=455680
-frmTopRel=183077
-frmWidthRel=184747
-frmHeightRel=189291
+frmLeft=291
+frmTop=284
+frmWidth=566
+frmHeight=472
+frmLeftRel=170277
+frmTopRel=101532
+frmWidthRel=331191
+frmHeightRel=230400
 frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:28 AM
+frmTimeStamp="20.05.2007 11:08:49"
 frmVersion=2
-frmVisible=1
+frmVisible=0
 Tools visible=1
 twXYPlot.DockedTo=1
 twXYPlot.DockRow=0
@@ -992,8 +1166,6 @@ twColorScale.DockRow=1
 twColorScale.DockPos=0
 twColorScale.Left=0
 twColorScale.Top=31
-Opacity=255
-Transparent=0
 
 [fXYPlot11_2]
 frmLeft=311
@@ -1452,18 +1624,18 @@ Opacity=255
 Transparent=0
 
 [fXYPlot6_1]
-frmLeft=740
-frmTop=89
-frmWidth=626
-frmHeight=516
-frmLeftRel=443783
+frmLeft=693
+frmTop=86
+frmWidth=587
+frmHeight=732
+frmLeftRel=443520
 frmTopRel=0
-frmWidthRel=375417
-frmHeightRel=372101
-frmWindowState=2
-frmTimeStamp=2018. 12. 08. 23:22:45
+frmWidthRel=375680
+frmHeightRel=372302
+frmWindowState=0
+frmTimeStamp=15.10.2014 15:24:24
 frmVersion=2
-frmVisible=0
+frmVisible=1
 Tools visible=0
 twXYPlot.Left=0
 twXYPlot.Top=0
@@ -1482,34 +1654,26 @@ Opacity=255
 Transparent=0
 
 [fXYPlot8_1]
-frmLeft=1492
-frmTop=97
-frmWidth=425
-frmHeight=378
-frmLeftRel=636587
-frmTopRel=3836
-frmWidthRel=181333
-frmHeightRel=181251
+frmLeft=251
+frmTop=287
+frmWidth=695
+frmHeight=543
+frmLeftRel=160640
+frmTopRel=102343
+frmWidthRel=444800
+frmHeightRel=276480
 frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:27 AM
+frmTimeStamp="17.03.2004 18:57:41"
 frmVersion=2
-frmVisible=1
+frmVisible=0
 Tools visible=1
-twXYPlot.Left=0
-twXYPlot.Top=0
-Color scale visible=0
-twColorScale.Left=654
-twColorScale.Top=39
+twXYPlot.Left=783
+twXYPlot.Top=325
+Color scale visible=1
+twColorScale.Left=811
+twColorScale.Top=435
 twColorScale.Width=121
 twColorScale.Height=135
-twXYPlot.DockedTo=1
-twXYPlot.DockRow=0
-twXYPlot.DockPos=0
-twColorScale.DockedTo=1
-twColorScale.DockRow=1
-twColorScale.DockPos=0
-Opacity=255
-Transparent=0
 
 [fXYPlotGraphic]
 frmLeft=0
@@ -1524,16 +1688,16 @@ frmWindowState=0
 frmTimeStamp="13.07.01 14:21:25"
 
 [fXYPlotManager]
-frmLeft=842
-frmTop=352
-frmWidth=358
-frmHeight=355
-frmLeftRel=359253
-frmTopRel=126109
-frmWidthRel=152747
-frmHeightRel=170223
+frmLeft=561
+frmTop=335
+frmWidth=239
+frmHeight=334
+frmLeftRel=359040
+frmTopRel=126644
+frmWidthRel=152960
+frmHeightRel=169875
 frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:27 AM
+frmTimeStamp=15.10.2014 15:24:24
 frmVersion=2
 Background color=0
 Highlight phases=0
@@ -1548,10 +1712,6 @@ Highlight phases=0
 Show grid=1
 Show mouse cross=0
 No border=0
-Highlight phases from Moving=1
-Mouse cross=1
-Measuring cross=1
-Display phases in status bar=1
 
 [fXYPlotManager15]
 Background color=0
@@ -1624,16 +1784,16 @@ Show mouse cross=0
 No border=0
 
 [fXYPlotManager_1]
-frmLeft=673
-frmTop=271
-frmWidth=287
-frmHeight=260
-frmLeftRel=287147
-frmTopRel=87269
-frmWidthRel=122453
-frmHeightRel=124670
+frmLeft=449
+frmTop=258
+frmWidth=191
+frmHeight=245
+frmLeftRel=287360
+frmTopRel=87577
+frmWidthRel=122240
+frmHeightRel=124747
 frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:27 AM
+frmTimeStamp="08.02.2005 17:31:17"
 frmVersion=2
 frmVisible=0
 Background color=0
@@ -1659,7 +1819,7 @@ frmTimeStamp="27.07.01 11:52:39"
 0="0"
 
 [Channel limits]
-VExt=0,20
+VExt="0,20"
 Tyre_L="5,200"
 Tyre_M="5,200"
 Tyre_R="5,200"
@@ -1674,10 +1834,10 @@ Tank_Temp="31,40"
 A_UD="0,18"
 A_FR="-18,13"
 A_LR="-10,10"
-ACC_Z=-15,15
-ACC_Y=-5,5
-ACC_X=-10,10
-Temp=0,100
+ACC_Z="18,-18"
+ACC_Y="18,-18"
+ACC_X="-18,18"
+Temp="10,100"
 GYRO_Z="50,-50"
 GYRO_Y="-50,50"
 GYRO_X="50,-50"
@@ -1685,7 +1845,7 @@ RSSI="-100,0"
 APS="-1,105"
 ETV_TH_F="-5,105"
 THR="-1,105"
-RPM=0,16000
+RPM="1000,18500"
 A/F1="11,16"
 A/F2="11,16"
 A/F3="11,16"
@@ -1760,10 +1920,10 @@ DIAG3="0,256"
 DIAG4="0,256"
 PaketNr="0,270"
 LifeCoun="0,69000"
-V_Sat=0,100
-ValidSat=0.5,2.4000001
-HHMM="0,25"
-Course=0,380
+V_Sat="50,300"
+ValidSat="0.5,2"
+HHMM="0,24"
+Course="0,380"
 ORV FLAG="0,100"
 KILL IGN FLAG="0,100"
 KILL INJ FLAG="0,100"
@@ -1813,22 +1973,22 @@ CRANK_ERF="0,256"
 CASE_P_#1R="-550,-200"
 CASE_P_#2L="-550,-200"
 Banking="-70,70"
-YawRate=0,100
+YawRate="0,54"
 HorAccu="0,100"
 VerAccu="0,100"
 SpAccu="0,10"
 Lap_Delta="0,45000"
 Laps="0,10"
 DiskTemp="50,200"
-Longitude=0,100
-Latitude=0,100
-Altitude=0,3500
-GPSValid=0,3
-V_GPS=0,100
-A_Lon_GPS=-20,20
-GPS_Yaw=-50,50
-A_Lat_GPS=-20,20
-Banking_GPS=70,-70
+Longitude="0,100"
+Latitude="0,100"
+Altitude="0,1300"
+GPSValid="0,3"
+V_GPS="50,300"
+A_Lon_GPS="-18,13"
+GPS_Yaw="-50,50"
+A_Lat_GPS="-15,15"
+Banking_GPS="-70,70"
 v front="0,250"
 v rear="0,250"
 FSus_25="0,130"
@@ -1960,235 +2120,13 @@ A_GPS_abs="-70,70"
 TH="-1,105"
 Lap_Dist="0,4900"
 Lap_Nr="0,4.30000019"
-Time diff=-2,2
-TDiff window=-2,2
-Win change=-0.1,0.1
-Meter diff=0,300
-MDiff window=0,300
+Time diff="0,320"
+TDiff window="0,350"
+Win change="-0.1,0.1"
+Meter diff="0,330"
+MDiff window="0,330"
 SPIN CON IG #2="0,100"
 SPIN CON IG #4="0,100"
-MMDD=0,100
-SSHH=0,60
-A_Lat=-20,20
-A_Lon=-20,20
-LapGps=0,100
-LapAdc=0,100
-V_Front=0,300
-V_Rear=0,300
-HV_Current_AUX1=0,100
-HV_Cell_Values=0,100
-HV_Cell_Voltage=0,7000
-HV_Cell_Temperature=0,150
-Discharge_Res_Temp=0,100
-Wheel_Travel_FL=0,4096
-Wheel_Travel_FR=0,4096
-Wheel_Travel_RL=0,4096
-Wheel_Travel_RR=0,4096
-AMK_Status_3=0,100
-AMK_Status_1=0,100
-AMK_Actualvelocity_1=0,25000
-AMK_Torquecurrent_1=-100,100
-AMK_MagnetizingCurrent_1=-100,100
-AMK_TempMotor_1=0,100
-AMK_TempInverter_1=0,100
-AMK_Errorinfo_1=0,100
-AMK_TempIGBT_1=0,1000
-AMK_ActualVelocity_3=0,25000
-AMK_Status_2=0,100
-AMK_Actualvelocity_2=0,30000
-AMK_TorqueCurrent_3=-100,100
-AMK_MagnetizingCurrent_3=-100,100
-AMK_TempMotor_3=0,100
-AMK_TempInverter_3=0,100
-AMK_ErrorInfo_3=0,100
-AMK_TempIGBT_3=0,1000
-AMK_Status_4=0,100
-AMK_ActualVelocity_4=0,30000
-AMK_TorqueCurrent_4=-100,100
-AMK_MagnetizingCurrent_4=-100,100
-AMK_TempMotor_4=0,100
-AMK_TempInverter_4=0,100
-AMK_Torquecurrent_2=-100,100
-AMK_ErrorInfo_4=0,100
-AMK_MagnetizingCurrent_2=-100,100
-AMK_TempIGBT_4=0,1000
-AMK_Control_3=0,100
-AMK_TargetVelocity_3=0,25000
-AMK_TorqueLimitPositive_3=-100,100
-AMK_TempMotor_2=0,100
-AMK_TempInverter_2=0,100
-AMK_Errorinfo_2=0,100
-AMK_TempIGBT_2=0,1000
-HV_Current=0,180
-State_of_Charge=0,6000
-AMK_TorqueLimitNegative_3=-100,100
-AMK_Control_1=0,100
-AMK_Targetvelocity_1=0,25000
-AMK_TorqueLimitPositive_1=-100,100
-AMK_TorqueLimitNegative_1=-100,100
-AMK_Control_2=0,100
-AMK_Targetvelocity_2=0,25000
-AMK_TorqueLimitPositive_2=-100,100
-AMK_TorqueLimitNegative_2=-100,100
-AMK_Control_4=0,100
-AMK_TargetVelocity_4=0,25000
-AMK_TorqueLimitPositive_4=-100,100
-AMK_TorqueLimitNegative_4=-100,100
-_TARTALEK_32BIT=0,100
-_TARTALEK_32BIT106=0,100
-MCU_Support_Status=0,100
-HV_Accumulator_Status_32BIT=0,16
-PDM_Status_1_32BIT=0,100
-HV_Voltage_Before_&_After_AIRs_32BIT=0,3000
-LV_Cell_Values_1_32BIT=0,100
-LV_Cell_Values_2_32BIT=0,100
-TCU_Status_11_32BIT=0,100
-TCU_Status_12_32BIT=0,100
-PDM_Status_2_32BIT=0,100
-MCU_Radiator_Temp_Left_In_&_Ou=0,100
-ACCEL1_1_32BIT=0,100
-ACCEL1_2_32_BIT=0,100
-ACCEL2_1_32_BIT=0,100
-ACCEL2_2_32BIT=0,100
-ACCEL3_1_32_BIT=0,100
-ACCEL3_2_32BIT=0,100
-Motor_Front_Radiator _Temp_Rig=0,100
-Brake_Position_32BIT=0,5000000000
-Brake_Pressure_32BIT=0,4095
-ACCEL1_REAR_1_32BIT=0,100
-ACCEL1_REAR_2_32BIT=0,100
-ACCEL2_REAR_1_32BIT=0,100
-ACCEL2_REAR_2_32BIT=0,100
-ACCEL3_REAR_1_32_BIT=0,100
-ACCEL3_REAR_2_32BIT=0,100
-LV_Main_Voltage_&_Current_32BIT=0,100
-Throttle_Steering_1_32BIT=0,100
-Throttle_Steering_2_32BIT=0,100
-SlipControl_Input3=0,10
-EVENTTRG=0,100
-TCUStatus1_2=0,100
-TCUStatus2=0,100
-PL_Enabled=0,100
-Brake_Plausibility=0,100
-Brake_Position_1=0,100
-Brake_Position_2=0,100
-Brake_Pr_Front_Validity=0,100
-Brake_Pressure_Front_Raw=0,100
-Brake_Pressure_Front=0,2000
-Brake_Pr_Rear_Validity=0,100
-Brake_Pressure_Rear_Raw=0,500
-Brake_Pressure_Rear=0,2000
-Throttle_Plausibility=0,100
-Throttle_Position_1=0,100
-Throttle_Position_2=0,100
-Steering_Angle_Plausibility=0,100
-Steering_Angle_1=-100,100
-Steering_Angle_Derivate_1=0,100
-Steering_Angle_2=-100,100
-Steering_Angle_Derivate_2=0,100
-AMK_TorqueLimit_1=0,100
-AMK_TorqueLimit_2=0,100
-AMK_TorqueLimit_3=0,100
-AMK_TorqueLimit_4=0,100
-AMK_TorqueLimit=0,100
-AMK_TorqueLimitDerivate=0,100
-AMK_ActualVelocity=0,100
-HV_Voltage_After_AIR=-700,900
-HV_Voltage_Before_AIR=0,700
-HV_Current_neg=-100,100
-HV_Current_signaled=0,100
-Capacity=0,100
-CapacityTotal=0,100
-Power_Electric=0,100
-Power_Regenerative_EM=0,100
-Power_Electric_EM=0,100
-Energy_Electric_EM=0,100
-Energy_Electric_EM_Total=0,100
-Energy_Electric=0,100
-Energy_Electric_Total=0,100
-TotalRegen1=0,100
-TotalRegen2=0,100
-TotalRegen3=0,100
-TotalRegen4=0,100
-TotalRegen=0,100
-WheelSpeed_2=0,100
-WheelSpeed_3=0,100
-WheelSpeed_4=0,100
-WheelSpeed_1=0,100
-WheelSpeed_average=0,100
-SlipRatio_1_Traction=0,2
-SlipRatio_2_Traction=0,2
-SlipRatio_3_Traction=0,2
-SlipRatio_4_Traction=0,2
-SlipRatio_1_Braking=-2,0
-SlipRatio_2_Braking=-2,0
-SlipRatio_3_Braking=-2,0
-SlipRatio_4_Braking=-2,0
-INT_SlipRatio_1_Traction=0,5
-INT_SlipRatio_2_Traction=0,5
-INT_SlipRatio_3_Traction=0,5
-INT_SlipRatio_4_Traction=0,5
-INT_SlipRatio_1_Braking=-100,0
-INT_SlipRatio_2_Braking=-100,0
-INT_SlipRatio_3_Braking=-100,0
-INT_SlipRatio_4_Braking=-100,0
-V_GPS_Max=0,100
-INT_Brake_Pressure_Front=0,300
-Brake_Pressure_Front_Corrected=0,30
-Brake_Pressure_Rear_Corrected=0,30
-INT_Brake_Pressure_Rear=0,300
-INT_Throttle=0,1500
-Damper_Travel_FL=-15,25
-Damper_Travel_FR=-15,25
-Damper_Travel_RL=-15,25
-Damper_Travel_RR=-15,25
-Ride_Height_Front=0,100
-Ride_Height_Rear=0,100
-Roll_Angle_Front=-2,2
-Roll_Angle_Rear=-2,2
-Damper_Velocity_1=-40,40
-Damper_Velocity_2=-40,40
-Damper_Velocity_3=-40,40
-Damper_Velocity_4=-40,40
-Coast=0,2
-INT_Coast=0,600
-VehicleSpeed=0,100
-PitchAngle=-2,2
-ThrottleSteering=0,4000
-Roll_Rate_Front=0,100
-Acceleration_X_Front=-3,3
-Yaw_Rate_Front=0,100
-Acceleration_Y_Front=-3,3
-Acceleration_Z_Front=-3,3
-Acceleration_X_Front_Filtered=-3,3
-Acceleration_Y_Front_Filtered=-3,3
-Acceleration_Z_Front_Filtered=-3,3
-Roll_Rate_Rear=0,100
-Acceleration_X_Rear=-3,3
-Yaw_Rate_Rear=0,100
-Acceleration_Y_Rear=-3,3
-Acceleration_Z_Rear=-3,3
-Acceleration_X_Rear_Filtered=-3,3
-Acceleration_Y_Rear_Filtered=-3,3
-Acceleration_Z_Rear_Filtered=-3,3
-Yaw_Rate_Filtered=0,100
-AccX2=0,100
-AccY2=-20,20
-AccZ2=0,100
-Roll=0,100
-Roll_Angle=-2,2
-Fz_1=0,5000
-Fz_2=0,5000
-Fz_3=0,5000
-Fz_4=0,5000
-INT_ThrottleSteeering=0,100000
-INT_ThrottleSteering=0,50000
-Curvature=-0.5,0.5
-Id1="0,100"
-Id2="0,100"
-Id3="0,100"
-Id4="0,100"
-Steering_Angle_1_Filtered=-100,100
 
 [XYPlot-Instances]
 _Temporary_XY=0
@@ -2198,12 +2136,6 @@ IGNComp_APS=3
 IgnMap=4
 abkuehlen=5
 2D GPS Camm=6
-rollmerevseg=7
-roll_rear=8
-bolintmerevseg=9
-GG=10
-rollvslatg=11
-swavsroll=12
 
 [fXYPlotManager0]
 Background color=0
@@ -2512,462 +2444,27 @@ Measuring cross=1
 No border=0
 Display phases in status bar=1
 
-[fOneHistogram_0_0]
-frmLeft=477
-frmTop=82
-frmWidth=450
-frmHeight=290
-frmLeftRel=286060
-frmTopRel=51903
-frmWidthRel=269868
-frmHeightRel=183560
-frmWindowState=0
-frmTimeStamp=2018. 12. 09. 16:14:13
-frmVersion=2
-
-[fOneHistogram_1_0]
-frmLeft=918
-frmTop=82
-frmWidth=448
-frmHeight=290
-frmLeftRel=550531
-frmTopRel=51903
-frmWidthRel=268669
-frmHeightRel=183560
-frmWindowState=0
-frmTimeStamp=2018. 12. 09. 16:14:14
-frmVersion=2
-
-[fOneHistogram_2_0]
-frmLeft=477
-frmTop=367
-frmWidth=450
-frmHeight=275
-frmLeftRel=286060
-frmTopRel=232299
-frmWidthRel=269868
-frmHeightRel=174066
-frmWindowState=0
-frmTimeStamp=2018. 12. 09. 16:14:17
-frmVersion=2
-
-[fHistogramManager]
-damper vel 1.sts\Damper_Velocity_1=Statist.sgs
-damper vel 1.sts\Damper_Velocity_1 ViewType=0
-damper vel 1.sts\Damper_Velocity_1No border=0
-Damper_Vel2.sts\Damper_Velocity_2=Statist.sgs
-Damper_Vel2.sts\Damper_Velocity_2 ViewType=0
-Damper_Vel2.sts\Damper_Velocity_2No border=0
-Damper_Vel3.sts\Damper_Velocity_3=Statist.sgs
-Damper_Vel3.sts\Damper_Velocity_3 ViewType=0
-Damper_Vel3.sts\Damper_Velocity_3No border=0
-Damper_Vel4.sts\Damper_Velocity_4 ViewType=0
-Damper_Vel4.sts\Damper_Velocity_4=Statist.sgs
-Damper_Vel4.sts\Damper_Velocity_4No border=0
-
-[Histogram-Instances]
-damper vel 1=0
-Damper_Vel2=1
-Damper_Vel3=2
-Damper_Vel4=3
-
-[fOneHistogram_3_0]
-frmLeft=919
-frmTop=367
-frmWidth=447
-frmHeight=274
-frmLeftRel=551131
-frmTopRel=232299
-frmWidthRel=268069
-frmHeightRel=173433
-frmWindowState=0
-frmTimeStamp=2018. 12. 09. 16:14:15
-frmVersion=2
-
-[fPanning]
-frmVisible=1
-frmLeft=0
-frmTop=89
-frmWidth=618
-frmHeight=776
-frmWindowState=0
-Statusbar visible=1
-Laptriggers visible=1
-Laptimes visible=1
-Laptimes vertical=1
-Lapstarts unique=1
-Color scheme=0
-Background color=0
-Scaling color=16777215
-Lapstarts color=16711680
-Laptimes color=16777215
-Fastest lap color=255
-InOut lap color=32768
-Area count=0
-Measuring all channels=0
-Show grid=0
-frmLeftRel=0
-frmTopRel=0
-frmWidthRel=263680
-frmHeightRel=372092
-frmTimeStamp=6/1/2020 11:55:27 AM
-Area0=2
-Area1=3
-frmVersion=2
-Panel header=1
-Sections visible=0
-Segments visible=1
-UDMarkers=1
-UDMarkernames=1
-Sections color=16776960
-Area size0=
-Corner numbers=1
-Corner names=0
-Segments vertical=0
-No border=0
-Display separate=0
-Display squared=1
-Display unstretched=0
-PanelPanning size ratio=100
-Area0_Channels=
-Area size ratio0=
-
-[Channel context Area1]
-Top=15
-Bottom=80
-
-[Channel context Area2]
-Top=0
-Bottom=25
-
-[Channel context Area3]
-Top=25
-Bottom=70
-
-[Channel context Area4]
-Top=70
-Bottom=100
-
-[fOverview1]
-frmVisible=1
-Slider visible=0
-ChannelWinCount=1
-Statusbar visible=0
-Laptriggers visible=1
-Laptimes visible=1
-Laptimes vertical=1
-Color scheme=0
-Background color=0
-Scaling color=16777215
-Lapstarts color=16711680
-Laptimes color=16777215
-Fastest lap color=255
-InOut lap color=32768
-Show lap no=1
-frmLeft=0
-frmTop=865
-frmWidth=1920
-frmHeight=185
-frmWindowState=0
-frmLeftRel=0
-frmTopRel=372092
-frmWidthRel=819200
-frmHeightRel=88708
-frmTimeStamp=6/1/2020 11:55:27 AM
-frmVersion=2
-Sections visible=0
-UDMarkers=1
-Sections color=16776960
-No border=1
-Ov_frmVisible=1
-
-[Channel context Overview Area1]
-Top=0
-Bottom=100
-
-[Channel context Overview Area2]
-Top=0
-Bottom=30
-
-[Channel context Overview Area3]
-Top=30
-Bottom=70
-
-[Channel context Overview Area4]
-Top=70
-Bottom=100
-
-[fXYPlot7_1]
-frmLeft=1066
-frmTop=91
-frmWidth=438
-frmHeight=380
-frmLeftRel=454827
-frmTopRel=959
-frmWidthRel=186880
-frmHeightRel=182210
-frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:27 AM
-frmVersion=2
-frmVisible=1
-Tools visible=1
-twXYPlot.DockedTo=1
-twXYPlot.DockRow=1
-twXYPlot.DockPos=0
-twXYPlot.Left=0
-twXYPlot.Top=0
-Color scale visible=0
-twColorScale.DockedTo=1
-twColorScale.DockRow=0
-twColorScale.DockPos=0
-twColorScale.Left=-416
-twColorScale.Top=33
-Opacity=255
-Transparent=0
-
-[fXYPlotManager7]
-Background color=0
-Highlight phases=0
-Highlight phases from Moving=1
-Show grid=1
-Mouse cross=1
-Measuring cross=1
-No border=0
-Display phases in status bar=1
-
-[fXYPlotManager_2]
-frmLeft=631
-frmTop=343
-frmWidth=280
-frmHeight=379
-frmLeftRel=269227
-frmTopRel=121793
-frmWidthRel=119467
-frmHeightRel=181731
-frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:28 AM
-frmVersion=2
-frmVisible=0
-
-[fXYPlot9_1]
-frmLeft=1493
-frmTop=469
-frmWidth=432
-frmHeight=390
-frmLeftRel=637013
-frmTopRel=182210
-frmWidthRel=184320
-frmHeightRel=187005
-frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:28 AM
-frmVersion=2
-frmVisible=1
-Tools visible=1
-twXYPlot.DockedTo=1
-twXYPlot.DockRow=0
-twXYPlot.DockPos=0
-twXYPlot.Left=0
-twXYPlot.Top=0
-Color scale visible=0
-twColorScale.DockedTo=1
-twColorScale.DockRow=1
-twColorScale.DockPos=0
-twColorScale.Left=5
-twColorScale.Top=25
-Opacity=255
-Transparent=0
-
-[fXYPlotManager8]
-Background color=0
-Highlight phases=0
-Highlight phases from Moving=1
-Show grid=1
-Mouse cross=1
-Measuring cross=1
-No border=0
-Display phases in status bar=1
-
-[fXYPlotManager9]
-Background color=0
-Highlight phases=0
-Highlight phases from Moving=1
-Show grid=1
-Mouse cross=1
-Measuring cross=1
-No border=0
-Display phases in status bar=1
-
-[fCalFile]
-frmLeft=101
-frmTop=36
-frmWidth=881
-frmHeight=626
-frmLeftRel=43093
-frmTopRel=-25414
-frmWidthRel=375893
-frmHeightRel=300167
-frmWindowState=2
-frmTimeStamp=6/1/2020 11:55:27 AM
-frmVersion=2
-frmVisible=0
-grdCalEvent.ColWidths[0]=40
-grdCalEvent.ColWidths[1]=200
-grdCalMeasurement.ColWidths[0]=40
-grdCalMeasurement.ColWidths[1]=200
-gbChannelsRecalc.Width=181
-gbChannelsRecalc.Height=169
-grdCalDataRoot.ColWidths[0]=40
-grdCalDataRoot.ColWidths[1]=200
-grdCalRaceSoftware.ColWidths[0]=40
-grdCalRaceSoftware.ColWidths[1]=200
-Show preview=1
-Preview width=181
-grdCalDataRootNew.ColWidths[0]=76
-grdCalDataRootNew.ColWidths[1]=200
-grdCalEventNew.ColWidths[0]=76
-grdCalEventNew.ColWidths[1]=200
-grdCalMeasurementNew.ColWidths[0]=76
-grdCalMeasurementNew.ColWidths[1]=200
-grdCalRaceSoftwareNew.ColWidths[0]=76
-grdCalRaceSoftwareNew.ColWidths[1]=200
-grdCalSWSubFolderNew.ColWidths[0]=76
-grdCalSWSubFolderNew.ColWidths[1]=200
-
-[fMeasuringValues]
-frmVisible=0
-frmLeft=1163
-frmTop=492
-frmWidth=231
-frmHeight=235
-frmLeftRel=496213
-frmTopRel=193239
-frmWidthRel=98560
-frmHeightRel=112683
-frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:27 AM
-Position data visible=1
-AutoScale=1
-Relative values=0
-grdMeasuring.ColWidths[0]=101
-grdMeasuring.ColWidths[1]=108
-grdMeasuring.ColWidths[2]=77
-grdMeasuring.ColWidths[3]=60
-frmVersion=2
-
-[fXYPlotManager_3]
-frmLeft=449
-frmTop=258
-frmWidth=199
-frmHeight=252
-frmLeftRel=191573
-frmTopRel=81036
-frmWidthRel=84907
-frmHeightRel=120834
-frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:28 AM
-frmVersion=2
-
-[fXYPlot10_1]
-frmLeft=610
-frmTop=91
-frmWidth=465
-frmHeight=375
-frmLeftRel=260267
-frmTopRel=959
-frmWidthRel=198400
-frmHeightRel=179813
-frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:28 AM
-frmVersion=2
-frmVisible=1
-Tools visible=1
-twXYPlot.DockedTo=1
-twXYPlot.DockRow=0
-twXYPlot.DockPos=0
-twXYPlot.Left=0
-twXYPlot.Top=0
-Color scale visible=1
-twColorScale.DockedTo=1
-twColorScale.DockRow=1
-twColorScale.DockPos=0
-twColorScale.Left=0
-twColorScale.Top=31
-Opacity=255
-Transparent=0
-
-[fXYPlotManager_4]
-frmLeft=449
-frmTop=258
-frmWidth=199
-frmHeight=252
-frmLeftRel=191573
-frmTopRel=82217
-frmWidthRel=84907
-frmHeightRel=120458
-frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:28 AM
-frmVersion=2
-frmVisible=0
-
-[fXYPlotManager_5]
-frmLeft=449
-frmTop=258
-frmWidth=199
-frmHeight=252
-frmLeftRel=191573
-frmTopRel=82217
-frmWidthRel=84907
-frmHeightRel=120458
-frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:28 AM
-frmVersion=2
-frmVisible=0
-
-[fXYPlot12_1]
-frmLeft=612
-frmTop=467
-frmWidth=465
-frmHeight=404
-frmLeftRel=261120
-frmTopRel=182121
-frmWidthRel=198400
-frmHeightRel=193115
-frmWindowState=0
-frmTimeStamp=6/1/2020 11:55:28 AM
-frmVersion=2
-frmVisible=1
-Tools visible=1
-twXYPlot.DockedTo=1
-twXYPlot.DockRow=0
-twXYPlot.DockPos=0
-twXYPlot.Left=0
-twXYPlot.Top=0
-Color scale visible=1
-twColorScale.DockedTo=1
-twColorScale.DockRow=1
-twColorScale.DockPos=0
-twColorScale.Left=0
-twColorScale.Top=31
-Opacity=255
-Transparent=0
-
-[fXYPlotManager12]
-Background color=0
-Highlight phases=0
-Highlight phases from Moving=1
-Show grid=1
-Mouse cross=1
-Measuring cross=1
-No border=0
-Display phases in status bar=1
-
 [Settings visibilities]
-0=XY-Plot,rollmerevseg.xys
-1=XY-Plot,roll_rear.xys
-2=XY-Plot,bolintmerevseg.xys
-3=XY-Plot,GG.xys
-4=XY-Plot,rollvslatg.xys
-5=XY-Plot,swavsroll.xys
+0=XY-Plot,2D GPS Camm.xys
+
+[Channel context Overview Channels]
+0=Record,0,1,0,0,0,0,0,0,0,0,0,0
+1=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
+2=v front,0,1,0,0,0,0,0,0,0,0,0,1
+3=RPM,0,1,0,0,0,0,0,0,0,0,0,1
+4=TIME_EOB,0,1,0,0,0,0,0,0,0,0,0,0
+5=TK_pad_f,0,1,0,0,0,0,0,0,0,0,0,1
+6=TK_pad_r,0,1,0,0,0,0,0,0,0,0,0,0
+7=Ignition,0,1,0,0,0,0,0,0,0,0,0,0
+8=FlatterCnt,0,1,0,0,0,0,0,0,0,0,0,0
+9=V_GPS,0,0,0,0,0,0,0,0,0,0,0,0
+10=ACC_Z,0,1,0,0,0,0,0,0,0,0,0,0
+11=V_Bat,0,1,0,0,0,0,0,0,0,0,0,0
+12=V_ER,0,1,0,0,0,0,0,0,0,0,0,0
+13=V_Sat,0,1,0,0,0,0,0,0,0,0,0,0
+14=HHMM,0,1,0,0,0,0,0,0,0,0,0,0
+15=Status,0,1,0,0,0,0,0,0,0,0,0,0
+16=Altitude,0,1,0,0,0,0,0,0,0,0,0,0
 
 [Channel context Channels]
 0=GEAR_A/D,2,0,0,0,0,0,0,0,0,0,0,1
@@ -2983,59 +2480,9 @@ Display phases in status bar=1
 10=V_ER,1,0,0,0,0,0,0,0,0,0,0,0
 11=V_HIGH,1,0,0,0,0,0,0,0,0,0,0,0
 12=V_LOW,1,0,0,0,0,0,0,0,0,0,0,0
-13=AMK_TempIGBT_1,4,0,0,0,0,0,0,0,0,0,0,1
-14=AMK_TempIGBT_3,4,0,0,0,0,0,0,0,0,0,0,1
-15=AMK_TempIGBT_2,4,0,0,0,0,0,0,0,0,0,0,1
-16=AMK_TempIGBT_4,4,0,0,0,0,0,0,0,0,0,0,1
-17=AMK_TempInverter_4,3,0,0,0,0,0,0,0,0,0,0,1
-18=AMK_TempInverter_3,3,0,0,0,0,0,0,0,0,0,0,1
-19=AMK_TempInverter_1,3,0,0,0,0,0,0,0,0,0,0,1
-20=AMK_Actualvelocity_1,2,0,0,0,0,0,0,0,0,0,0,1
-21=AMK_ActualVelocity_3,2,0,0,0,0,0,0,0,0,0,0,1
-22=AMK_Actualvelocity_2,2,0,0,0,0,0,0,0,0,0,0,1
-23=AMK_ActualVelocity_4,2,0,0,0,0,0,0,0,0,0,0,1
-24=AMK_TorqueLimitPositive_4,4,0,0,0,0,0,0,0,0,0,0,1
-25=AMK_TempInverter_2,3,0,0,0,0,0,0,0,0,0,0,1
-26=State_of_Charge,3,0,0,0,0,0,0,0,0,0,0,1
-27=SSHH,1,0,0,0,0,0,0,0,0,0,0,0
-28=V_Sat,1,0,0,0,0,0,0,0,0,0,0,0
-29=V_GPS,1,0,0,1,0,0,0,0,0,0,0,1
-30=A_Lon_GPS,1,0,0,0,1,0,0,0,0,0,0,1
-31=Banking_GPS,1,0,0,1,1,0,1,1,0,0,0,1
-32=Acceleration_X_Front,2,0,0,0,0,0,0,0,0,0,0,1
-33=Acceleration_Y_Front,4,0,0,0,0,0,0,0,0,0,0,1
-34=Course,1,0,0,0,0,0,0,0,0,0,0,0
-35=Roll_Angle_Front,3,1,0,0,0,0,0,0,0,0,0,1
-36=Roll_Angle_Rear,3,1,0,0,0,0,0,0,0,0,0,1
-37=PitchAngle,2,1,0,0,0,0,0,0,0,0,0,1
-38=Roll_Angle,4,1,0,0,0,0,0,0,0,0,0,1
-39=Steering_Angle_1,1,1,0,0,0,0,0,0,0,0,0,1
-
-[Channel context Overview Channels]
-0=Record,0,1,0,0,0,0,0,0,0,0,0,0
-1=V_Front,0,0,0,0,0,0,0,0,0,0,0,0
-2=v front,0,1,0,0,0,0,0,0,0,0,0,1
-3=TIME_EOB,0,1,0,0,0,0,0,0,0,0,0,0
-4=TK_pad_f,0,1,0,0,0,0,0,0,0,0,0,1
-5=TK_pad_r,0,1,0,0,0,0,0,0,0,0,0,0
-6=Ignition,0,1,0,0,0,0,0,0,0,0,0,0
-7=FlatterCnt,0,1,0,0,0,0,0,0,0,0,0,0
-8=V_GPS,0,0,0,0,0,0,0,0,0,0,0,0
-9=ACC_Z,0,0,0,0,0,0,0,0,0,0,0,0
-10=V_Bat,0,1,0,0,0,0,0,0,0,0,0,0
-11=V_ER,0,1,0,0,0,0,0,0,0,0,0,0
-12=Status,0,1,0,0,0,0,0,0,0,0,0,0
-13=Altitude,0,0,0,0,0,0,0,0,0,0,0,0
-14=HHMM,0,0,0,0,0,0,0,0,0,0,0,0
-15=V_Sat,0,0,0,0,0,0,0,0,0,0,0,0
-16=VehicleSpeed,0,1,0,0,0,0,0,0,0,0,0,0
-
-[fXYPlotManager10]
-Background color=0
-Highlight phases=0
-Highlight phases from Moving=1
-Show grid=1
-Mouse cross=1
-Measuring cross=1
-No border=0
-Display phases in status bar=1
+13=V_Sat,1,0,0,0,0,0,0,0,0,0,0,0
+14=Course,1,0,0,0,0,0,0,0,0,0,0,0
+15=SSHH,1,0,0,0,0,0,0,0,0,0,0,0
+16=V_GPS,1,1,0,1,0,0,0,0,0,0,0,1
+17=A_Lon_GPS,1,1,0,0,1,0,0,0,0,0,0,1
+18=Banking_GPS,1,1,0,1,1,0,1,1,0,0,0,1
