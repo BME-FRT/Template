@@ -106,28 +106,6 @@ frmHeightRel=143729
 frmWindowState=0
 frmTimeStamp="09.07.01 17:47:25"
 
-[fCircuit]
-frmVisible=0
-frmLeft=2501
-frmTop=1432
-frmWidth=379
-frmHeight=312
-frmLeftRel=711396
-frmTopRel=372544
-frmWidthRel=107804
-frmHeightRel=88256
-frmWindowState=0
-frmTimeStamp=04.04.2014 10:40:10
-Offset input=0
-Background color=12632256
-Track color=16711935
-Selection color=65535
-frmVersion=2
-Positions size=2
-No border=1
-Opacity=255
-Transparent=0
-
 [fCircuitProperties]
 frmVisible=0
 frmLeft=422
@@ -3064,3 +3042,25 @@ Mouse cross=1
 Measuring cross=1
 No border=0
 Display phases in status bar=1
+
+[fCircuit]
+frmVisible=0
+frmLeft=1667
+frmTop=858
+frmWidth=253
+frmHeight=182
+frmLeftRel=711253
+frmTopRel=372613
+frmWidthRel=107947
+frmHeightRel=88187
+frmWindowState=0
+frmTimeStamp=2020. 04. 02. 23:24:29
+Offset input=0
+Background color=0
+Track color=16711935
+Selection color=65535
+frmVersion=2
+Positions size=2
+No border=1
+Opacity=255
+Transparent=0
