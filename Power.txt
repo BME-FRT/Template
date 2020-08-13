@@ -21,7 +21,7 @@ frmLeftRel=0
 frmTopRel=0
 frmWidthRel=819200
 frmHeightRel=39434
-frmTimeStamp=2020. 02. 29. 18:26:55
+frmTimeStamp=2020. 06. 14. 18:09:13
 frmVersion=2
 Show status=0
 Includes channel limits=0
@@ -37,7 +37,7 @@ frmLeftRel=741973
 frmTopRel=0
 frmWidthRel=77227
 frmHeightRel=372129
-frmTimeStamp=2020. 02. 29. 18:26:55
+frmTimeStamp=2020. 06. 14. 18:09:13
 frmVersion=2
 
 [fOvPaProperties]
@@ -63,7 +63,7 @@ frmLeftRel=321280
 frmTopRel=109507
 frmWidthRel=203947
 frmHeightRel=200601
-frmTimeStamp=2020. 02. 29. 18:26:55
+frmTimeStamp=2020. 06. 14. 18:09:13
 frmVersion=2
 
 [fCircuitProperties]
@@ -776,7 +776,7 @@ frmTopRel=116775
 frmWidthRel=203947
 frmHeightRel=211261
 frmWindowState=0
-frmTimeStamp=2020. 02. 29. 18:26:55
+frmTimeStamp=2020. 06. 14. 18:09:13
 frmVersion=2
 
 [fXYPlot33_1]
@@ -1255,7 +1255,7 @@ frmLeftRel=853
 frmTopRel=-1938
 frmWidthRel=818773
 frmHeightRel=393449
-frmTimeStamp=2020. 02. 29. 18:26:55
+frmTimeStamp=2020. 06. 14. 18:09:13
 Area0=2
 Area1=3
 frmVersion=2
@@ -1317,7 +1317,7 @@ frmLeftRel=1280
 frmTopRel=375521
 frmWidthRel=651947
 frmHeightRel=88671
-frmTimeStamp=2020. 02. 29. 18:26:55
+frmTimeStamp=2020. 06. 14. 18:09:13
 frmVersion=2
 Sections visible=0
 UDMarkers=1
@@ -1403,13 +1403,13 @@ frmVisible=0
 frmLeft=1577
 frmTop=166
 frmWidth=231
-frmHeight=363
+frmHeight=347
 frmLeftRel=672853
 frmTopRel=37310
 frmWidthRel=98560
-frmHeightRel=175889
+frmHeightRel=168136
 frmWindowState=0
-frmTimeStamp=2020. 02. 29. 18:26:55
+frmTimeStamp=2020. 06. 14. 18:09:13
 Position data visible=1
 AutoScale=1
 Relative values=0
@@ -1456,39 +1456,13 @@ frmTopRel=76073
 frmWidthRel=195840
 frmHeightRel=144394
 frmWindowState=0
-frmTimeStamp=2020. 02. 29. 18:15:19
+frmTimeStamp=2020. 06. 14. 18:08:51
 frmVersion=2
 frmVisible=0
 
 [Plugin channels direct]
 P_Electric=2D Filters/Avg 5/
 P_Useful=2D Filters/Avg 10/
-
-[Channel context Overview Channels]
-0=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
-1=VehicleSpeed,0,1,0,0,0,0,0,0,0,0,0,0
-
-[Channel context Channels]
-0=Susp_F,1,0,0,0,0,0,0,0,0,0,0,0
-1=Susp_R,1,0,0,0,0,0,0,0,0,0,0,0
-2=Gear_Nr,2,0,0,0,0,0,0,0,0,0,0,1
-3=V_Rear,1,0,0,0,0,0,0,0,0,0,0,0
-4=Vext,1,0,0,0,0,0,0,0,0,0,0,0
-5=V_Sat,1,0,0,0,0,0,0,0,0,0,0,0
-6=Brake_Position_1,3,1,0,0,0,0,0,0,0,0,0,0
-7=Throttle_Position_1,3,1,0,0,0,0,0,0,0,0,0,1
-8=Power_Electric,4,0,0,0,0,0,0,0,0,0,0,0
-9=VehicleSpeed,2,1,0,0,0,0,0,0,0,0,0,1
-10=P_RollRes,4,1,0,0,0,0,0,0,0,0,0,0
-11=E_RollRes,1,1,0,0,0,0,0,0,0,0,0,0
-12=P_Drag,4,1,0,0,0,0,0,0,0,0,0,0
-13=P_Electric,4,1,0,0,0,0,0,0,0,0,0,1
-14=E_Electric_pos,1,1,0,0,0,0,0,0,0,0,0,0
-15=P_Useful,4,1,0,0,0,0,0,0,0,0,0,0
-16=E_Useful,1,1,0,0,0,0,0,0,0,0,0,1
-17=E_Drag,1,1,0,0,0,0,0,0,0,0,0,0
-18=E_motors,1,1,0,0,0,0,0,0,0,0,0,1
-19=P_motors,4,1,0,0,0,0,0,0,0,0,0,0
 
 [fCircuit]
 frmVisible=1
@@ -1501,7 +1475,7 @@ frmTopRel=376005
 frmWidthRel=171093
 frmHeightRel=88671
 frmWindowState=0
-frmTimeStamp=2020. 04. 03. 0:01:06
+frmTimeStamp=2020. 06. 14. 18:09:13
 Offset input=0
 Background color=-1
 Track color=16711935
@@ -1511,3 +1485,29 @@ Positions size=2
 No border=0
 Opacity=255
 Transparent=0
+
+[Channel context Overview Channels]
+0=VehicleSpeed,0,1,0,0,0,0,0,0,0,0,0,0
+1=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
+
+[Channel context Channels]
+0=Susp_F,1,0,0,0,0,0,0,0,0,0,0,0
+1=Susp_R,1,0,0,0,0,0,0,0,0,0,0,0
+2=Gear_Nr,2,0,0,0,0,0,0,0,0,0,0,1
+3=V_Rear,1,0,0,0,0,0,0,0,0,0,0,0
+4=Vext,1,0,0,0,0,0,0,0,0,0,0,0
+5=V_Sat,1,0,0,0,0,0,0,0,0,0,0,0
+6=Brake_Position_1,3,1,0,0,0,0,0,0,0,0,0,0
+7=Power_Electric,4,0,0,0,0,0,0,0,0,0,0,0
+8=Throttle_Position_1,3,1,0,0,0,0,0,0,0,0,0,1
+9=VehicleSpeed,2,1,0,0,0,0,0,0,0,0,0,1
+10=P_Electric,4,1,0,0,0,0,0,0,0,0,0,1
+11=E_Electric_pos,1,1,0,0,0,0,0,0,0,0,0,0
+12=E_RollRes,1,1,0,0,0,0,0,0,0,0,0,0
+13=P_Drag,4,1,0,0,0,0,0,0,0,0,0,0
+14=E_motors,1,1,0,0,0,0,0,0,0,0,0,1
+15=P_Useful,4,1,0,0,0,0,0,0,0,0,0,0
+16=E_Useful,1,1,0,0,0,0,0,0,0,0,0,1
+17=P_RollRes,4,1,0,0,0,0,0,0,0,0,0,0
+18=E_Drag,1,1,0,0,0,0,0,0,0,0,0,0
+19=P_motors,4,1,0,0,0,0,0,0,0,0,0,0
