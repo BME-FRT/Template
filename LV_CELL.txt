@@ -1626,7 +1626,7 @@ INT_Id1=0,500
 INT_Id2=0,500
 INT_Id3=0,500
 INT_Id4=0,500
-Throttle_Plausibility=0,100
+Throttle_Plausibility="0,2"
 Throttle_Position_1=0,100
 Throttle_Position_2=0,100
 Steering_Angle_Plausibility=0,100
@@ -1741,7 +1741,7 @@ HV_Accumulator_Cell_ID=0,100
 HV_Cell_Voltage_Critical=3500,4200
 HV_Cell_Temperature_Critical=0,60
 c_radius=0,100
-P_Electric=-40,80
+P_Electric="-40,90"
 E_Electric=0,1000
 E_Electric_pos=0,1000
 P_Electric_EM=-40,80
@@ -2118,6 +2118,7 @@ LV_Cell_Temperature_C9=0,50
 LV_Cell_Temperature_C10=0,50
 LV_Cell_Temperature_C11=0,50
 LV_Cell_Temperature_C12=0,50
+PDM_Heartbeat="-255,255"
 
 [Channel context Overview Channels]
 0=V_Front,0,1,0,0,0,0,0,0,0,0,0,0
