@@ -1,0 +1,2665 @@
+[fAnalyzer]
+frmVisible=1
+frmLeft=-3
+frmTop=0
+frmWidth=1544
+frmHeight=89
+frmWindowState=0
+tbMain.DockedTo=1
+tbMain.DockRow=0
+tbMain.DockPos=0
+tbMain.Left=0
+tbMain.Top=0
+tbMain.FloatingWidth=0
+tbMainMeasurement.DockedTo=1
+tbMainMeasurement.DockRow=0
+tbMainMeasurement.DockPos=767
+tbMainMeasurement.Left=767
+tbMainMeasurement.Top=0
+tbMainMeasurement.FloatingWidth=0
+frmLeftRel=-1600
+frmTopRel=0
+frmWidthRel=823467
+frmHeightRel=47467
+frmTimeStamp=1/23/2023 3:01:32 PM
+frmVersion=2
+Show status=0
+frmLeftPercent=0.325520833333333
+frmTopPercent=0.925925925925926
+frmWidthPercent=100
+frmHeightPercent=9.375
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmOnMainMonitor=1
+Includes channel limits=0
+
+[fWindowList]
+frmVisible=0
+frmLeft=-8
+frmTop=81
+frmWidth=1544
+frmHeight=783
+frmWindowState=0
+frmLeftRel=-4267
+frmTopRel=-4757
+frmWidthRel=823467
+frmHeightRel=465557
+frmTimeStamp=1/23/2023 3:01:32 PM
+frmVersion=2
+frmLeftPercent=0
+frmTopPercent=0
+frmWidthPercent=100
+frmHeightPercent=100
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmOnMainMonitor=1
+
+[fOverview1]
+frmVisible=1
+Slider visible=0
+ChannelWinCount=1
+Statusbar visible=1
+Laptriggers visible=1
+Laptimes visible=1
+Laptimes vertical=1
+Color scheme=0
+Background color=0
+Scaling color=16777215
+Lapstarts color=16711680
+Laptimes color=16777215
+Fastest lap color=255
+InOut lap color=32768
+Show lap no=1
+frmLeft=-9
+frmTop=689
+frmWidth=1549
+frmHeight=140
+frmWindowState=0
+frmLeftRel=-4800
+frmTopRel=356748
+frmWidthRel=826133
+frmHeightRel=83241
+frmTimeStamp=1/23/2023 3:01:32 PM
+frmVersion=2
+Sections visible=0
+UDMarkers=1
+Sections color=16776960
+No border=0
+frmLeftPercent=-0.0651041666666667
+frmTopPercent=78.4516129032258
+frmWidthPercent=100.325520833333
+frmHeightPercent=17.0322580645161
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmOnMainMonitor=1
+
+[fOvPaProperties]
+frmVisible=0
+frmLeft=422
+frmTop=237
+frmWidth=439
+frmHeight=327
+frmWindowState=0
+frmLeftRel=340480
+frmTopRel=73049
+frmWidthRel=224768
+frmHeightRel=131093
+frmTimeStamp="09.07.01 18:18:06"
+
+[fGeneral]
+frmLeft=-8
+frmTop=81
+frmWidth=1544
+frmHeight=783
+frmWindowState=0
+frmLeftRel=-4267
+frmTopRel=-4757
+frmWidthRel=823467
+frmHeightRel=465557
+frmTimeStamp=1/23/2023 3:01:32 PM
+frmVersion=2
+frmLeftPercent=0
+frmTopPercent=0
+frmWidthPercent=100
+frmHeightPercent=100
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmOnMainMonitor=1
+
+[fCircuit]
+frmVisible=0
+frmLeft=1139
+frmTop=434
+frmWidth=408
+frmHeight=258
+frmLeftRel=607467
+frmTopRel=205130
+frmWidthRel=217600
+frmHeightRel=153402
+frmWindowState=0
+frmTimeStamp=1/23/2023 3:00:28 PM
+Offset input=0
+Background color=12632256
+Track color=16711935
+Selection color=65535
+frmVersion=2
+Positions size=2
+No border=0
+Opacity=255
+Transparent=0
+frmLeftPercent=74.6744791666667
+frmTopPercent=45.5483870967742
+frmWidthPercent=26.0416666666667
+frmHeightPercent=32.258064516129
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmOnMainMonitor=1
+
+[fCircuitProperties]
+frmVisible=0
+frmLeft=422
+frmTop=237
+frmWidth=439
+frmHeight=387
+frmLeftRel=337600
+frmTopRel=142200
+frmWidthRel=351200
+frmHeightRel=232200
+frmWindowState=0
+frmTimeStamp="06.07.2001 16:53:15"
+
+[fLaps]
+frmVisible=0
+frmLeft=515
+frmTop=532
+frmWidth=644
+frmHeight=195
+frmLeftRel=329600
+frmTopRel=227090
+frmWidthRel=412160
+frmHeightRel=99288
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:43:40"
+frmVersion=2
+
+[fMeasuringValues]
+frmVisible=1
+frmLeft=212
+frmTop=684
+frmWidth=311
+frmHeight=347
+frmLeftRel=113067
+frmTopRel=353775
+frmWidthRel=165867
+frmHeightRel=206319
+frmWindowState=0
+frmTimeStamp=1/23/2023 3:01:32 PM
+Position data visible=1
+AutoScale=1
+Relative values=0
+grdMeasuring.ColWidths[0]=121
+grdMeasuring.ColWidths[1]=90
+grdMeasuring.ColWidths[2]=77
+grdMeasuring.ColWidths[3]=60
+frmVersion=2
+frmLeftPercent=14.3229166666667
+frmTopPercent=77.8064516129032
+frmWidthPercent=19.7265625
+frmHeightPercent=43.741935483871
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmOnMainMonitor=1
+
+[fMeasurement]
+frmLeft=343
+frmTop=90
+frmWidth=631
+frmHeight=569
+frmLeftRel=274400
+frmTopRel=9716
+frmWidthRel=504800
+frmHeightRel=394872
+frmWindowState=0
+frmTimeStamp="06.12.2001 12:12:49"
+grdChannels.ColWidths[0]=32
+grdChannels.ColWidths[1]=120
+grdChannels.ColWidths[2]=32
+grdChannels.ColWidths[3]=32
+grdChannels.ColWidths[4]=32
+grdChannels.ColWidths[5]=32
+grdChannels.ColWidths[6]=32
+grdChannels.ColWidths[7]=32
+grdChannels.ColWidths[8]=32
+grdChannels.ColWidths[9]=32
+grdChannels.ColWidths[10]=32
+grdGroups.ColWidths[0]=96
+grdGroups.ColWidths[1]=41
+grdGroups.ColWidths[2]=313
+grdGroups.ColWidths[3]=29
+grdGroups.ColWidths[4]=40
+gbChannels.Width=615
+gbChannels.Height=430
+frmVisible=0
+frmVersion=2
+grdChannels.ColWidths[11]=32
+grdChannels.ColWidths[12]=64
+grdChannels.ColWidths[13]=28
+
+[fVisibleWindows]
+frmLeft=346
+frmTop=45
+frmWidth=256
+frmHeight=517
+frmLeftRel=221440
+frmTopRel=-20876
+frmWidthRel=163840
+frmHeightRel=263242
+frmWindowState=0
+frmTimeStamp="04.03.2004 18:39:16"
+frmVisible=0
+frmVersion=2
+
+[fWhatsNew]
+frmLeft=27
+frmTop=365
+frmWidth=401
+frmHeight=385
+frmLeftRel=21600
+frmTopRel=219000
+frmWidthRel=320800
+frmHeightRel=231000
+frmWindowState=0
+frmTimeStamp="06.07.2001 16:54:54"
+frmVisible=0
+
+[fTemplates]
+frmVisible=0
+frmLeft=307
+frmTop=195
+frmWidth=465
+frmHeight=334
+frmLeftRel=245600
+frmTopRel=82583
+frmWidthRel=372000
+frmHeightRel=231788
+frmWindowState=0
+frmTimeStamp="06.12.2001 12:12:49"
+grdTemplates.ColWidths[0]=64
+grdTemplates.ColWidths[1]=301
+grdTemplates.ColWidths[2]=64
+frmVersion=2
+
+[fOptions]
+frmLeft=352
+frmTop=168
+frmWidth=401
+frmHeight=425
+frmLeftRel=180224
+frmTopRel=28150
+frmWidthRel=205312
+frmHeightRel=184060
+frmWindowState=0
+frmTimeStamp="31.07.01 10:34:28"
+frmVisible=0
+frmVersion=2
+
+[fOverview2]
+frmVisible=0
+frmLeft=0
+frmTop=715
+frmWidth=1216
+frmHeight=149
+frmWindowState=0
+frmLeftRel=0
+frmTopRel=372207
+frmWidthRel=648533
+frmHeightRel=88593
+frmTimeStamp=1/23/2023 3:01:32 PM
+frmVersion=2
+frmLeftPercent=0.520833333333333
+frmTopPercent=81.8064516129032
+frmWidthPercent=78.6458333333333
+frmHeightPercent=18.1935483870968
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmOnMainMonitor=1
+
+[fEditGroupMembers]
+frmLeft=469
+frmTop=215
+frmWidth=219
+frmHeight=364
+frmLeftRel=240128
+frmTopRel=84895
+frmWidthRel=112128
+frmHeightRel=143729
+frmWindowState=0
+frmTimeStamp="27.07.01 14:20:16"
+frmVisible=0
+
+[fEditChannel]
+frmLeft=424
+frmTop=238
+frmWidth=397
+frmHeight=372
+frmLeftRel=217088
+frmTopRel=93976
+frmWidthRel=203264
+frmHeightRel=146887
+frmWindowState=0
+frmTimeStamp="27.07.01 15:26:30"
+frmVisible=0
+Permanent=1
+
+[fListChoose]
+frmVisible=0
+frmLeft=1172
+frmTop=418
+frmWidth=279
+frmHeight=364
+frmWindowState=0
+frmLeftRel=600064
+frmTopRel=165051
+frmWidthRel=142848
+frmHeightRel=143729
+frmTimeStamp="27.07.01 15:13:49"
+
+[fQuickKey]
+frmVisible=0
+frmLeft=560
+frmTop=397
+frmWidth=159
+frmHeight=230
+frmWindowState=0
+frmLeftRel=358400
+frmTopRel=158352
+frmWidthRel=101760
+frmHeightRel=117109
+frmTimeStamp="16.03.2004 11:58:29"
+frmVersion=2
+
+[fEditText]
+frmVisible=0
+frmLeft=392
+frmTop=294
+frmWidth=239
+frmHeight=179
+frmWindowState=0
+
+[fZoomfactor]
+frmVisible=0
+frmLeft=402
+frmTop=234
+frmWidth=163
+frmHeight=264
+frmWindowState=0
+frmLeftRel=205824
+frmTopRel=92397
+frmWidthRel=83456
+frmHeightRel=104243
+frmTimeStamp="27.07.01 11:52:39"
+
+[fSpecialChannels]
+frmVisible=0
+frmLeft=770
+frmTop=409
+frmWidth=279
+frmHeight=284
+frmWindowState=0
+frmLeftRel=394240
+frmTopRel=161497
+frmWidthRel=142848
+frmHeightRel=112140
+frmTimeStamp="09.07.01 17:16:45"
+
+[fOverview3]
+frmVisible=1
+frmLeft=0
+frmTop=817
+frmWidth=1096
+frmHeight=174
+frmLeftRel=0
+frmTopRel=372204
+frmWidthRel=701440
+frmHeightRel=88596
+frmWindowState=0
+frmTimeStamp="06.04.2004 13:56:36"
+frmVersion=2
+
+[fOverview4]
+frmVisible=1
+frmLeft=3
+frmTop=965
+frmWidth=1405
+frmHeight=223
+frmLeftRel=1536
+frmTopRel=373317
+frmWidthRel=719360
+frmHeightRel=96577
+frmWindowState=0
+frmTimeStamp="31.07.01 10:37:01"
+frmVersion=2
+
+[fOverview5]
+frmVisible=1
+frmLeft=0
+frmTop=962
+frmWidth=1409
+frmHeight=222
+frmLeftRel=0
+frmTopRel=372018
+frmWidthRel=721408
+frmHeightRel=96144
+frmWindowState=0
+frmTimeStamp="31.07.01 10:37:01"
+frmVersion=2
+
+[fChannelShortNumber]
+frmVisible=0
+frmLeft=448
+frmTop=252
+frmWidth=239
+frmHeight=124
+frmLeftRel=229376
+frmTopRel=99504
+frmWidthRel=122368
+frmHeightRel=48962
+frmWindowState=0
+frmTimeStamp="17.07.01 08:57:35"
+
+[fSetChannelValues]
+frmVisible=0
+frmLeft=407
+frmTop=239
+frmWidth=319
+frmHeight=192
+frmLeftRel=208384
+frmTopRel=94371
+frmWidthRel=163328
+frmHeightRel=75813
+frmWindowState=0
+frmTimeStamp="09.07.01 17:16:45"
+
+[fMinMaxTable]
+frmVisible=0
+AreaGrid0.ColWidths[0]=64
+AreaGrid0.ColWidths[1]=60
+AreaGrid0.ColWidths[2]=36
+AreaGrid0.ColWidths[3]=64
+AreaGrid0.ColWidths[4]=64
+AreaGrid0.ColWidths[5]=64
+frmLeft=315
+frmTop=192
+frmWidth=531
+frmHeight=588
+frmLeftRel=161280
+frmTopRel=75813
+frmWidthRel=271872
+frmHeightRel=232177
+frmWindowState=0
+frmTimeStamp="27.07.01 12:56:51"
+No InOut=0
+AreaGrid0.ColWidths[6]=64
+AreaGrid0.ColWidths[7]=64
+AreaGrid0.ColWidths[8]=64
+
+[fCheckListChoose]
+frmVisible=0
+frmLeft=660
+frmTop=418
+frmWidth=279
+frmHeight=364
+frmLeftRel=337920
+frmTopRel=165051
+frmWidthRel=142848
+frmHeightRel=143729
+frmWindowState=0
+frmTimeStamp="09.07.01 17:47:25"
+
+[MinMax groups]
+0="0"
+
+[fMVProperties]
+frmVisible=0
+frmLeft=407
+frmTop=239
+frmWidth=401
+frmHeight=257
+frmLeftRel=208384
+frmTopRel=94371
+frmWidthRel=205312
+frmHeightRel=101479
+frmWindowState=0
+frmTimeStamp="09.07.01 17:46:39"
+
+[fXYPlotGraphic]
+frmLeft=0
+frmTop=0
+frmWidth=439
+frmHeight=216
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=224768
+frmHeightRel=85289
+frmWindowState=0
+frmTimeStamp="13.07.01 14:21:25"
+
+[fTrackModeSettings]
+frmLeft=357
+frmTop=233
+frmWidth=401
+frmHeight=336
+frmLeftRel=182784
+frmTopRel=92002
+frmWidthRel=205312
+frmHeightRel=132672
+frmWindowState=0
+frmTimeStamp="13.07.01 14:21:25"
+
+[fColorScale]
+frmLeft=0
+frmTop=0
+frmWidth=219
+frmHeight=404
+frmLeftRel=0
+frmTopRel=0
+frmWidthRel=112128
+frmHeightRel=159523
+frmWindowState=0
+frmTimeStamp="13.07.01 14:21:25"
+
+[fChassis]
+frmLeft=914
+frmTop=353
+frmWidth=557
+frmHeight=436
+frmLeftRel=467968
+frmTopRel=139385
+frmWidthRel=285184
+frmHeightRel=172158
+frmWindowState=0
+frmTimeStamp="17.07.01 08:57:35"
+frmVisible=0
+
+[fOverview6]
+frmVisible=1
+frmLeft=3
+frmTop=960
+frmWidth=1408
+frmHeight=229
+frmLeftRel=1536
+frmTopRel=371152
+frmWidthRel=720896
+frmHeightRel=99176
+frmWindowState=0
+frmTimeStamp="31.07.01 10:37:01"
+frmVersion=2
+
+[fOverview7]
+frmVisible=1
+frmLeft=7
+frmTop=961
+frmWidth=1407
+frmHeight=234
+frmLeftRel=3584
+frmTopRel=371585
+frmWidthRel=720384
+frmHeightRel=101341
+frmWindowState=0
+frmTimeStamp="31.07.01 10:37:01"
+frmVersion=2
+
+[fOverview8]
+frmVisible=1
+frmLeft=8
+frmTop=959
+frmWidth=1408
+frmHeight=234
+frmLeftRel=4096
+frmTopRel=370719
+frmWidthRel=720896
+frmHeightRel=101341
+frmWindowState=0
+frmTimeStamp="31.07.01 10:37:01"
+frmVersion=2
+
+[fOverview9]
+frmVisible=1
+frmLeft=6
+frmTop=962
+frmWidth=1409
+frmHeight=221
+frmLeftRel=3072
+frmTopRel=372018
+frmWidthRel=721408
+frmHeightRel=95711
+frmWindowState=0
+frmTimeStamp="31.07.01 10:37:01"
+frmVersion=2
+
+[fAnalyzerProperties]
+frmLeft=412
+frmTop=230
+frmWidth=401
+frmHeight=257
+frmLeftRel=329600
+frmTopRel=106872
+frmWidthRel=320800
+frmHeightRel=178352
+frmWindowState=0
+frmTimeStamp="06.12.2001 12:08:30"
+frmVersion=2
+frmVisible=0
+
+[fExport]
+frmLeft=380
+frmTop=140
+frmWidth=479
+frmHeight=499
+frmLeftRel=304000
+frmTopRel=44414
+frmWidthRel=383200
+frmHeightRel=346294
+frmWindowState=0
+frmTimeStamp="06.12.2001 12:12:49"
+frmVersion=2
+frmVisible=0
+
+[fUser]
+frmLeft=429
+frmTop=192
+frmWidth=465
+frmHeight=334
+frmLeftRel=343200
+frmTopRel=80501
+frmWidthRel=372000
+frmHeightRel=231788
+frmWindowState=0
+frmTimeStamp="06.12.2001 12:12:49"
+frmVersion=2
+frmVisible=0
+
+[fTrackMode1]
+frmLeft=146
+frmTop=173
+frmWidth=989
+frmHeight=681
+frmLeftRel=93440
+frmTopRel=44298
+frmWidthRel=632960
+frmHeightRel=346746
+frmWindowState=0
+frmTimeStamp="08.02.2005 19:01:37"
+frmVersion=2
+frmVisible=0
+SettingsFileName="tm Brake.tms"
+
+[fSectionTimes1]
+frmLeft=316
+frmTop=226
+frmWidth=708
+frmHeight=387
+frmLeftRel=202240
+frmTopRel=71284
+frmWidthRel=453120
+frmHeightRel=197049
+frmWindowState=0
+frmTimeStamp="15.03.2004 16:01:38"
+frmVersion=2
+frmVisible=0
+grdSectionTimes.ColWidths[0]=80
+grdSectionTimes.ColWidths[1]=80
+grdSectionTimes.ColWidths[2]=80
+grdSectionTimes.ColWidths[3]=80
+grdSectionTimes.ColWidths[4]=80
+grdSectionTimes.ColWidths[5]=80
+
+[fFFT1]
+frmLeft=-540
+frmTop=648
+frmWidth=501
+frmHeight=350
+frmLeftRel=-345600
+frmTopRel=286154
+frmWidthRel=320640
+frmHeightRel=178210
+frmWindowState=0
+frmTimeStamp="17.03.2004 17:59:37"
+frmVersion=2
+frmVisible=0
+
+[fFFT]
+Background color=-2147483633
+Chart background color=16776960
+Stay on top=1
+Paint immediately=1
+
+[fXYPlot]
+Stay on top=1
+
+[fDialog]
+frmLeft=465
+frmTop=310
+frmWidth=321
+frmHeight=132
+frmLeftRel=297600
+frmTopRel=114054
+frmWidthRel=205440
+frmHeightRel=67211
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:42:21"
+frmVersion=2
+frmVisible=0
+
+[fXYPlot5_1]
+frmLeft=251
+frmTop=215
+frmWidth=405
+frmHeight=286
+frmLeftRel=200800
+frmTopRel=96463
+frmWidthRel=324000
+frmHeightRel=198477
+frmWindowState=0
+frmTimeStamp="14.02.2003 15:39:10"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=653
+twXYPlot.Top=248
+Color scale visible=1
+twColorScale.Left=681
+twColorScale.Top=358
+twColorScale.Width=121
+twColorScale.Height=131
+
+[fAnaGeneral]
+frmLeft=-8
+frmTop=81
+frmWidth=1544
+frmHeight=783
+frmLeftRel=-4267
+frmTopRel=-4757
+frmWidthRel=823467
+frmHeightRel=465557
+frmWindowState=0
+frmTimeStamp=1/23/2023 3:01:32 PM
+frmVersion=2
+frmLeftPercent=0
+frmTopPercent=0
+frmWidthPercent=100
+frmHeightPercent=100
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmOnMainMonitor=1
+
+[fMinMaxTable1]
+frmLeft=122
+frmTop=313
+frmWidth=756
+frmHeight=257
+frmLeftRel=78080
+frmTopRel=115582
+frmWidthRel=483840
+frmHeightRel=130857
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:42:40"
+frmVersion=2
+frmVisible=0
+Button bar=1
+SettingsFileName="mm Overall.mms"
+Show graphics=1
+
+[fMinMaxTable3]
+frmLeft=-153
+frmTop=255
+frmWidth=500
+frmHeight=205
+frmLeftRel=-97920
+frmTopRel=86050
+frmWidthRel=320000
+frmHeightRel=104380
+frmWindowState=0
+frmTimeStamp="04.03.2004 18:39:13"
+frmVersion=2
+frmVisible=0
+Button bar=1
+SettingsFileName="RPM.mms"
+
+[fQuickChannels]
+frmLeft=293
+frmTop=202
+frmWidth=615
+frmHeight=457
+frmLeftRel=187520
+frmTopRel=59064
+frmWidthRel=393600
+frmHeightRel=232691
+frmWindowState=0
+frmTimeStamp="15.03.2004 10:59:32"
+frmVersion=2
+frmVisible=0
+View type=1
+
+[fCalcShow]
+frmLeft=438
+frmTop=151
+frmWidth=601
+frmHeight=407
+frmLeftRel=233600
+frmTopRel=38870
+frmWidthRel=320533
+frmHeightRel=255164
+frmWindowState=0
+frmTimeStamp=2021. 03. 12. 21:11:04
+frmVersion=2
+frmVisible=0
+frmLeftPercent=29,0364583
+frmTopPercent=9,52380952
+frmWidthPercent=38,6067708
+frmHeightPercent=54,2857143
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+
+[fCalcShow_1]
+frmLeft=365
+frmTop=162
+frmWidth=501
+frmHeight=501
+frmLeftRel=233600
+frmTopRel=38697
+frmWidthRel=320640
+frmHeightRel=255095
+frmWindowState=0
+frmTimeStamp="08.03.2004 18:41:39"
+frmVersion=2
+frmVisible=0
+
+[fCalcShow_2]
+frmLeft=365
+frmTop=162
+frmWidth=501
+frmHeight=501
+frmLeftRel=233600
+frmTopRel=38697
+frmWidthRel=320640
+frmHeightRel=255095
+frmWindowState=0
+frmTimeStamp="08.03.2004 18:41:39"
+frmVersion=2
+frmVisible=0
+
+[fMinMaxTable2]
+frmLeft=243
+frmTop=184
+frmWidth=561
+frmHeight=185
+frmLeftRel=155520
+frmTopRel=49899
+frmWidthRel=359040
+frmHeightRel=94197
+frmWindowState=0
+frmTimeStamp="17.01.2005 12:16:32"
+frmVersion=2
+frmVisible=0
+Button bar=1
+SettingsFileName="mm Suspension.mms"
+Show graphics=1
+
+[fLapReport]
+frmLeft=111
+frmTop=170
+frmWidth=781
+frmHeight=401
+frmLeftRel=71040
+frmTopRel=42770
+frmWidthRel=499840
+frmHeightRel=204178
+frmWindowState=0
+frmTimeStamp="12.03.2004 17:22:28"
+frmVersion=2
+frmVisible=0
+grdCorners.ColWidths[0]=128
+grdCorners.ColWidths[1]=48
+grdCorners.ColWidths[2]=48
+grdCorners.ColWidths[3]=48
+grdCorners.ColWidths[4]=48
+grdCorners.ColWidths[5]=48
+grdCorners.ColWidths[6]=48
+grdCorners.ColWidths[7]=48
+grdCorners.ColWidths[8]=48
+grdCorners.ColWidths[9]=48
+
+[fShowKitSystemBitmap]
+frmLeft=105
+frmTop=61
+frmWidth=835
+frmHeight=618
+frmLeftRel=67200
+frmTopRel=-12729
+frmWidthRel=534400
+frmHeightRel=314668
+frmWindowState=0
+frmTimeStamp="08.02.2005 19:01:37"
+frmVersion=2
+frmVisible=0
+
+[fXYPlot0_1]
+frmLeft=219
+frmTop=223
+frmWidth=819
+frmHeight=594
+frmLeftRel=140160
+frmTopRel=69756
+frmWidthRel=524160
+frmHeightRel=302448
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:41:19"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=807
+twXYPlot.Top=266
+Color scale visible=1
+twColorScale.Left=284
+twColorScale.Top=278
+twColorScale.Width=121
+twColorScale.Height=135
+
+[fXYPlot23_1]
+frmLeft=251
+frmTop=287
+frmWidth=610
+frmHeight=459
+frmLeftRel=160640
+frmTopRel=102343
+frmWidthRel=390400
+frmHeightRel=233710
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:41:29"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=846
+twXYPlot.Top=187
+Color scale visible=1
+twColorScale.Left=299
+twColorScale.Top=331
+twColorScale.Width=121
+twColorScale.Height=135
+
+[fMultiCircuit]
+frmLeft=321
+frmTop=218
+frmWidth=401
+frmHeight=368
+frmLeftRel=205440
+frmTopRel=67136
+frmWidthRel=256640
+frmHeightRel=187168
+frmWindowState=0
+frmTimeStamp=15.10.2014 15:31:40
+frmVersion=2
+frmVisible=0
+Background color=16777215
+twXYPlot.Left=0
+twXYPlot.Top=0
+Show grid=0
+Tool window following=1
+Total map size=1
+Color scale position=2
+No border=0
+Opacity=255
+Transparent=0
+twXYPlot.DockedTo=1
+Display GPS map image=1
+Show defined GPS positions=1
+Display extended selection=1
+Use GPS=0
+AutoCenter=1
+Show total map=1
+
+[fXYPlot35_1]
+frmLeft=28
+frmTop=290
+frmWidth=792
+frmHeight=642
+frmLeftRel=17920
+frmTopRel=103871
+frmWidthRel=506880
+frmHeightRel=326888
+frmWindowState=0
+frmTimeStamp="08.02.2005 18:41:39"
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=666
+twXYPlot.Top=315
+Color scale visible=1
+twColorScale.Left=695
+twColorScale.Top=772
+twColorScale.Width=121
+twColorScale.Height=135
+
+[Channel context Overview Area1]
+Top=0
+Bottom=100
+
+[Channel context Overview Area2]
+Top=0
+Bottom=30
+
+[Channel context Overview Area3]
+Top=30
+Bottom=70
+
+[Channel context Overview Area4]
+Top=70
+Bottom=100
+
+[Template content]
+V_st=0
+Linked=0
+
+[fOneHistogram_0_0]
+frmLeft=735
+frmTop=39
+frmWidth=453
+frmHeight=408
+frmLeftRel=470400
+frmTopRel=18116
+frmWidthRel=289920
+frmHeightRel=189523
+frmWindowState=0
+frmTimeStamp=03.02.2009 18:53:49
+frmVersion=2
+
+[fOneHistogram_1_0]
+frmLeft=736
+frmTop=447
+frmWidth=453
+frmHeight=408
+frmLeftRel=471040
+frmTopRel=207639
+frmWidthRel=289920
+frmHeightRel=189523
+frmWindowState=0
+frmTimeStamp=03.02.2009 18:53:48
+frmVersion=2
+
+[fMinMaxTable1mm_GPS]
+frmLeft=243
+frmTop=184
+frmWidth=844
+frmHeight=316
+frmLeftRel=155520
+frmTopRel=49844
+frmWidthRel=540160
+frmHeightRel=160721
+frmWindowState=0
+frmTimeStamp=03.02.2009 18:53:03
+frmVersion=2
+frmVisible=0
+Button bar=1
+Show graphics=1
+No border=0
+
+[fStatusWindow]
+frmLeft=1122
+frmTop=319
+frmWidth=414
+frmHeight=185
+frmLeftRel=598400
+frmTopRel=144196
+frmWidthRel=220800
+frmHeightRel=115984
+frmLeftPercent=73,5677083
+frmTopPercent=32,3809524
+frmWidthPercent=26,4322917
+frmHeightPercent=24,0816327
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 22. 21:02:59
+frmVersion=2
+
+[fXYPlotManager3]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot3_1]
+frmLeft=152
+frmTop=80
+frmWidth=1230
+frmHeight=663
+frmLeftRel=81067
+frmTopRel=-5642
+frmWidthRel=656000
+frmHeightRel=415660
+frmLeftPercent=10,4166667
+frmTopPercent=-0,136054422
+frmWidthPercent=79,5572917
+frmHeightPercent=89,1156463
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 21:20:28
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager2]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot2_1]
+frmLeft=173
+frmTop=63
+frmWidth=1180
+frmHeight=672
+frmLeftRel=92267
+frmTopRel=-16300
+frmWidthRel=629333
+frmHeightRel=421303
+frmWindowState=0
+frmTimeStamp=2021. 03. 25. 21:23:46
+frmVersion=2
+Tools visible=1
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=31
+twColorScale.Width=121
+twColorScale.Height=131
+frmVisible=1
+frmLeftPercent=11,7838542
+frmTopPercent=-2,44897959
+frmWidthPercent=76,3020833
+frmHeightPercent=90,3401361
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
+
+[fXYPlotManager4]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot4_1]
+frmLeft=150
+frmTop=74
+frmWidth=1230
+frmHeight=660
+frmLeftRel=80000
+frmTopRel=-9404
+frmWidthRel=656000
+frmHeightRel=413780
+frmLeftPercent=10,2864583
+frmTopPercent=-0,952380952
+frmWidthPercent=79,5572917
+frmHeightPercent=88,707483
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 21:31:32
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager6]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot6_1]
+frmLeft=259
+frmTop=102
+frmWidth=966
+frmHeight=561
+frmLeftRel=138133
+frmTopRel=8150
+frmWidthRel=515200
+frmHeightRel=351713
+frmWindowState=0
+frmTimeStamp=2021. 03. 25. 21:33:13
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=31
+twColorScale.Width=121
+twColorScale.Height=135
+frmLeftPercent=17,3828125
+frmTopPercent=2,85714286
+frmWidthPercent=62,3697917
+frmHeightPercent=75,2380952
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
+
+[fXYPlotManager7]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot7_1]
+frmLeft=223
+frmTop=106
+frmWidth=1067
+frmHeight=612
+frmLeftRel=118933
+frmTopRel=10658
+frmWidthRel=569067
+frmHeightRel=383687
+frmLeftPercent=15,0390625
+frmTopPercent=3,40136054
+frmWidthPercent=68,9453125
+frmHeightPercent=82,1768707
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 21:33:36
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager8]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot8_1]
+frmLeft=244
+frmTop=116
+frmWidth=1032
+frmHeight=602
+frmLeftRel=130133
+frmTopRel=16927
+frmWidthRel=550400
+frmHeightRel=377417
+frmWindowState=0
+frmTimeStamp=2021. 03. 25. 21:34:03
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=31
+twColorScale.Width=121
+twColorScale.Height=135
+frmLeftPercent=16,40625
+frmTopPercent=4,76190476
+frmWidthPercent=66,6666667
+frmHeightPercent=80,8163265
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
+
+[fXYPlotManager9]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot9_1]
+frmLeft=191
+frmTop=94
+frmWidth=1098
+frmHeight=602
+frmLeftRel=101867
+frmTopRel=3135
+frmWidthRel=585600
+frmHeightRel=377417
+frmLeftPercent=12,9557292
+frmTopPercent=1,76870748
+frmWidthPercent=70,9635417
+frmHeightPercent=80,8163265
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 21:34:59
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager17]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot17_1]
+frmLeft=146
+frmTop=30
+frmWidth=1230
+frmHeight=660
+frmLeftRel=77867
+frmTopRel=-36989
+frmWidthRel=656000
+frmHeightRel=413780
+frmLeftPercent=10,0260417
+frmTopPercent=-6,93877551
+frmWidthPercent=79,5572917
+frmHeightPercent=88,707483
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 22:01:14
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager18]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot18_1]
+frmLeft=87
+frmTop=48
+frmWidth=1230
+frmHeight=660
+frmLeftRel=46400
+frmTopRel=-25704
+frmWidthRel=656000
+frmHeightRel=413780
+frmLeftPercent=6,18489583
+frmTopPercent=-4,48979592
+frmWidthPercent=79,5572917
+frmHeightPercent=88,707483
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 22:14:47
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlot18_2]
+frmLeft=141
+frmTop=675
+frmWidth=1230
+frmHeight=660
+frmLeftRel=75200
+frmTopRel=367386
+frmWidthRel=656000
+frmHeightRel=413780
+frmLeftPercent=9,70052083
+frmTopPercent=80,8163265
+frmWidthPercent=79,5572917
+frmHeightPercent=88,707483
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 22:14:47
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager20]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot20_1]
+frmLeft=153
+frmTop=82
+frmWidth=615
+frmHeight=660
+frmLeftRel=81600
+frmTopRel=-4389
+frmWidthRel=328000
+frmHeightRel=413780
+frmLeftPercent=10,4817708
+frmTopPercent=0,136054422
+frmWidthPercent=39,5182292
+frmHeightPercent=88,707483
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 22:18:33
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlot20_2]
+frmLeft=768
+frmTop=82
+frmWidth=615
+frmHeight=660
+frmLeftRel=409600
+frmTopRel=-4389
+frmWidthRel=328000
+frmHeightRel=413780
+frmLeftPercent=50,5208333
+frmTopPercent=0,136054422
+frmWidthPercent=39,5182292
+frmHeightPercent=88,707483
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 22:18:33
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager22]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot22_1]
+frmLeft=264
+frmTop=70
+frmWidth=997
+frmHeight=674
+frmLeftRel=140800
+frmTopRel=-11912
+frmWidthRel=531733
+frmHeightRel=422557
+frmLeftPercent=17,7083333
+frmTopPercent=-1,49659864
+frmWidthPercent=64,3880208
+frmHeightPercent=90,6122449
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 22:30:30
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlot22_2]
+frmLeft=768
+frmTop=82
+frmWidth=997
+frmHeight=674
+frmLeftRel=409600
+frmTopRel=-4389
+frmWidthRel=531733
+frmHeightRel=422557
+frmLeftPercent=50,5208333
+frmTopPercent=0,136054422
+frmWidthPercent=64,3880208
+frmHeightPercent=90,6122449
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 22:30:30
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager27]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot27_1]
+frmLeft=1138
+frmTop=82
+frmWidth=404
+frmHeight=352
+frmLeftRel=606933
+frmTopRel=-4162
+frmWidthRel=215467
+frmHeightRel=209292
+frmLeftPercent=74.609375
+frmTopPercent=0.129032258064516
+frmWidthPercent=25.78125
+frmHeightPercent=44.3870967741936
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=1/23/2023 3:00:36 PM
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+frmOnMainMonitor=1
+
+[fXYPlotManager15]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot15_1]
+frmLeft=103
+frmTop=68
+frmWidth=1230
+frmHeight=660
+frmLeftRel=54933
+frmTopRel=-13166
+frmWidthRel=656000
+frmHeightRel=413780
+frmLeftPercent=7,2265625
+frmTopPercent=-1,76870748
+frmWidthPercent=79,5572917
+frmHeightPercent=88,707483
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 23:00:40
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager26]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot26_1]
+frmLeft=202
+frmTop=57
+frmWidth=1146
+frmHeight=709
+frmLeftRel=107733
+frmTopRel=-20062
+frmWidthRel=611200
+frmHeightRel=444500
+frmLeftPercent=13,671875
+frmTopPercent=-3,26530612
+frmWidthPercent=74,0885417
+frmHeightPercent=95,3741497
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 03. 25. 23:14:02
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager30]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot30_1]
+frmLeft=194
+frmTop=65
+frmWidth=1162
+frmHeight=665
+frmLeftRel=103467
+frmTopRel=-15047
+frmWidthRel=619733
+frmHeightRel=416914
+frmWindowState=0
+frmTimeStamp=2021. 04. 02. 0:25:56
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=31
+twColorScale.Width=121
+twColorScale.Height=135
+frmLeftPercent=13,1510417
+frmTopPercent=-2,17687075
+frmWidthPercent=75,1302083
+frmHeightPercent=89,3877551
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
+
+[fXYPlotManager31]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot31_1]
+frmLeft=153
+frmTop=82
+frmWidth=1230
+frmHeight=660
+frmLeftRel=81600
+frmTopRel=-4389
+frmWidthRel=656000
+frmHeightRel=413780
+frmLeftPercent=10,4817708
+frmTopPercent=0,136054422
+frmWidthPercent=79,5572917
+frmHeightPercent=88,707483
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 04. 02. 0:26:59
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fXYPlotManager32]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot32_1]
+frmLeft=196
+frmTop=63
+frmWidth=1161
+frmHeight=670
+frmLeftRel=104533
+frmTopRel=-16300
+frmWidthRel=619200
+frmHeightRel=420049
+frmWindowState=0
+frmTimeStamp=2021. 04. 02. 0:27:57
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=31
+twColorScale.Width=121
+twColorScale.Height=135
+frmLeftPercent=13,28125
+frmTopPercent=-2,44897959
+frmWidthPercent=75,0651042
+frmHeightPercent=90,0680272
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
+
+[fXYPlotManager29]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlot29_1]
+frmLeft=153
+frmTop=82
+frmWidth=1125
+frmHeight=660
+frmLeftRel=81600
+frmTopRel=-4389
+frmWidthRel=600000
+frmHeightRel=413780
+frmLeftPercent=10,4817708
+frmTopPercent=0,136054422
+frmWidthPercent=72,7213542
+frmHeightPercent=88,707483
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 04. 02. 9:38:40
+frmVersion=2
+frmVisible=1
+Tools visible=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+twColorScale.Left=0
+twColorScale.Top=31
+Opacity=255
+Transparent=0
+
+[fStatusBits1statusbits_sbt]
+frmLeft=216
+frmTop=63
+frmWidth=379
+frmHeight=711
+frmLeftRel=115200
+frmTopRel=-16300
+frmWidthRel=202133
+frmHeightRel=445753
+frmLeftPercent=14,5833333
+frmTopPercent=-2,44897959
+frmWidthPercent=24,1536458
+frmHeightPercent=95,6462585
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 04. 21. 11:59:30
+frmVersion=2
+frmVisible=1
+No border=0
+grdStatusBits.ColWidths[0]=120
+grdStatusBits.ColWidths[1]=-1
+grdStatusBits.ColWidths[2]=120
+grdStatusBits.ColWidths[3]=119
+
+[Histogram-Instances]
+hg Susp_F_Speed=0
+hg Susp_R_Speed=1
+velocity=2
+steering=3
+Throttttle=4
+Damper_Vel=5
+Damper_Vel2=6
+Damper_Vel3=7
+Damper_Vel4=8
+
+[fHistogramManager]
+hg Susp_F_Speed.sts\Susp_F_speed=Statist_Smooth.sgs
+hg Susp_F_Speed.sts\Susp_F_speed ViewType=0
+hg Susp_R_Speed.sts\Susp_R_speed ViewType=0
+hg Susp_R_Speed.sts\Susp_R_speed=Statist_Smooth.sgs
+velocity.sts\VehicleSpeed=Statist.sgs
+velocity.sts\VehicleSpeed ViewType=0
+velocity.sts\VehicleSpeedNo border=0
+steering.sts\Steering_Angle_1=Statist.sgs
+steering.sts\Steering_Angle_1 ViewType=0
+steering.sts\Steering_Angle_1No border=0
+Throttttle.sts\Throttle_Position_2=Statist.sgs
+Throttttle.sts\Throttle_Position_2 ViewType=0
+Throttttle.sts\Throttle_Position_2No border=0
+Throttttle.sts\Throttle_Position_1=Statist.sgs
+Throttttle.sts\Throttle_Position_1 ViewType=0
+Throttttle.sts\Throttle_Position_1No border=0
+Damper_Vel.sts\Damper_Velocity_1=Statist.sgs
+Damper_Vel.sts\Damper_Velocity_1 ViewType=0
+Damper_Vel.sts\Damper_Velocity_1No border=0
+Damper_Vel2.sts\Damper_Velocity_2=Statist.sgs
+Damper_Vel2.sts\Damper_Velocity_2 ViewType=0
+Damper_Vel2.sts\Damper_Velocity_2No border=0
+Damper_Vel3.sts\Damper_Velocity_3=Statist.sgs
+Damper_Vel3.sts\Damper_Velocity_3 ViewType=0
+Damper_Vel3.sts\Damper_Velocity_3No border=0
+Damper_Vel4.sts\Damper_Velocity_4=Statist.sgs
+Damper_Vel4.sts\Damper_Velocity_4 ViewType=0
+Damper_Vel4.sts\Damper_Velocity_4No border=0
+
+[fOneHistogram_7_0]
+frmLeft=-8
+frmTop=515
+frmWidth=976
+frmHeight=523
+frmLeftRel=-3413
+frmTopRel=230400
+frmWidthRel=416427
+frmHeightRel=233979
+frmLeftPercent=0
+frmTopPercent=50,776699
+frmWidthPercent=50,4166667
+frmHeightPercent=50
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 05. 17. 22:39:27
+frmVersion=2
+
+[fTrackMode1_Temporary_TM_tms]
+frmLeft=-87
+frmTop=127
+frmWidth=1938
+frmHeight=1048
+frmLeftRel=-37120
+frmTopRel=12414
+frmWidthRel=826880
+frmHeightRel=520386
+frmLeftPercent=-4,11458333
+frmTopPercent=3,55603448
+frmWidthPercent=100,520833
+frmHeightPercent=112,068966
+NoBorder=0
+frmWindowState=2
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 05. 20. 12:00:58
+frmVersion=2
+frmVisible=1
+No border=0
+Opacity=255
+Transparent=0
+
+[fTrackMode]
+frmVisible=0
+frmLeft=294
+frmTop=317
+frmWidth=883
+frmHeight=637
+frmLeftRel=150528
+frmTopRel=125170
+frmWidthRel=452096
+frmHeightRel=251525
+frmWindowState=0
+frmTimeStamp=17.07.01 08:57:35
+Background color=0
+Section frame color=65280
+Corner frame color=16776960
+Phases start frame color=16711680
+Phases end frame color=8388608
+User frame color=65535
+Section text color=65280
+Corner text color=16776960
+Meter textcolor=16711935
+Time text color=32896
+Font.Name=MS Serif
+Font.Size=14
+Font.Style=
+Show sections=1
+Show corners=1
+Show phases start=1
+Show phases end=0
+Show user=0
+Inscript section=1
+Inscript corner=1
+Inscript meter=1
+Inscript time=0
+Inscript dimension=1
+Positions size=5
+Background=12632256
+Section color=0
+Stay on top=1
+
+[fTrackMode1trackm_vehiclespeed_tms]
+frmLeft=-9
+frmTop=-9
+frmWidth=1938
+frmHeight=1048
+frmLeftRel=-3840
+frmTopRel=-55117
+frmWidthRel=826880
+frmHeightRel=520386
+frmLeftPercent=-0,0520833333
+frmTopPercent=-11,0991379
+frmWidthPercent=100,520833
+frmHeightPercent=112,068966
+NoBorder=0
+frmWindowState=2
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 05. 20. 23:21:41
+frmVersion=2
+frmVisible=1
+No border=0
+Opacity=255
+Transparent=0
+
+[fXYPlotManager33]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[fXYPlotManager_1]
+frmLeft=674
+frmTop=278
+frmWidth=286
+frmHeight=251
+frmLeftRel=287573
+frmTopRel=87393
+frmWidthRel=122027
+frmHeightRel=124634
+frmWindowState=0
+frmTimeStamp=2021. 05. 28. 13:47:25
+frmVersion=2
+frmVisible=0
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+No border=0
+frmLeftPercent=35,5208333
+frmTopPercent=19,8275862
+frmWidthPercent=14,4791667
+frmHeightPercent=26,1853448
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+
+[fXYPlot33_1]
+frmLeft=-8
+frmTop=0
+frmWidth=976
+frmHeight=1038
+frmLeftRel=-3413
+frmTopRel=-50648
+frmWidthRel=416427
+frmHeightRel=515421
+frmWindowState=0
+frmTimeStamp=2021. 05. 28. 13:47:25
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=31
+twColorScale.Width=121
+twColorScale.Height=131
+frmLeftPercent=0
+frmTopPercent=-10,1293103
+frmWidthPercent=50,4166667
+frmHeightPercent=110,991379
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
+
+[fXYPlotManager34]
+Background color=0
+Highlight phases=0
+Highlight phases from Moving=1
+Show grid=1
+Mouse cross=1
+Measuring cross=1
+No border=0
+Display phases in status bar=1
+
+[XYPlot-Instances]
+_Temporary_XY=0
+bolintmerevseg=1
+rollmerevseg=2
+Pitch_Gradient=3
+Roll_Gradient_Rear=4
+roll_rear=5
+IDIQ4=6
+IDIQ3=7
+IDIQ1=8
+IDIQ2=9
+Acc Camm by GPS Current Lap=10
+motorchar1=11
+motorchar2=12
+motorchar3=13
+motorchar4=14
+aero map=15
+brakeforce_vs_ax=16
+Brake_Force_vs_Acc_X_Rear=17
+brakeforcevspress=18
+Brake_Force_vs_Pressure_Front=19
+Brake_Force_vs_Pressure=20
+RideHeight - Ax=21
+Ride_Height_vs_Acc_X_Rear=22
+rideheight=23
+rideheihght plus=24
+fek=25
+Brake_Pressure_Front_vs_Rear=26
+GG=27
+Damper_vs_Fz=28
+Damper_Fz_1=29
+Damper_Fz_2=30
+Damper_Fz_3=31
+Damper_Fz_4=32
+converted GG_rear=33
+converted GG_front=34
+
+[fXYPlotManager]
+frmLeft=673
+frmTop=301
+frmWidth=287
+frmHeight=285
+frmLeftRel=358933
+frmTopRel=126051
+frmWidthRel=153067
+frmHeightRel=169455
+frmWindowState=0
+frmTimeStamp=1/23/2023 3:00:36 PM
+frmVersion=2
+Background color=0
+Highlight phases=0
+Show grid=1
+Show mouse cross=0
+frmVisible=0
+No border=0
+frmLeftPercent=44.3359375
+frmTopPercent=28.3870967741935
+frmWidthPercent=18.1640625
+frmHeightPercent=35.741935483871
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmOnMainMonitor=1
+
+[fXYPlot34_1]
+frmLeft=952
+frmTop=0
+frmWidth=976
+frmHeight=1038
+frmLeftRel=406187
+frmTopRel=-50648
+frmWidthRel=416427
+frmHeightRel=515421
+frmWindowState=0
+frmTimeStamp=2021. 05. 28. 13:47:28
+frmVersion=2
+frmVisible=0
+Tools visible=1
+twXYPlot.Left=0
+twXYPlot.Top=0
+Color scale visible=1
+twColorScale.Left=0
+twColorScale.Top=31
+twColorScale.Width=121
+twColorScale.Height=135
+frmLeftPercent=50
+frmTopPercent=-10,1293103
+frmWidthPercent=50,4166667
+frmHeightPercent=110,991379
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+twXYPlot.DockedTo=1
+twXYPlot.DockRow=0
+twXYPlot.DockPos=0
+twColorScale.DockedTo=1
+twColorScale.DockRow=1
+twColorScale.DockPos=0
+Opacity=255
+Transparent=0
+
+[fPanning]
+frmVisible=1
+frmLeft=-6
+frmTop=85
+frmWidth=1546
+frmHeight=610
+frmWindowState=0
+Statusbar visible=1
+Laptriggers visible=1
+Laptimes visible=1
+Laptimes vertical=1
+Lapstarts unique=1
+Color scheme=0
+Background color=0
+Scaling color=16777215
+Lapstarts color=16711680
+Laptimes color=16777215
+Fastest lap color=255
+InOut lap color=32768
+Area count=4
+Measuring all channels=0
+Show grid=0
+frmLeftRel=-3200
+frmTopRel=-2378
+frmWidthRel=824533
+frmHeightRel=362694
+frmTimeStamp=1/23/2023 3:01:32 PM
+Area0=2
+Area1=3
+frmVersion=2
+Panel header=1
+Sections visible=0
+Segments visible=1
+UDMarkers=1
+UDMarkernames=1
+Sections color=16776960
+Area size0=57
+Corner numbers=1
+Corner names=0
+Segments vertical=0
+No border=0
+Display separate=0
+Display squared=0
+Display unstretched=0
+Show extrema=0
+PanelPanning size ratio=20.78947368
+frmLeftPercent=0.130208333333333
+frmTopPercent=0.516129032258065
+frmWidthPercent=100.130208333333
+frmHeightPercent=77.6774193548387
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmOnMainMonitor=1
+Area0_Channels=Steering_Angle_1
+Area size ratio0=11.80870445
+Area1_Channels=v_x
+Area size1=188
+Area size ratio1=38.98204175
+Area2_Channels=WheelSpeed_1,WheelSpeed_2,WheelSpeed_3,WheelSpeed_4
+Area size2=70
+Area size ratio2=14.60655054
+Area3_Channels=Throttle_Position_1,Brake_Force_Sensor
+Area size3=66
+Area size ratio3=13.81322957
+
+[Channel context Area1]
+Top=0
+Bottom=100
+
+[Channel context Area2]
+Top=0
+Bottom=15
+
+[Channel context Area3]
+Top=15
+Bottom=90
+
+[Channel context Area4]
+Top=90
+Bottom=100
+
+[fMinMaxTable1TestDataTemplate]
+frmLeft=-8
+frmTop=-8
+frmWidth=1552
+frmHeight=840
+frmLeftRel=-4267
+frmTopRel=-57674
+frmWidthRel=827733
+frmHeightRel=499448
+frmLeftPercent=0
+frmTopPercent=-11,483871
+frmWidthPercent=100,520833
+frmHeightPercent=107,354839
+NoBorder=0
+frmWindowState=2
+frmMonitorNum=0
+frmMonitorCount=1
+frmTimeStamp=2021. 09. 11. 15:18:53
+frmVersion=2
+frmVisible=1
+AreaGrid.ColWidths[0]=36
+AreaGrid.ColWidths[1]=72
+AreaGrid.ColWidths[2]=48
+AreaGrid.ColWidths[3]=-1
+AreaGrid.ColWidths[4]=-1
+AreaGrid.ColWidths[5]=64
+AreaGrid.ColWidths[6]=64
+AreaGrid.ColWidths[7]=64
+AreaGrid.ColWidths[8]=64
+AreaGrid.ColWidths[9]=64
+AreaGrid.ColWidths[10]=64
+AreaGrid.ColWidths[11]=64
+AreaGrid.ColWidths[12]=64
+AreaGrid.ColWidths[13]=64
+AreaGrid.ColWidths[14]=64
+AreaGrid.ColWidths[15]=64
+AreaGrid.ColWidths[16]=64
+AreaGrid.ColWidths[17]=64
+AreaGrid.ColWidths[18]=64
+AreaGrid.ColWidths[19]=64
+AreaGrid.ColWidths[20]=64
+AreaGrid.ColWidths[21]=64
+AreaGrid.ColWidths[22]=64
+AreaGrid.ColWidths[23]=64
+AreaGrid.ColWidths[24]=64
+AreaGrid.ColWidths[25]=64
+AreaGrid.ColWidths[26]=64
+AreaGrid.ColWidths[27]=64
+AreaGrid.ColWidths[28]=64
+AreaGrid.ColWidths[29]=64
+AreaGrid.ColWidths[30]=64
+AreaGrid.ColWidths[31]=64
+AreaGrid.ColWidths[32]=64
+AreaGrid.ColWidths[33]=64
+AreaGrid.ColWidths[34]=64
+AreaGrid.ColWidths[35]=64
+AreaGrid.ColWidths[36]=64
+AreaGrid.ColWidths[37]=64
+AreaGrid.ColWidths[38]=64
+AreaGrid.ColWidths[39]=64
+AreaGrid.ColWidths[40]=64
+Button bar=1
+Show graphics=1
+Vertical channel names=1
+No border=0
+AreaGrid.ColWidths[41]=64
+AreaGrid.ColWidths[42]=64
+AreaGrid.ColWidths[43]=64
+AreaGrid.ColWidths[44]=64
+AreaGrid.ColWidths[45]=64
+AreaGrid.ColWidths[46]=64
+AreaGrid.ColWidths[47]=64
+AreaGrid.ColWidths[48]=64
+AreaGrid.ColWidths[49]=64
+AreaGrid.ColWidths[50]=64
+AreaGrid.ColWidths[51]=64
+AreaGrid.ColWidths[52]=64
+AreaGrid.ColWidths[53]=64
+AreaGrid.ColWidths[54]=64
+AreaGrid.ColWidths[55]=64
+AreaGrid.ColWidths[56]=64
+frmOnMainMonitor=1
+AreaGrid.ColWidths[57]=64
+
+[fCalFile]
+frmLeft=121
+frmTop=127
+frmWidth=676
+frmHeight=544
+frmLeftRel=64533
+frmTopRel=22594
+frmWidthRel=360533
+frmHeightRel=323452
+frmWindowState=0
+frmTimeStamp=1/23/2023 3:01:32 PM
+frmVersion=2
+frmVisible=0
+grdCalEvent.ColWidths[0]=40
+grdCalEvent.ColWidths[1]=200
+grdCalMeasurement.ColWidths[0]=40
+grdCalMeasurement.ColWidths[1]=200
+gbChannelsRecalc.Width=181
+gbChannelsRecalc.Height=169
+grdCalDataRoot.ColWidths[0]=40
+grdCalDataRoot.ColWidths[1]=200
+grdCalRaceSoftware.ColWidths[0]=40
+grdCalRaceSoftware.ColWidths[1]=200
+frmLeftPercent=8.3984375
+frmTopPercent=5.93548387096774
+frmWidthPercent=43.4895833333333
+frmHeightPercent=69.1612903225806
+NoBorder=0
+frmMonitorNum=0
+frmMonitorCount=1
+grdCalDataRootNew.ColWidths[0]=76
+grdCalDataRootNew.ColWidths[1]=200
+grdCalEventNew.ColWidths[0]=76
+grdCalEventNew.ColWidths[1]=200
+grdCalMeasurementNew.ColWidths[0]=76
+grdCalMeasurementNew.ColWidths[1]=200
+grdCalRaceSoftwareNew.ColWidths[0]=76
+grdCalRaceSoftwareNew.ColWidths[1]=200
+grdCalSWSubFolderNew.ColWidths[0]=76
+grdCalSWSubFolderNew.ColWidths[1]=200
+Preview width=181
+Show preview=1
+frmOnMainMonitor=1
+
+[fSaveSetting]
+frmLeft=413
+frmTop=244
+frmWidth=309
+frmHeight=408
+frmLeftRel=176213
+frmTopRel=72073
+frmWidthRel=131840
+frmHeightRel=189714
+frmLeftPercent=21.9270833333333
+frmTopPercent=16.4480322906155
+frmWidthPercent=15.6770833333333
+frmHeightPercent=40.3632694248234
+NoBorder=0
+frmWindowState=0
+frmMonitorNum=0
+frmMonitorCount=1
+frmOnMainMonitor=1
+frmTimeStamp=1/22/2023 7:05:04 PM
+frmVersion=2
+frmVisible=0
+
+[Channel context Channels]
+0=Susp_F,1,0,0,0,0,0,0,0,0,0,0,0
+1=Susp_R,1,0,0,0,0,0,0,0,0,0,0,0
+2=Throttle,1,1,0,0,0,0,0,0,0,0,0,1
+3=Gear_Nr,2,1,0,0,0,0,0,0,0,0,0,1
+4=V_Front,1,1,0,0,0,0,0,0,0,0,0,1
+5=RPM,1,1,0,0,0,0,0,0,0,0,0,1
+6=Acceleration_X_Rear_Filtered,1,1,0,0,0,0,0,0,0,0,0,1
+7=Acceleration_Y_Rear_Filtered,1,1,0,0,0,0,0,0,0,0,0,1
+
+[Channel context Overview Channels]
+0=V_Front,0,1,0,0,0,0,0,0,0,0,0,1
+1=V_GPS_corrected,0,1,0,0,0,0,0,0,0,0,0,0
